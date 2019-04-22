@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+  crossorigin=""></script>
+  <script src="https://embed.github.com/view/geojson/9bow/Seoul-MatZip-2019/master/geo/감자탕.geojson"></script>
+  <style>
+    html, body {
+      padding: 0;
+      margin: 0;
+    }
+    #mapid {
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div id="mapid"></div>
+  <script>
+	 	var osmUrl = 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
+	 	    osmAttrib = '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	 	    osm = L.tileLayer(osmUrl, {
+	 	        maxZoom: 18,
+	 	        attribution: osmAttrib
+	 	    });
+	 	var map = L.map('mapid').setView([19.04469, 72.9258], 12).addLayer(osm);
+  </script>
+</body>
+</html>
