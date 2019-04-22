@@ -2,14 +2,14 @@
 
 ## 개요
 
-* 시사플러스에 게시된 [시사플러스 '2019 서울맛집'](http://m.sisaplusnews.com/news/articleView.html?idxno=22423) 기사의 맛집들을 지도 위에 표시하는 프로젝트입니다.
+* [시사플러스 '2019 서울맛집' 기사](http://m.sisaplusnews.com/news/articleView.html?idxno=22423)의 맛집들을 지도 위에 표시하는 프로젝트입니다.
+* 정확한 위치를 표시하기보다는 카테고리별 맛집의 분포 등을 재미삼아 보는 것을 목표로 하였습니다.
 * 이 프로젝트는 [Chang-Joo Park](https://github.com/ChangJoo-Park)님께서 먼저 제안하시고 GeoJSON 사용법 등을 보여주셨습니다. 감사합니다. (_ _)
-* 정확한 위치를 지도에 표시하기 보다는 카테고리별 맛집의 분포 등을 재미삼아 보고자 표시하였습니다.
 
 ## 정제
 
 * 기초 데이터는 [시사플러스 '2019 서울맛집'](http://m.sisaplusnews.com/news/articleView.html?idxno=22423)에서 가져왔습니다.
-* 전체 데이터 중 `1. 평양냉면`부터 `45. 돼지고기`까지 가져왔으며, 이후 데이터는 손을 많이 탈 것 같아 따로 정제하지 않았습니다.
+* 전체 데이터 중 `1. 평양냉면`부터 `45. 돼지고기`까지 가져왔으며, 이후 데이터는 수작업이 많을 것 같아 따로 정제하지 않았습니다.
 * 기초 데이터는 `동 이름` (` - ` `역 이름`) ` - ` `음식점 이름` (` - ` `기타`) 형태로 정리하였으며, 가게명만 있는 경우 모두 제외하였습니다.
   * (`45. 돼지고기`의 경우 소제목을 `기타`에 포함시켰습니다.)
 * 눈으로 보다가 확인한 오류들은 일부 수정하였습니다.
@@ -26,7 +26,7 @@
 ## 코드
 
 * 전체 코드는 [Seoul-MatZip-2019.ipynb](https://nbviewer.jupyter.org/github/9bow/Seoul-MatZip-2019/blob/master/Seoul-MatZip-2019.ipynb)에서 보실 수 있습니다.
-  * 실행을 하기 위해서는 Kakao API Key가 필요합니다.
+  * Python 코드이며, 실행을 하기 위해서는 Jupyter Notebook과 Kakao API Key가 필요합니다.
 
 ## 결과
 
