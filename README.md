@@ -18,10 +18,15 @@
 ## 검색
 
 * 식당 검색에는 [Kakao 지도/로컬 API](https://developers.kakao.com/features/platform#%EC%A7%80%EB%8F%84-%EB%A1%9C%EC%BB%AC)를 사용하였습니다.
-  * 검색 시 음식점 카테고리(FD6)로 검색하였습니다.
+  * [키워드로 장소 검색 API](https://developers.kakao.com/docs/restapi/local#%ED%82%A4%EC%9B%8C%EB%93%9C-%EA%B2%80%EC%83%89)를 사용하였고, 검색 시 음식점 카테고리(FD6)로 검색하였습니다.
   * `동 이름`과 `음식점 이름`으로 검색하였으며 `음식점 이름`에 괄호가 있는 경우 괄호 및 괄호 안의 내용은 무시합니다.
   * 검색 결과의 첫번째 값을 사용하였으며 없는 경우에는 무시합니다.
 * [GeoJSON](https://tools.ietf.org/html/rfc7946) 형태로 정리하였습니다.
+
+## 코드
+
+* 전체 코드는 [Seoul-MatZip-2019.ipynb](https://nbviewer.jupyter.org/github/9bow/Seoul-MatZip-2019/blob/master/Seoul-MatZip-2019.ipynb)에서 보실 수 있습니다.
+  * 실행을 하기 위해서는 Kakao API Key가 필요합니다.
 
 ## 결과
 
@@ -70,4 +75,3 @@
 * [생선구이&조림](geo/생선구이&조림.geojson)
 * [돼지갈비](geo/돼지갈비.geojson)
 * [돼지고기](geo/돼지고기.geojson)
-*
