@@ -1,0 +1,4 @@
+[submodule "_site"]
+	path = _site
+	url = git@github.com:9bow/Seoul-MatZip-2019.git
+	branch = gh-pages
