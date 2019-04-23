@@ -90,6 +90,9 @@ var main = function () {
             layer.bindPopup(feature.properties.name);
           }
         }).addTo(map);
+
+        map.fitBounds(currentLayer.getBounds());
+
         if (dataSelect.val()) {
           $('#bottom-sheet').addClass('appear')
         }
