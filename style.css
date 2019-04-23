@@ -93,6 +93,6 @@ body {
   margin-right: 1px;
 }
 
-.item-popup .btn a {
+.item-popup a.btn {
   color: #fff;
 }
