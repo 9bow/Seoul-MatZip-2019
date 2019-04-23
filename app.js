@@ -98,11 +98,12 @@ var main = function () {
 
         const elements = data.features.map(function (item) {
           return `
-          <div class="item card" style="width: 18rem;">
+          <div id="place_${item.properties.pid}" class="item card" style="width: 18rem;">
             <div class="card-body">
               <h5 class="card-title">${item.properties.name}</h5>
               <p class="card-text">
                 <b>주소</b>: ${item.properties.address} <br />
+                <b>전화</b>: ${item.properties.phone} <br />
                 <b>원문</b>: ${item.properties.source}
               </p>
               <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
