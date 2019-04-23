@@ -2,11 +2,6 @@ var main = function () {
   $(document).ready(function () {
     $('#bottom-sheet #opener').click(function() {
       $('#bottom-sheet').toggleClass('active')
-      if ($('#bottom-sheet').hasClass('active')) {
-        $("#opener").text('닫기')
-      } else {
-        $("#opener").text('열기')
-      }
     })
     var INITIAL_MAP_OPTION = {
       center: [37.5662952, 126.9429262], // 서울 시청
@@ -90,9 +85,13 @@ var main = function () {
             layer.bindPopup(feature.properties.name);
           }
         }).addTo(map);
+
         if (dataSelect.val()) {
           $('#bottom-sheet').addClass('appear')
         }
+
+        $("#opener").text(`${dataSelect.val()} 보기 (${data.features.length}곳)`)
+
         const elements = data.features.map(function (item) {
           return `
           <div class="item card" style="width: 18rem;">

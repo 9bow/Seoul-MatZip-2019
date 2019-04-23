@@ -18,10 +18,12 @@ body {
 }
 
 #data {
+  background-color: #fff;
+  border: 1px solid #333;
   position: fixed;
   top: 10px;
   right: 10px;
-  width: 200px;
+  width: 150px;
   z-index: 100;
 }
 
