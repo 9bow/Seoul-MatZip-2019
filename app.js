@@ -91,9 +91,6 @@ var main = function () {
           }
         }).addTo(map);
 
-        // Make Items
-        console.log(data.features)
-
         const elements = data.features.map(function (item) {
           return `
           <div class="item card" style="width: 18rem;">
@@ -127,7 +124,7 @@ var main = function () {
       L.marker(e.latlng, {
         icon: myIcon
       }).addTo(map)
-        .bindPopup("You are within " + radius + " meters from this point").openPopup();
+        .bindPopup("상단의 카테고리 선택을 눌러주세요 (__ )").openPopup();
 
       L.circle(e.latlng, radius).addTo(map);
     }
