@@ -1,9 +1,14 @@
 var main = function () {
   $(document).ready(function () {
-    var map = L.map('map', {
-      center: [37.5662952, 126.9429262],
+    $('#bottom-sheet #opener').click(function() {
+      $('#bottom-sheet').toggleClass('active')
+    })
+    var INITIAL_MAP_OPTION = {
+      center: [37.5662952, 126.9429262], // 서울 시청
       zoom: 13
-    });
+    };
+
+    var map = L.map('map', INITIAL_MAP_OPTION);
     var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/";
     var data = [
       "평양냉면"
@@ -70,6 +75,9 @@ var main = function () {
       options[options.length] = new Option(text, text);
     });
 
+    /**
+     * Selector가 변경되었을 때 (음식 종류가 바뀌었을 때) 발생
+     */
     dataSelect.on('change', function () {
       $.getJSON(data_url + dataSelect.val() + ".geojson", function (data) {
         L.geoJson(data, {
@@ -77,6 +85,26 @@ var main = function () {
             layer.bindPopup(feature.properties.name);
           }
         }).addTo(map);
+
+        // Make Items
+        console.log(data.features)
+
+        const elements = data.features.map(function (item) {
+          return `
+          <div class="item card" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title">${item.properties.name}</h5>
+              <p class="card-text">
+                ${item.properties.address}
+              </p>
+              <a href="${item.properties.website}" target="_blank" class="btn btn-light">
+                카카오 플레이스에서 보기
+              </a>
+            </div>
+          </div>
+          `
+        })
+        $('#listing').html(elements)
       });
     })
 
@@ -86,12 +114,9 @@ var main = function () {
       var radius = e.accuracy / 2;
       var myIcon = L.icon({
         iconUrl: 'icon.png',
-        iconSize: [40, 40],
-        iconAnchor: [20, 20],
-        popupAnchor: [-3, -3],
-        shadowUrl: 'my-icon-shadow.png',
-        shadowSize: [10, 10],
-        shadowAnchor: [20, 20]
+        iconSize: [32, 32],
+        iconAnchor: [16, 16],
+        popupAnchor: [-3, -3]
      });
 
       L.marker(e.latlng, {
