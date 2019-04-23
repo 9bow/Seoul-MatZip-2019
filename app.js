@@ -8,7 +8,7 @@ var main = function () {
       zoom: 14
     };
     var CURR_POS;
-
+    var currentLayer;
     var map = L.map('map', INITIAL_MAP_OPTION);
     var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/";
     var data = [
@@ -81,12 +81,15 @@ var main = function () {
      */
     dataSelect.on('change', function () {
       $.getJSON(data_url + dataSelect.val() + ".geojson", function (data) {
-        L.geoJson(data, {
+        // 현재 레이어가 있다면 데이터를 받은 후 정리합니다.
+        if (currentLayer) {
+          map.removeLayer(currentLayer)
+        }
+        currentLayer = L.geoJson(data, {
           onEachFeature: function (feature, layer) {
             layer.bindPopup(feature.properties.name);
           }
         }).addTo(map);
-
         if (dataSelect.val()) {
           $('#bottom-sheet').addClass('appear')
         }
@@ -136,7 +139,6 @@ var main = function () {
         icon: myIcon
       }).addTo(map)
         .bindPopup("상단의 카테고리 선택을 눌러주세요!").openPopup();
-
       L.circle(e.latlng, radius).addTo(map);
     }
 
