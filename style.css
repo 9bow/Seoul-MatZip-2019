@@ -50,6 +50,7 @@ body {
   flex-direction: column;
   display: none;
 }
+
 #bottom-sheet.appear {
   display: block;
 }
@@ -79,4 +80,15 @@ body {
 #bottom-sheet .item.card {
   width: 100% !important;
   margin-bottom: 1rem;
+}
+
+#bottom-sheet div.ad-moim {
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: 10px;
+}
+#bottom-sheet div.ad-moim img {
+  height: 0.9rem;
+  margin-left: 3px;
+  margin-right: 1px;
 }

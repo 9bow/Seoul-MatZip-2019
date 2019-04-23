@@ -1,11 +1,11 @@
 var main = function () {
   $(document).ready(function () {
-    $('#bottom-sheet #opener').click(function() {
+    $('#bottom-sheet #opener').click(function () {
       $('#bottom-sheet').toggleClass('active')
     })
     var INITIAL_MAP_OPTION = {
       center: [37.5662952, 126.9429262], // 서울 시청
-      zoom: 13
+      zoom: 14
     };
 
     var map = L.map('map', INITIAL_MAP_OPTION);
@@ -98,10 +98,14 @@ var main = function () {
             <div class="card-body">
               <h5 class="card-title">${item.properties.name}</h5>
               <p class="card-text">
-                ${item.properties.address}
+                <b>주소</b>: ${item.properties.address} <br />
+                <b>원문</b>: ${item.properties.source}
               </p>
-              <a href="${item.properties.website}" target="_blank" class="btn btn-light">
-                카카오 플레이스에서 보기
+              <a href="http://map.daum.net/link/to/${item.properties.name},${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}" target="_blank" class="btn btn-warning">
+                길찾기
+              </a>
+              <a href="${item.properties.website}" target="_blank" class="btn btn-info">
+                상세정보
               </a>
             </div>
           </div>
@@ -120,12 +124,12 @@ var main = function () {
         iconSize: [32, 32],
         iconAnchor: [16, 16],
         popupAnchor: [-3, -3]
-     });
+      });
 
       L.marker(e.latlng, {
         icon: myIcon
       }).addTo(map)
-        .bindPopup("상단의 카테고리 선택을 눌러주세요 (__ )").openPopup();
+        .bindPopup("상단의 카테고리 선택을 눌러주세요!").openPopup();
 
       L.circle(e.latlng, radius).addTo(map);
     }
