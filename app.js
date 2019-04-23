@@ -98,7 +98,7 @@ var main = function () {
                   <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
                     Kakao 길찾기
                   </a>
-                  <a href="tmap://?rGoName=${feature.properties.name}&rGoX=${feature.geometry.coordinates[0]}&rGoY=${feature.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+                  <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${feature.properties.name}&lon=${feature.geometry.coordinates[0]}&lat=${feature.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
                     Tmap 길찾기
                   </a>
                 </div>
@@ -134,7 +134,7 @@ var main = function () {
               <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
                 Kakao 길찾기
               </a>
-              <a href="tmap://?rGoName=${item.properties.name}&rGoX=${item.geometry.coordinates[0]}&rGoY=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+              <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
                 Tmap 길찾기
               </a>
             </div>
