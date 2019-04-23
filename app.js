@@ -158,7 +158,6 @@ var main = function () {
         popupAnchor: [-3, -3]
       });
       CURR_POS = e.latlng;
-      console.log(CURR_POS);
 
       L.marker(e.latlng, {
         icon: myIcon
