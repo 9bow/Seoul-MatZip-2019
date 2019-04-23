@@ -105,10 +105,10 @@ var main = function () {
               <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
                 상세정보
               </a>
-              <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=PUBLICTRANSIT" target="_blank" class="btn btn-warning btn-sm">
+              <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
                 Kakao 길찾기
               </a>
-              <a href="tmap://?rGoName=${item.properties.name}&rGoX=${item.geometry.coordinates[0]}&rGoY=${item.geometry.coordinates[1]}&by=PUBLICTRANSIT" target="_blank" class="btn btn-danger btn-sm">
+              <a href="tmap://?rGoName=${item.properties.name}&rGoX=${item.geometry.coordinates[0]}&rGoY=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
                 Tmap 길찾기
               </a>
             </div>
