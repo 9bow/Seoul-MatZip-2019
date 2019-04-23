@@ -70,7 +70,6 @@ var main = function () {
 
     var dataSelect = $('#data');
     var options = (dataSelect.prop) ? dataSelect.prop('options') : dataSelect.attr('options');
-    // $('option', dataSelect).remove();
 
     $.each(data, function (val, text) {
       options[options.length] = new Option(text, text);
