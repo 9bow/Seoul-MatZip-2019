@@ -92,6 +92,7 @@ var main = function () {
             const popupContent = `
               <div class="item-popup">
                 <h3>${feature.properties.name}</h3>
+                <p><b>주소</b>: ${item.properties.address} <br /></p>
                 <div>
                   <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
                     상세정보
@@ -123,7 +124,7 @@ var main = function () {
               <h5 class="card-title">${item.properties.name}</h5>
               <p class="card-text">
                 <b>주소</b>: ${item.properties.address} <br />
-                <b>전화</b>: ${item.properties.phone} <br />
+                <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone} <br />
                 <b>원문</b>: ${item.properties.source}
               </p>
               <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
