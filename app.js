@@ -59,14 +59,17 @@ var main = function () {
       , "돼지고기"
     ]
 
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiOWJvdyIsImEiOiJjanV0NW53N2EwNGs2NDR0MHV1emJ1dm53In0.4Hg4JcruGTJaJ6QTFEovvg', {
-      maxZoom: 18,
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-        '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-        'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-      id: 'mapbox.streets'
-    }).addTo(map);
+    // MapBox 지도
+    // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiOWJvdyIsImEiOiJjanV0NW53N2EwNGs2NDR0MHV1emJ1dm53In0.4Hg4JcruGTJaJ6QTFEovvg', {
+    //   maxZoom: 18,
+    //   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+    //     '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    //     'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    //   id: 'mapbox.streets'
+    // }).addTo(map);
 
+    // 공간정보 지도
+    L.tileLayer.provider('VWorld.Street').addTo(map);
 
     var dataSelect = $('#data');
     var options = (dataSelect.prop) ? dataSelect.prop('options') : dataSelect.attr('options');
