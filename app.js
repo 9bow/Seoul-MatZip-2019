@@ -92,7 +92,8 @@ var main = function () {
             const popupContent = `
               <div class="item-popup">
                 <h3>${feature.properties.name}</h3>
-                <p><b>주소</b>: ${feature.properties.address} <br /></p>
+                <b>주소</b>: ${feature.properties.address} <br />
+                <b>전화</b>: <a href="tel:${feature.properties.phone}">${feature.properties.phone}</a> <br />
                 <div>
                   <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
                     상세정보
