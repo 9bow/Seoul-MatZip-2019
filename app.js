@@ -90,7 +90,9 @@ var main = function () {
             layer.bindPopup(feature.properties.name);
           }
         }).addTo(map);
-
+        if (dataSelect.val()) {
+          $('#bottom-sheet').addClass('appear')
+        }
         const elements = data.features.map(function (item) {
           return `
           <div class="item card" style="width: 18rem;">
