@@ -92,3 +92,7 @@ body {
   margin-left: 3px;
   margin-right: 1px;
 }
+
+.item-popup a {
+  color: #fff;
+}

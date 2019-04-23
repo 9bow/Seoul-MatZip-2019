@@ -89,7 +89,22 @@ var main = function () {
         }
         currentLayer = L.geoJson(data, {
           onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.name);
+            const popupContent = `
+              <div class="item-popup">
+                <h3>${feature.properties.name}</h3>
+                <div>
+                  <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
+                    상세정보
+                  </a>
+                  <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+                    Kakao 길찾기
+                  </a>
+                </div>
+              </div>
+
+            `
+            // layer.bindPopup(feature.properties.name);
+            layer.bindPopup(popupContent);
           }
         }).addTo(map);
 
