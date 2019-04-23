@@ -1,10 +1,13 @@
 # 시사플러스 2019 서울맛집 지도화
 
+### 현재 위치에서 가까운 맛집을 [mz.moim.at](https://mz.moim.at)에서 확인하실 수 있습니다. (위치 권한 필요)
+
 ## 개요
 
 * [시사플러스 '2019 서울맛집' 기사](http://m.sisaplusnews.com/news/articleView.html?idxno=22423)의 맛집들을 지도 위에 표시하는 프로젝트입니다.
 * 정확한 위치를 표시하기보다는 카테고리별 맛집의 분포 등을 재미삼아 보는 것을 목표로 하였습니다.
 * 이 프로젝트는 [Chang-Joo Park](https://github.com/ChangJoo-Park)님께서 먼저 제안하시고 GeoJSON 사용법 등을 보여주셨습니다. 감사합니다. (_ _)
+* 잘못된 정보나 기능 추가는 [Issue](https://github.com/9bow/Seoul-MatZip-2019/issues) 또는 [Pull Request](https://github.com/9bow/Seoul-MatZip-2019/pulls) 부탁드립니다.
 
 ## 정제
 
@@ -25,10 +28,11 @@
 
 ## 코드
 
-* 전체 코드는 [Seoul-MatZip-2019.ipynb](https://nbviewer.jupyter.org/github/9bow/Seoul-MatZip-2019/blob/master/Seoul-MatZip-2019.ipynb)에서 보실 수 있습니다.
+* 데이터 검색을 위한 전체 코드는 [Seoul-MatZip-2019.ipynb](https://nbviewer.jupyter.org/github/9bow/Seoul-MatZip-2019/blob/master/Seoul-MatZip-2019.ipynb)에서 보실 수 있습니다.
   * Python 코드이며, 실행을 하기 위해서는 Jupyter Notebook과 Kakao API Key가 필요합니다.
+* [mz.moim.at](https://mz.moim.at)의 소스코드는 [gh-pages 브랜치](https://github.com/9bow/Seoul-MatZip-2019/tree/gh-pages)에서 보실 수 있습니다.
 
-## 결과
+## 결과 (GeoJSON 형태)
 
 * [평양냉면](geo/평양냉면.geojson)
 * [메밀국수(소바)](geo/메밀국수(소바).geojson)
@@ -75,3 +79,7 @@
 * [생선구이&조림](geo/생선구이&조림.geojson)
 * [돼지갈비](geo/돼지갈비.geojson)
 * [돼지고기](geo/돼지고기.geojson)
+
+## 결과 (지도 형태)
+
+* 현재 위치에서 가까운 맛집을 [mz.moim.at](https://mz.moim.at)에서 확인하실 수 있습니다. (위치 권한 필요)
