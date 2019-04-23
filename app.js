@@ -7,6 +7,7 @@ var main = function () {
       center: [37.5662952, 126.9429262], // 서울 시청
       zoom: 14
     };
+    var CURR_POS;
 
     var map = L.map('map', INITIAL_MAP_OPTION);
     var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/";
@@ -101,11 +102,14 @@ var main = function () {
                 <b>주소</b>: ${item.properties.address} <br />
                 <b>원문</b>: ${item.properties.source}
               </p>
-              <a href="http://map.daum.net/link/to/${item.properties.name},${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}" target="_blank" class="btn btn-warning">
-                길찾기
-              </a>
-              <a href="${item.properties.website}" target="_blank" class="btn btn-info">
+              <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
                 상세정보
+              </a>
+              <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=PUBLICTRANSIT" target="_blank" class="btn btn-warning btn-sm">
+                Kakao 길찾기
+              </a>
+              <a href="tmap://?rGoName=${item.properties.name}&rGoX=${item.geometry.coordinates[0]}&rGoY=${item.geometry.coordinates[1]}&by=PUBLICTRANSIT" target="_blank" class="btn btn-danger btn-sm">
+                Tmap 길찾기
               </a>
             </div>
           </div>
@@ -125,6 +129,8 @@ var main = function () {
         iconAnchor: [16, 16],
         popupAnchor: [-3, -3]
       });
+      CURR_POS = e.latlng;
+      console.log(CURR_POS);
 
       L.marker(e.latlng, {
         icon: myIcon
