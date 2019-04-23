@@ -90,7 +90,7 @@ var main = function () {
           $('#bottom-sheet').addClass('appear')
         }
 
-        $("#opener").text(`${dataSelect.val()} 보기 (${data.features.length}곳)`)
+        $("#opener").text(`${dataSelect.val()} 목록 보기 (${data.features.length}곳)`)
 
         const elements = data.features.map(function (item) {
           return `
