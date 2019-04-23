@@ -34,7 +34,7 @@ body {
   z-index: 100;
   background-color:rgba(255,255,255,1);
   transition: transform 0.2s ease-in;
-  transform: translateY(calc(100vh - 70px));
+  transform: translateY(90%);
   overflow: auto;
   display: flex;
   flex-direction: column;
