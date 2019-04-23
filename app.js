@@ -125,7 +125,7 @@ var main = function () {
       L.marker(e.latlng, {
         icon: myIcon
       }).addTo(map)
-        .bindPopup("상단의 카테고리 선택을 눌러주세요 (__ )").openPopup();
+        .bindPopup("아래의 카테고리 선택을 눌러주세요 (__ )").openPopup();
 
       L.circle(e.latlng, radius).addTo(map);
     }
