@@ -2,6 +2,11 @@ var main = function () {
   $(document).ready(function () {
     $('#bottom-sheet #opener').click(function() {
       $('#bottom-sheet').toggleClass('active')
+      if ($('#bottom-sheet').hasClass('active')) {
+        $("#opener").text('닫기')
+      } else {
+        $("#opener").text('열기')
+      }
     })
     var INITIAL_MAP_OPTION = {
       center: [37.5662952, 126.9429262], // 서울 시청
