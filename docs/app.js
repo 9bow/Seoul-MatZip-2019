@@ -48,6 +48,10 @@ var main = function () {
     , "돼지고기"
   ]
   var DEFAULT_SELECT_OPTION = '카테고리 선택'
+  var LAYER_TYPES = {
+    init: 'init',
+    category: 'category',
+  }
   var INITIAL_MAP_OPTION = {
     center: [37.5662952, 126.9429262], // 서울 시청
     zoom: 14
@@ -110,21 +114,28 @@ var main = function () {
       }
 
       $.getJSON(data_url + $dataSelect.val() + ".geojson", function (data) {
-        // 현재 레이어가 있다면 데이터를 받은 후 정리합니다.
-        if (currentLayer) {
-          map.removeLayer(currentLayer)
-        }
-        currentLayer = L.geoJson(data, {
-          onEachFeature: function (feature, layer) {
-            layer.bindPopup(makeMarkerPopup(feature))
-          }
-        }).addTo(map)
-
-        map.fitBounds(currentLayer.getBounds())
-        $("#opener").text(`${$dataSelect.val()} 목록 보기 (${data.features.length}곳)`)
-        $('#listing').html(data.features.map(makeListElement))
+        drawMarkers(LAYER_TYPES, $dataSelect.val(), data)
       })
     })
+  }
+
+  function drawMarkers (type, selected, data) {
+      if (currentLayer) {
+        map.removeLayer(currentLayer)
+      }
+
+      currentLayer = L.geoJson(data, {
+        onEachFeature: function (feature, layer) {
+          layer.bindPopup(makeMarkerPopup(feature))
+        }
+      }).addTo(map)
+
+      $("#opener").text(`${selected} 목록 보기 (${data.features.length}곳)`)
+      $('#listing').html(data.features.map(makeListElement))
+
+      if (type === LAYER_TYPES.category) {
+        map.fitBounds(currentLayer.getBounds())
+      }
   }
 
   /**
@@ -166,7 +177,6 @@ var main = function () {
         <p class="card-text">
           <b>주소</b>: ${item.properties.address} <br />
           <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br />
-          <b>원문</b>: ${item.properties.source}
         </p>
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
           상세정보
@@ -198,22 +208,7 @@ var main = function () {
         alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.")
         return
       }
-
-      // 현재 레이어가 있다면 데이터를 받은 후 정리합니다.
-      if (currentLayer) {
-        map.removeLayer(currentLayer)
-      }
-
-      currentLayer = L.geoJson(data, {
-        onEachFeature: function (feature, layer) {
-          layer.bindPopup(makeMarkerPopup(feature))
-        }
-      }).addTo(map)
-
-      $("#opener").text(`주변 맛집 목록 보기 (${data.features.length}곳)`)
-
-      const elements = data.features.map(makeListElement)
-      $('#listing').html(elements)
+      drawMarkers(LAYER_TYPES, '내 주변', data)
     })
   }
 
