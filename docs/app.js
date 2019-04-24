@@ -106,7 +106,7 @@ var main = function () {
     */
     $dataSelect.on('change', function () {
       if ($dataSelect.val() === DEFAULT_SELECT_OPTION) {
-        map.setView(new L.LatLng(MY_POS.lat, MY_POS.lng), 16);
+        map.setView(new L.LatLng(MY_POS.lat, MY_POS.lng), 16)
         setTimeout(function () {
           onMapMoveEnd()
         }, 500)
