@@ -7,7 +7,7 @@ var main = function () {
       center: [37.5662952, 126.9429262], // 서울 시청
       zoom: 14
     };
-    var CURR_POS = {lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1]};
+    var CURR_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] };
     var currentLayer;
     var map = L.map('map', INITIAL_MAP_OPTION);
     var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/";
@@ -76,8 +76,8 @@ var main = function () {
     });
 
     /**
-     * Selector가 변경되었을 때 (음식 종류가 바뀌었을 때) 발생
-     */
+    * Selector가 변경되었을 때 (음식 종류가 바뀌었을 때) 발생
+    */
     dataSelect.on('change', function () {
       $.getJSON(data_url + dataSelect.val() + ".geojson", function (data) {
         // 현재 레이어가 있다면 데이터를 받은 후 정리합니다.
@@ -87,24 +87,24 @@ var main = function () {
         currentLayer = L.geoJson(data, {
           onEachFeature: function (feature, layer) {
             const popupContent = `
-              <div class="item-popup">
-                <h3>${feature.properties.name}</h3>
-                <b>주소</b>: ${feature.properties.address} <br />
-                <b>전화</b>: <a href="tel:${feature.properties.phone}">${feature.properties.phone}</a> <br /> <br />
-                <div>
-                  <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
-                    상세정보
-                  </a>
-                  <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
-                    Kakao 길찾기
-                  </a>
-                  <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${feature.properties.name}&lon=${feature.geometry.coordinates[0]}&lat=${feature.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
-                    Tmap 길찾기
-                  </a>
-                </div>
-              </div>
+          <div class="item-popup">
+          <h3>${feature.properties.name}</h3>
+          <b>주소</b>: ${feature.properties.address} <br />
+          <b>전화</b>: <a href="tel:${feature.properties.phone}">${feature.properties.phone}</a> <br /> <br />
+          <div>
+          <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
+          상세정보
+          </a>
+          <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+          Kakao 길찾기
+          </a>
+          <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${feature.properties.name}&lon=${feature.geometry.coordinates[0]}&lat=${feature.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+          Tmap 길찾기
+          </a>
+          </div>
+          </div>
 
-            `
+          `
             // layer.bindPopup(feature.properties.name);
             layer.bindPopup(popupContent);
           }
@@ -120,31 +120,105 @@ var main = function () {
 
         const elements = data.features.map(function (item) {
           return `
-          <div id="place_${item.properties.pid}" class="item card" style="width: 18rem;">
-            <div class="card-body">
-              <h5 class="card-title">${item.properties.name}</h5>
-              <p class="card-text">
-                <b>주소</b>: ${item.properties.address} <br />
-                <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br />
-                <b>원문</b>: ${item.properties.source}
-              </p>
-              <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
-                상세정보
-              </a>
-              <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
-                Kakao 길찾기
-              </a>
-              <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
-                Tmap 길찾기
-              </a>
-            </div>
-          </div>
-          `
+        <div id="place_${item.properties.pid}" class="item card" style="width: 18rem;">
+        <div class="card-body">
+        <h5 class="card-title">${item.properties.name}</h5>
+        <p class="card-text">
+        <b>주소</b>: ${item.properties.address} <br />
+        <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br />
+        <b>원문</b>: ${item.properties.source}
+        </p>
+        <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
+        상세정보
+        </a>
+        <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+        Kakao 길찾기
+        </a>
+        <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+        Tmap 길찾기
+        </a>
+        </div>
+        </div>
+        `
         })
         $('#listing').html(elements)
       });
     })
 
+    // 지도 이동 완료 시
+    map.on('moveend', function () {
+      if (dataSelect.val() == '카테고리 선택') {
+        var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
+        $.getJSON(nearDataUrl, function (data) {
+          if (data.features.length > 150) {
+            alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.");
+            return;
+          }
+
+          // 현재 레이어가 있다면 데이터를 받은 후 정리합니다.
+          if (currentLayer) {
+            map.removeLayer(currentLayer)
+          }
+
+          currentLayer = L.geoJson(data, {
+            onEachFeature: function (feature, layer) {
+              const popupContent = `
+            <div class="item-popup">
+            <h3>${feature.properties.name}</h3>
+            <b>주소</b>: ${feature.properties.address} <br />
+            <b>전화</b>: <a href="tel:${feature.properties.phone}">${feature.properties.phone}</a> <br /> <br />
+            <div>
+            <a href="${feature.properties.website}" target="_blank" class="btn btn-info btn-sm">
+            상세정보
+            </a>
+            <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${feature.geometry.coordinates[1]},${feature.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+            Kakao 길찾기
+            </a>
+            <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${feature.properties.name}&lon=${feature.geometry.coordinates[0]}&lat=${feature.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+            Tmap 길찾기
+            </a>
+            </div>
+            </div>
+
+            `
+              // layer.bindPopup(feature.properties.name);
+              layer.bindPopup(popupContent);
+            }
+          }).addTo(map);
+
+          if (dataSelect.val()) {
+            $('#bottom-sheet').addClass('appear')
+          }
+
+          $("#opener").text(`주변 맛집 목록 보기 (${data.features.length}곳)`)
+
+          const elements = data.features.map(function (item) {
+            return `
+          <div id="place_${item.properties.pid}" class="item card" style="width: 18rem;">
+          <div class="card-body">
+          <h5 class="card-title">${item.properties.name}</h5>
+          <p class="card-text">
+          <b>주소</b>: ${item.properties.address} <br />
+          <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br />
+          <b>원문</b>: ${item.properties.source}
+          </p>
+          <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
+          상세정보
+          </a>
+          <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+          Kakao 길찾기
+          </a>
+          <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
+          Tmap 길찾기
+          </a>
+          </div>
+          </div>
+          `
+          })
+          $('#listing').html(elements)
+        });
+      }
+    });
 
 
     function onLocationFound(e) {
