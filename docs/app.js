@@ -210,10 +210,6 @@ var main = function () {
         }
       }).addTo(map)
 
-      if ($dataSelect.val()) {
-        $('#bottom-sheet').addClass('appear')
-      }
-
       $("#opener").text(`주변 맛집 목록 보기 (${data.features.length}곳)`)
 
       const elements = data.features.map(makeListElement)
