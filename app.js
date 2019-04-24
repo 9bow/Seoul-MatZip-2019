@@ -7,7 +7,7 @@ var main = function () {
       center: [37.5662952, 126.9429262], // 서울 시청
       zoom: 14
     };
-    var CURR_POS;
+    var CURR_POS = {lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1]};
     var currentLayer;
     var map = L.map('map', INITIAL_MAP_OPTION);
     var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/";
