@@ -198,10 +198,6 @@ var main = function () {
       return
     }
 
-    if (currentLayer) {
-      map.removeLayer(currentLayer)
-    }
-
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
       if (data.features.length > 200) {
