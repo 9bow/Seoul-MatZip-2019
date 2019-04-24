@@ -47,7 +47,7 @@ var main = function () {
     , "돼지갈비"
     , "돼지고기"
   ]
-  var DEFAULT_SELECT_OPTION = '카테고리 선택'
+  var DEFAULT_SELECT_OPTION = '맛집 카테고리'
   var LAYER_TYPES = {
     init: 'init',
     category: 'category',
@@ -56,8 +56,8 @@ var main = function () {
     center: [37.5662952, 126.9429262], // 서울 시청
     zoom: 14
   }
-  var CURR_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
-  var MY_POS = CURR_POS
+  var MY_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
+  var MAX_POI = 230
   var currentLayer
   var map = L.map('map', INITIAL_MAP_OPTION)
 
@@ -78,10 +78,10 @@ var main = function () {
    * 메소드 목록
    */
 
-   /**
-    * 타일 레이어 추가
-    */
-  function initializeTileLayer () {
+  /**
+   * 타일 레이어 추가
+   */
+  function initializeTileLayer() {
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
       maxZoom: 18,
       attribution: `
@@ -96,7 +96,7 @@ var main = function () {
   /**
    * 카테고리 셀렉터 초기화
    */
-  function initializeSelector () {
+  function initializeSelector() {
     var $dataSelect = $('#data')
     var options = ($dataSelect.prop) ? $dataSelect.prop('options') : $dataSelect.attr('options')
     data.forEach(function (text) { options[options.length] = new Option(text, text) })
@@ -119,23 +119,23 @@ var main = function () {
     })
   }
 
-  function drawMarkers (type, selected, data) {
-      if (currentLayer) {
-        map.removeLayer(currentLayer)
+  function drawMarkers(type, selected, data) {
+    if (currentLayer) {
+      map.removeLayer(currentLayer)
+    }
+
+    currentLayer = L.geoJson(data, {
+      onEachFeature: function (feature, layer) {
+        layer.bindPopup(makeMarkerPopup(feature))
       }
+    }).addTo(map)
 
-      currentLayer = L.geoJson(data, {
-        onEachFeature: function (feature, layer) {
-          layer.bindPopup(makeMarkerPopup(feature))
-        }
-      }).addTo(map)
+    $("#opener").text(`${selected} 목록 보기 (${data.features.length}곳)`)
+    $('#listing').html(data.features.map(makeListElement))
 
-      $("#opener").text(`${selected} 목록 보기 (${data.features.length}곳)`)
-      $('#listing').html(data.features.map(makeListElement))
-
-      if (type === LAYER_TYPES.category) {
-        map.fitBounds(currentLayer.getBounds())
-      }
+    if (type === LAYER_TYPES.category) {
+      map.fitBounds(currentLayer.getBounds())
+    }
   }
 
   /**
@@ -143,7 +143,7 @@ var main = function () {
    * @param {object} item : 각 마커에 필요한 항목
    * @return {string} 팝업 element
    */
-  function makeMarkerPopup (item) {
+  function makeMarkerPopup(item) {
     return `
     <div class="item-popup">
       <h3>${item.properties.name}</h3>
@@ -153,7 +153,7 @@ var main = function () {
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
           상세정보
         </a>
-        <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+        <a href="daummaps://route?sp=${MY_POS['lat']},${MY_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
           Kakao 길찾기
         </a>
         <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
@@ -169,7 +169,7 @@ var main = function () {
    * @param {object} item : 각 리스트에 필요한 항목
    * @return {string} 팝업 element
    */
-  function makeListElement (item) {
+  function makeListElement(item) {
     return `
     <div id="place_${item.properties.pid}" class="item card" style="width: 18rem">
       <div class="card-body">
@@ -181,7 +181,7 @@ var main = function () {
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
           상세정보
         </a>
-        <a href="daummaps://route?sp=${CURR_POS['lat']},${CURR_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
+        <a href="daummaps://route?sp=${MY_POS['lat']},${MY_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
         Kakao 길찾기
         </a>
         <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
@@ -192,7 +192,7 @@ var main = function () {
     `
   }
 
-  function onMapMoveEnd () {
+  function onMapMoveEnd() {
     var $dataSelect = $('#data')
     if ($dataSelect.val() != DEFAULT_SELECT_OPTION) {
       return
@@ -200,7 +200,7 @@ var main = function () {
 
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
-      if (data.features.length > 200) {
+      if (data.features.length > MAX_POI) {
         alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.")
         return
       }
@@ -216,7 +216,6 @@ var main = function () {
       iconAnchor: [16, 16],
       popupAnchor: [-3, -3]
     })
-    CURR_POS = e.latlng
     MY_POS = e.latlng
     L.marker(e.latlng, {
       icon: myIcon
