@@ -114,7 +114,7 @@ var main = function () {
       }
 
       $.getJSON(data_url + $dataSelect.val() + ".geojson", function (data) {
-        drawMarkers(LAYER_TYPES, $dataSelect.val(), data)
+        drawMarkers(LAYER_TYPES.category, $dataSelect.val(), data)
       })
     })
   }
@@ -204,7 +204,7 @@ var main = function () {
         alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.")
         return
       }
-      drawMarkers(LAYER_TYPES, '내 주변', data)
+      drawMarkers(LAYER_TYPES.init, '내 주변', data)
     })
   }
 
