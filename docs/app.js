@@ -121,11 +121,6 @@ var main = function () {
         }).addTo(map)
 
         map.fitBounds(currentLayer.getBounds())
-
-        if ($dataSelect.val()) {
-          $('#bottom-sheet').addClass('appear')
-        }
-
         $("#opener").text(`${$dataSelect.val()} 목록 보기 (${data.features.length}곳)`)
         $('#listing').html(data.features.map(makeListElement))
       })
@@ -192,6 +187,11 @@ var main = function () {
     if ($dataSelect.val() != DEFAULT_SELECT_OPTION) {
       return
     }
+
+    if (currentLayer) {
+      map.removeLayer(currentLayer)
+    }
+
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
       if (data.features.length > 200) {
