@@ -34,6 +34,7 @@
 
 ## 결과 (GeoJSON 형태)
 
+* [전체보기](geo/전체보기.geojson)
 * [평양냉면](geo/평양냉면.geojson)
 * [메밀국수(소바)](geo/메밀국수(소바).geojson)
 * [막국수](geo/막국수.geojson)
