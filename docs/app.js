@@ -150,7 +150,7 @@ var main = function () {
       if (dataSelect.val() == '카테고리 선택') {
         var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
         $.getJSON(nearDataUrl, function (data) {
-          if (data.features.length > 150) {
+          if (data.features.length > 200) {
             alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.");
             return;
           }
