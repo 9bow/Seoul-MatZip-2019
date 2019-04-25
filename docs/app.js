@@ -46,6 +46,17 @@ var main = function () {
     , "생선구이&조림"
     , "돼지갈비"
     , "돼지고기"
+    , "유럽음식"
+    , "중동음식"
+    , "아프리카음식"
+    , "북중남미"
+    , "아시아음식"
+    , "기네스"
+    , "사케"
+    , "몰트위스키"
+    , "칵테일"
+    , "막걸리"
+    , "중국집"
   ]
   var DEFAULT_SELECT_OPTION = '맛집 카테고리'
   var LAYER_TYPES = {
@@ -147,6 +158,7 @@ var main = function () {
     return `
     <div class="item-popup">
       <h3>${item.properties.name}</h3>
+      <b>분류</b>: ${item.properties.category} <br />
       <b>주소</b>: ${item.properties.address} <br />
       <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br /> <br />
       <div>
@@ -175,8 +187,10 @@ var main = function () {
       <div class="card-body">
         <h5 class="card-title">${item.properties.name}</h5>
         <p class="card-text">
+          <b>분류</b>: ${item.properties.category} <br />
           <b>주소</b>: ${item.properties.address} <br />
           <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br />
+          <b>원문</b>: ${item.properties.source}
         </p>
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
           상세정보
@@ -220,7 +234,7 @@ var main = function () {
     L.marker(e.latlng, {
       icon: myIcon
     }).addTo(map)
-      .bindPopup("상단의 "+ DEFAULT_SELECT_OPTION +"를 눌러주세요!").openPopup()
+      .bindPopup("상단의 " + DEFAULT_SELECT_OPTION + "을 눌러주세요!").openPopup()
     L.circle(e.latlng, radius).addTo(map)
   }
 
