@@ -220,7 +220,7 @@ var main = function () {
     L.marker(e.latlng, {
       icon: myIcon
     }).addTo(map)
-      .bindPopup("상단의 "+ DEFAULT_SELECT_OPTION +"을 눌러주세요!").openPopup()
+      .bindPopup("상단의 "+ DEFAULT_SELECT_OPTION +"를 눌러주세요!").openPopup()
     L.circle(e.latlng, radius).addTo(map)
   }
 
