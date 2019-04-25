@@ -1,0 +1,81 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.997559020842,
+     37.5849162754761
+    ]
+   },
+   "properties": {
+    "pid": "11520636",
+    "name": "페르시안궁전",
+    "phone": "02-763-6050",
+    "source": "명륜2가 - 혜화역 - 페르시안궁전 - 이란",
+    "address": "서울 종로구 성균관로6길 9",
+    "website": "http://place.map.daum.net/11520636",
+    "category": "중동 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987708265465,
+     37.5346256133915
+    ]
+   },
+   "properties": {
+    "pid": "20950913",
+    "name": "페트라",
+    "phone": "02-790-4433",
+    "source": "이태원동 - 녹사평역 - 페트라 - 요르단, 시리아",
+    "address": "서울 용산구 녹사평대로40길 33",
+    "website": "http://place.map.daum.net/20950913",
+    "category": "중동 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.995406454624,
+     37.5343774875022
+    ]
+   },
+   "properties": {
+    "pid": "21232510",
+    "name": "두바이레스토랑",
+    "phone": "02-798-9277",
+    "source": "이태원동 - 이태원역 - 두바이 - 그 외 중동",
+    "address": "서울 용산구 이태원로 192",
+    "website": "http://place.map.daum.net/21232510",
+    "category": "중동 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987038035103,
+     37.5371123034804
+    ]
+   },
+   "properties": {
+    "pid": "19978136",
+    "name": "아랍하우스",
+    "phone": "02-702-5887",
+    "source": "이태원동 - 녹사평역 - 아라빅 하우스 - 그 외 중동",
+    "address": "서울 용산구 녹사평대로 218",
+    "website": "http://place.map.daum.net/19978136",
+    "category": "중동 음식"
+   }
+  }
+ ]
+}

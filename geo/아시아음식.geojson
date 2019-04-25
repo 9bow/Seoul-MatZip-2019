@@ -1,0 +1,2380 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005962723468,
+     37.5648708207224
+    ]
+   },
+   "properties": {
+    "pid": "15724497",
+    "name": "마이프렌드",
+    "phone": "",
+    "source": "광희동 - 동대문역사문화공원역 - 마이프렌드 - 우즈베키스탄",
+    "address": "서울 중구 마른내로 159-4",
+    "website": "http://place.map.daum.net/15724497",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005826925843,
+     37.5652240180035
+    ]
+   },
+   "properties": {
+    "pid": "16989098",
+    "name": "사마르칸트",
+    "phone": "02-2277-4267",
+    "source": "광희동 - 동대문역사문화공원역 - 사마르칸트 - 우즈베키스탄",
+    "address": "서울 중구 마른내로 159-10",
+    "website": "http://place.map.daum.net/16989098",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005957959175,
+     37.5618975327446
+    ]
+   },
+   "properties": {
+    "pid": "16985182",
+    "name": "아시아",
+    "phone": "02-2265-4386",
+    "source": "장충동 - 동대입구역 - 아시아 - 우즈베키스탄",
+    "address": "서울 중구 퇴계로56길 43",
+    "website": "http://place.map.daum.net/16985182",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9954517506146,
+     37.533728948795094
+    ]
+   },
+   "properties": {
+    "pid": "1541909907",
+    "name": "라자트(LAZZAT)",
+    "phone": "02-792-7008",
+    "source": "이태원동 - 이태원역 - 라자트 - 우즈베키스탄",
+    "address": "서울 용산구 우사단로 39",
+    "website": "http://place.map.daum.net/1541909907",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.006374790257,
+     37.5656204279844
+    ]
+   },
+   "properties": {
+    "pid": "18824253",
+    "name": "울란바타르",
+    "phone": "02-2265-6565",
+    "source": "광희동 - 동대문역사문화공원역 - 울란바토르 - 몽골",
+    "address": "서울 중구 을지로44길 12",
+    "website": "http://place.map.daum.net/18824253",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00640679527055,
+     37.56561060752538
+    ]
+   },
+   "properties": {
+    "pid": "16034968",
+    "name": "잘루스",
+    "phone": "02-2277-5418",
+    "source": "광희동 - 동대문역사문화공원역 - 잘루스 - 몽골",
+    "address": "서울 중구 을지로44길 12",
+    "website": "http://place.map.daum.net/16034968",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.07957045308751,
+     37.59507599476573
+    ]
+   },
+   "properties": {
+    "pid": "21328644",
+    "name": "부얀트",
+    "phone": "070-8749-9885",
+    "source": "상봉동 - 중랑역 - 부얀트 - 몽골",
+    "address": "서울 중랑구 망우로 243",
+    "website": "http://place.map.daum.net/21328644",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981563098512,
+     37.5869006493869
+    ]
+   },
+   "properties": {
+    "pid": "11520657",
+    "name": "옴레스토랑 삼청동점",
+    "phone": "02-730-8848",
+    "source": "신문로 - 광화문역 - 옴레스토랑 - 파키스탄",
+    "address": "서울 종로구 삼청로 129",
+    "website": "http://place.map.daum.net/11520657",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99324311479552,
+     37.535199096273494
+    ]
+   },
+   "properties": {
+    "pid": "1048559101",
+    "name": "모글",
+    "phone": "02-796-5501",
+    "source": "이태원동 - 이태원역 - 모글 - 파키스탄",
+    "address": "서울 용산구 이태원로27가길 36",
+    "website": "http://place.map.daum.net/1048559101",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99551511105,
+     37.5336999389871
+    ]
+   },
+   "properties": {
+    "pid": "11520635",
+    "name": "타지펠리스",
+    "phone": "02-790-5786",
+    "source": "이태원동 - 이태원역 - 타지팰리스 - 파키스탄",
+    "address": "서울 용산구 우사단로 39",
+    "website": "http://place.map.daum.net/11520635",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.996234709738,
+     37.5331990075611
+    ]
+   },
+   "properties": {
+    "pid": "24068218",
+    "name": "봄베그릴 이태원본점",
+    "phone": "02-792-7155",
+    "source": "이태원동 - 이태원역 - 봄베그릴 - 파키스탄",
+    "address": "서울 용산구 우사단로10길 11",
+    "website": "http://place.map.daum.net/24068218",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.995696163996,
+     37.5332098011753
+    ]
+   },
+   "properties": {
+    "pid": "8026171",
+    "name": "우스마니아 이태원점",
+    "phone": "02-798-7155",
+    "source": "이태원동 - 이태원역 - 우스마니아 - 파키스탄",
+    "address": "서울 용산구 우사단로 34",
+    "website": "http://place.map.daum.net/8026171",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.01156888931436,
+     37.57208197364034
+    ]
+   },
+   "properties": {
+    "pid": "12411385",
+    "name": "에베레스트 커리월드레스토랑",
+    "phone": "02-743-8848(팩스)",
+    "source": "창신동 - 동대문역 - 에베레스트 - 네팔",
+    "address": "서울 종로구 종로 305",
+    "website": "http://place.map.daum.net/12411385",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.013977878489,
+     37.5727484493215
+    ]
+   },
+   "properties": {
+    "pid": "14705177",
+    "name": "뿌자",
+    "phone": "02-744-2199",
+    "source": "창신동 - 동대문역 - 뿌자 - 네팔",
+    "address": "서울 종로구 종로 327",
+    "website": "http://place.map.daum.net/14705177",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.015014854205,
+     37.5730870960931
+    ]
+   },
+   "properties": {
+    "pid": "12443431",
+    "name": "히말라얀레스토랑",
+    "phone": "02-3672-1566",
+    "source": "창신동 - 동대문역 - 히말라얀 - 네팔",
+    "address": "서울 종로구 종로 337",
+    "website": "http://place.map.daum.net/12443431",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.01328970378393,
+     37.57253331572074
+    ]
+   },
+   "properties": {
+    "pid": "1265537345",
+    "name": "다르샨나마스테",
+    "phone": "02-3675-1812",
+    "source": "창신동 - 동대문역 - 다르샨 - 네팔",
+    "address": "서울 종로구 종로 321",
+    "website": "http://place.map.daum.net/1265537345",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98609274681262,
+     37.56428540562661
+    ]
+   },
+   "properties": {
+    "pid": "16984248",
+    "name": "타지 명동점",
+    "phone": "02-776-0677",
+    "source": "명동 - 명동역 - 타지 - 인도",
+    "address": "서울 중구 명동길 73",
+    "website": "http://place.map.daum.net/16984248",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.982881832238,
+     37.5634425521485
+    ]
+   },
+   "properties": {
+    "pid": "27280231",
+    "name": "더 마샬라",
+    "phone": "02-754-8939",
+    "source": "명동 - 명동역 - 더마샬라 - 인도",
+    "address": "서울 중구 명동길 14",
+    "website": "http://place.map.daum.net/27280231",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988662592354,
+     37.5684095389424
+    ]
+   },
+   "properties": {
+    "pid": "11834063",
+    "name": "포탈라레스토랑 종로점",
+    "phone": "02-318-0094",
+    "source": "명동 - 명동역 - 포탈라 - 인도",
+    "address": "서울 종로구 청계천로 99",
+    "website": "http://place.map.daum.net/11834063",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.948963194186,
+     37.5423890541087
+    ]
+   },
+   "properties": {
+    "pid": "27252142",
+    "name": "옴레스토랑(OMRESTAURANT)마포/공덕점",
+    "phone": "02-725-4848",
+    "source": "도화동 - 마포역 - 옴레스토랑 - 인도",
+    "address": "서울 마포구 마포대로 73",
+    "website": "http://place.map.daum.net/27252142",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.915964854822,
+     37.5488717897735
+    ]
+   },
+   "properties": {
+    "pid": "16583477",
+    "name": "시타라",
+    "phone": "02-325-5623",
+    "source": "합정동 - 합정역 - 시타라 - 인도",
+    "address": "서울 마포구 양화로6길 32",
+    "website": "http://place.map.daum.net/16583477",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990993906234,
+     37.5346223056622
+    ]
+   },
+   "properties": {
+    "pid": "11401521",
+    "name": "아그라 이태원점",
+    "phone": "02-797-7262",
+    "source": "이태원동 - 이태원역 - 아그라 - 인도",
+    "address": "서울 용산구 이태원로 153",
+    "website": "http://place.map.daum.net/11401521",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.996737046847,
+     37.5332747065964
+    ]
+   },
+   "properties": {
+    "pid": "21856006",
+    "name": "리틀인디아서울",
+    "phone": "02-793-5416",
+    "source": "이태원동 - 이태원역 - 리틀인디아 - 인도",
+    "address": "서울 용산구 우사단로10길 21",
+    "website": "http://place.map.daum.net/21856006",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040024056639,
+     37.5242543486969
+    ]
+   },
+   "properties": {
+    "pid": "1481412283",
+    "name": "스와가트 청담본점",
+    "phone": "02-549-4667",
+    "source": "청담동 - 청담역 - 나마스테 - 인도",
+    "address": "서울 강남구 선릉로152길 5",
+    "website": "http://place.map.daum.net/1481412283",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92250403255187,
+     37.549060066201044
+    ]
+   },
+   "properties": {
+    "pid": "11587582",
+    "name": "웃사브",
+    "phone": "02-334-9189",
+    "source": "상수동 - 홍대입구역 - 웃샤브 - 인도",
+    "address": "서울 마포구 와우산로11길 10",
+    "website": "http://place.map.daum.net/11587582",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92360386481,
+     37.5506177079573
+    ]
+   },
+   "properties": {
+    "pid": "13284457",
+    "name": "예티",
+    "phone": "02-325-0745",
+    "source": "서교동 - 홍대입구역 - 예티 - 인도",
+    "address": "서울 마포구 와우산로18길 10",
+    "website": "http://place.map.daum.net/13284457",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.920432350479,
+     37.5490550843805
+    ]
+   },
+   "properties": {
+    "pid": "26312017",
+    "name": "탄둘하우스",
+    "phone": "02-336-8688",
+    "source": "서교동 - 홍대입구역 - 탄둘하우스 - 인도",
+    "address": "서울 마포구 어울마당로 43",
+    "website": "http://place.map.daum.net/26312017",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921985814253,
+     37.5612592307333
+    ]
+   },
+   "properties": {
+    "pid": "26310720",
+    "name": "헬로인디아",
+    "phone": "02-336-8425",
+    "source": "연남동 - 홍대입구역 - 헬로인디아 - 인도",
+    "address": "서울 마포구 연남로3길 9",
+    "website": "http://place.map.daum.net/26310720",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.935457477219,
+     37.557793119842
+    ]
+   },
+   "properties": {
+    "pid": "12421976",
+    "name": "아마",
+    "phone": "02-332-9302",
+    "source": "창천동 - 신촌역 - 아마 - 인도",
+    "address": "서울 서대문구 연세로7길 24",
+    "website": "http://place.map.daum.net/12421976",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.934837227371,
+     37.5578396310063
+    ]
+   },
+   "properties": {
+    "pid": "7952101",
+    "name": "소문난집",
+    "phone": "02-336-1922",
+    "source": "창천동 - 신촌역 - 난 - 인도",
+    "address": "서울 서대문구 연세로7길 38",
+    "website": "http://place.map.daum.net/7952101",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93726394875,
+     37.5575922701597
+    ]
+   },
+   "properties": {
+    "pid": "22535116",
+    "name": "이지인디아",
+    "phone": "02-393-7771",
+    "source": "창천동 - 신촌역 - 이지인디아 - 인도",
+    "address": "서울 서대문구 연세로 20",
+    "website": "http://place.map.daum.net/22535116",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035316610786,
+     37.5884429093893
+    ]
+   },
+   "properties": {
+    "pid": "19245690",
+    "name": "비나레스토랑",
+    "phone": "02-926-5860",
+    "source": "제기동 - 안암역 - 비나 - 인도",
+    "address": "서울 동대문구 안암로24길 4",
+    "website": "http://place.map.daum.net/19245690",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.053100704457,
+     37.5933808934182
+    ]
+   },
+   "properties": {
+    "pid": "11816388",
+    "name": "뉴델리 경희대점",
+    "phone": "02-957-7955",
+    "source": "회기동 - 회기역 - 뉴델리 - 인도",
+    "address": "서울 동대문구 경희대로6길 5",
+    "website": "http://place.map.daum.net/11816388",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.065180567212,
+     37.6561159637866
+    ]
+   },
+   "properties": {
+    "pid": "11480937",
+    "name": "올드델리 노원점",
+    "phone": "02-935-6689",
+    "source": "상계동 - 노원역 - 올드델리 - 인도",
+    "address": "서울 노원구 노해로85길 14",
+    "website": "http://place.map.daum.net/11480937",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.968904467393,
+     37.5446016355715
+    ]
+   },
+   "properties": {
+    "pid": "15176921",
+    "name": "베나레스 숙대점",
+    "phone": "02-714-9982",
+    "source": "청파동 - 숙대입구역 - 베나레스 - 인도",
+    "address": "서울 용산구 청파로45길 32",
+    "website": "http://place.map.daum.net/15176921",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.952999065048,
+     37.4797637188979
+    ]
+   },
+   "properties": {
+    "pid": "12740961",
+    "name": "옷살",
+    "phone": "02-882-6527",
+    "source": "봉천동 - 서울대입구역 - 옷살 - 인도",
+    "address": "서울 관악구 관악로 164",
+    "website": "http://place.map.daum.net/12740961",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.999257314225,
+     37.5824980323037
+    ]
+   },
+   "properties": {
+    "pid": "21332445",
+    "name": "깔리",
+    "phone": "02-747-5050",
+    "source": "명륜동 - 혜화역 - 깔리 - 인도",
+    "address": "서울 종로구 대학로11길 43",
+    "website": "http://place.map.daum.net/21332445",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.998840684613,
+     37.5825629004793
+    ]
+   },
+   "properties": {
+    "pid": "12980859",
+    "name": "머노까머나 대학로점",
+    "phone": "02-763-8850",
+    "source": "명륜4가 - 혜화역 - 머노까머나 - 인도",
+    "address": "서울 종로구 창경궁로 236",
+    "website": "http://place.map.daum.net/12980859",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.997559020842,
+     37.5849162754761
+    ]
+   },
+   "properties": {
+    "pid": "11520636",
+    "name": "페르시안궁전",
+    "phone": "02-763-6050",
+    "source": "명륜2가 - 혜화역 - 페르시안궁전 - 인도",
+    "address": "서울 종로구 성균관로6길 9",
+    "website": "http://place.map.daum.net/11520636",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05664728595,
+     37.5099035714253
+    ]
+   },
+   "properties": {
+    "pid": "11732885",
+    "name": "루나아시아",
+    "phone": "02-562-7992",
+    "source": "삼성동 - 삼성역 - 루나아시아 - 인도",
+    "address": "서울 강남구 삼성로100길 15",
+    "website": "http://place.map.daum.net/11732885",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.917427020039,
+     37.54878632547
+    ]
+   },
+   "properties": {
+    "pid": "27339812",
+    "name": "심플리타이 합정점",
+    "phone": "02-3142-2844",
+    "source": "서교동 - 홍대입구역 - 심플리타이 - 태국",
+    "address": "서울 마포구 양화로6길 57",
+    "website": "http://place.map.daum.net/27339812",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.919566944205,
+     37.5498329606161
+    ]
+   },
+   "properties": {
+    "pid": "17879763",
+    "name": "아시안쿠진",
+    "phone": "02-322-2255",
+    "source": "서교동 - 홍대입구역 - 아시안쿠진 - 태국",
+    "address": "서울 마포구 독막로7길 45",
+    "website": "http://place.map.daum.net/17879763",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.91853666150108,
+     37.5494394147892
+    ]
+   },
+   "properties": {
+    "pid": "27339839",
+    "name": "타이앤믹스",
+    "phone": "",
+    "source": "서교동 - 합정역 - 타이앤믹스 - 태국",
+    "address": "서울 마포구 독막로5길 33",
+    "website": "http://place.map.daum.net/27339839",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924055321789,
+     37.5651889237081
+    ]
+   },
+   "properties": {
+    "pid": "19925752",
+    "name": "툭툭누들타이",
+    "phone": "070-4407-5130",
+    "source": "연남동 - 홍대입구역 - 툭툭누들타이 - 태국",
+    "address": "서울 마포구 성미산로 161-8",
+    "website": "http://place.map.daum.net/19925752",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92538808404,
+     37.5635139207821
+    ]
+   },
+   "properties": {
+    "pid": "25479306",
+    "name": "소이연남",
+    "phone": "02-323-5130",
+    "source": "연남동 - 홍대입구역 - 소이연남 - 태국",
+    "address": "서울 마포구 동교로 267",
+    "website": "http://place.map.daum.net/25479306",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925655413038,
+     37.563301454311
+    ]
+   },
+   "properties": {
+    "pid": "26643656",
+    "name": "오파스",
+    "phone": "070-8867-5858",
+    "source": "연남동 - 홍대입구역 - 오파스 - 태국",
+    "address": "서울 마포구 동교로 268",
+    "website": "http://place.map.daum.net/26643656",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92176396413,
+     37.5482811154992
+    ]
+   },
+   "properties": {
+    "pid": "23981049",
+    "name": "뭄알로이",
+    "phone": "070-8236-9138",
+    "source": "상수동 - 상수역 - 뭄알로이 - 태국",
+    "address": "서울 마포구 독막로15길 3-6",
+    "website": "http://place.map.daum.net/23981049",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92161617509223,
+     37.54806122025653
+    ]
+   },
+   "properties": {
+    "pid": "26970732",
+    "name": "융",
+    "phone": "02-322-7421",
+    "source": "상수동 - 상수역 - 융 - 태국",
+    "address": "서울 마포구 독막로15길 3-3",
+    "website": "http://place.map.daum.net/26970732",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922686334641,
+     37.5492836333072
+    ]
+   },
+   "properties": {
+    "pid": "2054295966",
+    "name": "타베타이",
+    "phone": "",
+    "source": "상수동 - 상수역 - 타베타이 - 태국",
+    "address": "서울 마포구 와우산로 51-6",
+    "website": "http://place.map.daum.net/2054295966",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921701298123,
+     37.5476071270284
+    ]
+   },
+   "properties": {
+    "pid": "26596049",
+    "name": "카오산로드",
+    "phone": "",
+    "source": "상수동 - 상수역 - 카오산로드 - 태국",
+    "address": "서울 마포구 독막로 76",
+    "website": "http://place.map.daum.net/26596049",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.941723553554,
+     37.5570179172956
+    ]
+   },
+   "properties": {
+    "pid": "24584339",
+    "name": "방콕익스프레스 신촌1호점",
+    "phone": "",
+    "source": "대현동 - 이태역 - 방콕익스프레스 - 태국",
+    "address": "서울 서대문구 연세로2길 90",
+    "website": "http://place.map.daum.net/24584339",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.986618419473,
+     37.580547525904
+    ]
+   },
+   "properties": {
+    "pid": "26421272",
+    "name": "화양연화",
+    "phone": "070-4196-2046",
+    "source": "계동 - 안국역 - 화양연화 - 태국",
+    "address": "서울 종로구 계동길 73-1",
+    "website": "http://place.map.daum.net/26421272",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.986410722391,
+     37.577181388384
+    ]
+   },
+   "properties": {
+    "pid": "18655467",
+    "name": "반타이",
+    "phone": "02-747-6655",
+    "source": "재동 - 안국역 - 반타이 - 태국",
+    "address": "서울 종로구 율곡로 65",
+    "website": "http://place.map.daum.net/18655467",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.984999853759,
+     37.5674829067787
+    ]
+   },
+   "properties": {
+    "pid": "17320482",
+    "name": "아한타이 센터원",
+    "phone": "02-6030-8959",
+    "source": "수하동 - 을지로입구역 - 아한타이 - 태국",
+    "address": "서울 중구 을지로5길 26",
+    "website": "http://place.map.daum.net/17320482",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.978173873975,
+     37.5460128754165
+    ]
+   },
+   "properties": {
+    "pid": "20538324",
+    "name": "창수린",
+    "phone": "02-3789-7625",
+    "source": "후암동 - 서울역 - 창수린 - 태국",
+    "address": "서울 용산구 두텁바위로 55",
+    "website": "http://place.map.daum.net/20538324",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.994578226409,
+     37.5348243487956
+    ]
+   },
+   "properties": {
+    "pid": "27321752",
+    "name": "마이타이",
+    "phone": "02-794-8090",
+    "source": "이태원동 - 이태원역 - 마이타이 - 태국",
+    "address": "서울 용산구 이태원로 183-4",
+    "website": "http://place.map.daum.net/27321752",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99345141406,
+     37.5338656267599
+    ]
+   },
+   "properties": {
+    "pid": "20991035",
+    "name": "부아",
+    "phone": "02-792-3340",
+    "source": "이태원동 - 이태원역 - 부아 - 태국",
+    "address": "서울 용산구 보광로59길 9",
+    "website": "http://place.map.daum.net/20991035",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992152575009,
+     37.5337069714266
+    ]
+   },
+   "properties": {
+    "pid": "27006300",
+    "name": "카오산",
+    "phone": "02-790-7029",
+    "source": "이태원동 - 이태원역 - 카오산 - 태국",
+    "address": "서울 용산구 이태원로20길 13",
+    "website": "http://place.map.daum.net/27006300",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992193160576,
+     37.5350981194481
+    ]
+   },
+   "properties": {
+    "pid": "27543951",
+    "name": "타이리셔스",
+    "phone": "02-790-5447",
+    "source": "이태원동 - 이태원역 - 타이리셔스 - 태국",
+    "address": "서울 용산구 이태원로27가길 54-4",
+    "website": "http://place.map.daum.net/27543951",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992423981323,
+     37.5350008263988
+    ]
+   },
+   "properties": {
+    "pid": "27281356",
+    "name": "더글램핑",
+    "phone": "",
+    "source": "이태원동 - 이태원역 - 더글램핑 - 태국",
+    "address": "서울 용산구 이태원로27가길 52",
+    "website": "http://place.map.daum.net/27281356",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.993501248836,
+     37.5332565528423
+    ]
+   },
+   "properties": {
+    "pid": "26808744",
+    "name": "스파이스마켓",
+    "phone": "02-516-0834",
+    "source": "이태원동 - 이태원역 - 스파이스마켓 - 태국",
+    "address": "서울 용산구 이태원로26길 28",
+    "website": "http://place.map.daum.net/26808744",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988378101772,
+     37.5343914209913
+    ]
+   },
+   "properties": {
+    "pid": "17011339",
+    "name": "부다스밸리 이태원점",
+    "phone": "02-796-9330",
+    "source": "이태원동 - 녹사평역 - 부다스벨리 - 태국",
+    "address": "서울 용산구 녹사평대로40길 48",
+    "website": "http://place.map.daum.net/17011339",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989309722778,
+     37.5390514836146
+    ]
+   },
+   "properties": {
+    "pid": "21323861",
+    "name": "테이스트 오브 타일랜드",
+    "phone": "",
+    "source": "이태원동 - 녹사평역 - 테이스트 오브 타일랜드 - 태국",
+    "address": "서울 용산구 회나무로 22",
+    "website": "http://place.map.daum.net/21323861",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990613771198,
+     37.5344492838992
+    ]
+   },
+   "properties": {
+    "pid": "11658298",
+    "name": "왕타이",
+    "phone": "02-749-2746",
+    "source": "이태원동 - 녹사평역 - 왕타이 - 태국",
+    "address": "서울 용산구 이태원로 151",
+    "website": "http://place.map.daum.net/11658298",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.932078313006,
+     37.52004292789
+    ]
+   },
+   "properties": {
+    "pid": "10364831",
+    "name": "란나타이",
+    "phone": "02-782-8284",
+    "source": "여의도동 - 샛강역 - 란나타이 - 태국",
+    "address": "서울 영등포구 국제금융로 86",
+    "website": "http://place.map.daum.net/10364831",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.96854880637437,
+     37.529266513854914
+    ]
+   },
+   "properties": {
+    "pid": "27320968",
+    "name": "콘타이",
+    "phone": "02-795-6001",
+    "source": "한강로 3가 - 용산역 - 콘타이 - 태국",
+    "address": "서울 용산구 한강대로 100",
+    "website": "http://place.map.daum.net/27320968",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.885867065248,
+     37.4721819011449
+    ]
+   },
+   "properties": {
+    "pid": "26489161",
+    "name": "유티나이",
+    "phone": "02-830-8881",
+    "source": "가산동 - 가산디지털단지역 - 유티나이 - 태국",
+    "address": "서울 금천구 가산디지털1로 70",
+    "website": "http://place.map.daum.net/26489161",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0658713669398,
+     37.54124374838563
+    ]
+   },
+   "properties": {
+    "pid": "26611667",
+    "name": "그릴타이 건대커먼그라운드점",
+    "phone": "02-2122-1264",
+    "source": "화양동 - 성수역 - 그릴타이 - 태국",
+    "address": "서울 광진구 아차산로 200",
+    "website": "http://place.map.daum.net/26611667",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.060022228761,
+     37.5944515586049
+    ]
+   },
+   "properties": {
+    "pid": "27403109",
+    "name": "르안타이",
+    "phone": "070-5025-9482",
+    "source": "이문동 - 외대앞역 - 르안타이 - 태국",
+    "address": "서울 동대문구 휘경로2길 40",
+    "website": "http://place.map.daum.net/27403109",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.954677460407,
+     37.4787732644836
+    ]
+   },
+   "properties": {
+    "pid": "27178159",
+    "name": "방콕야시장",
+    "phone": "",
+    "source": "봉천동 - 서울대입구역 - 방콕야시장 - 태국",
+    "address": "서울 관악구 관악로14길 38",
+    "website": "http://place.map.daum.net/27178159",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9537662962529,
+     37.4790117947136
+    ]
+   },
+   "properties": {
+    "pid": "2096511735",
+    "name": "방콕야시장누들 2호",
+    "phone": "",
+    "source": "봉천동 - 서울대입구역 - 방콕야시장누들 - 태국",
+    "address": "서울 관악구 관악로14길 22",
+    "website": "http://place.map.daum.net/2096511735",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.94470840362314,
+     37.48134860892786
+    ]
+   },
+   "properties": {
+    "pid": "1575793346",
+    "name": "낀알로이알로이",
+    "phone": "02-6403-4879",
+    "source": "봉천동 - 봉천역 - 낀 알로이 알로이 - 태국",
+    "address": "서울 관악구 청룡2길 29",
+    "website": "http://place.map.daum.net/1575793346",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.024507322959,
+     37.5093740093798
+    ]
+   },
+   "properties": {
+    "pid": "22045872",
+    "name": "반피차이",
+    "phone": "",
+    "source": "논현동 - 논현역 - 반피차이 - 태국",
+    "address": "서울 강남구 강남대로124길 23",
+    "website": "http://place.map.daum.net/22045872",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02025856587372,
+     37.515598050494646
+    ]
+   },
+   "properties": {
+    "pid": "827524737",
+    "name": "얌타이",
+    "phone": "02-594-7988",
+    "source": "논현동 - 신사역 - 얌타이 - 태국",
+    "address": "서울 강남구 강남대로150길 4",
+    "website": "http://place.map.daum.net/827524737",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05971920119794,
+     37.508592335121
+    ]
+   },
+   "properties": {
+    "pid": "943827280",
+    "name": "게이트나인 무역센터점",
+    "phone": "02-3467-6723",
+    "source": "청담동 - 청담역 - 게이트 나인 - 태국",
+    "address": "서울 강남구 테헤란로 517",
+    "website": "http://place.map.daum.net/943827280",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02636290223991,
+     37.498435403004315
+    ]
+   },
+   "properties": {
+    "pid": "19231426",
+    "name": "메콩타이 강남역점",
+    "phone": "02-532-2174",
+    "source": "서초동 - 강남역 - 메콩타이 - 태국",
+    "address": "서울 서초구 서초대로77길 7",
+    "website": "http://place.map.daum.net/19231426",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.119450556946,
+     37.5146969494966
+    ]
+   },
+   "properties": {
+    "pid": "11410548",
+    "name": "골든타이",
+    "phone": "02-461-8089",
+    "source": "방이동 - 방이역 - 골든타이 - 태국",
+    "address": "서울 송파구 위례성대로 66",
+    "website": "http://place.map.daum.net/11410548",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.12625529936,
+     37.5119760493024
+    ]
+   },
+   "properties": {
+    "pid": "10969285",
+    "name": "홈수끼",
+    "phone": "02-417-4124",
+    "source": "방이동 - 방이역 - 홈수끼 - 태국",
+    "address": "서울 송파구 위례성대로 134",
+    "website": "http://place.map.daum.net/10969285",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.14355678298,
+     37.5429579379698
+    ]
+   },
+   "properties": {
+    "pid": "26981019",
+    "name": "프언타이",
+    "phone": "",
+    "source": "길동 - 굽은다리역 - 프언타이 - 태국",
+    "address": "서울 강동구 양재대로124길 25",
+    "website": "http://place.map.daum.net/26981019",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.933538916818,
+     37.5567577106847
+    ]
+   },
+   "properties": {
+    "pid": "23993444",
+    "name": "미분당",
+    "phone": "02-3141-0807",
+    "source": "창천동 - 신촌역 - 미분당 - 베트남",
+    "address": "서울 서대문구 연세로5다길 35",
+    "website": "http://place.map.daum.net/23993444",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.986202053815,
+     37.5791815712142
+    ]
+   },
+   "properties": {
+    "pid": "1869124081",
+    "name": "비엣콴",
+    "phone": "02-744-1868",
+    "source": "계동 - 안국역 - 비엣콴 - 베트남",
+    "address": "서울 종로구 북촌로4길 20",
+    "website": "http://place.map.daum.net/1869124081",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.971913143933,
+     37.5601247846044
+    ]
+   },
+   "properties": {
+    "pid": "11312048",
+    "name": "쁘띠하노이 본점",
+    "phone": "02-318-0884",
+    "source": "순화동 - 서울역 - 쁘띠하노이 - 베트남",
+    "address": "서울 중구 칠패로 27",
+    "website": "http://place.map.daum.net/11312048",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.985480556144,
+     37.5635149800516
+    ]
+   },
+   "properties": {
+    "pid": "17159950",
+    "name": "리틀하노이 명동본점",
+    "phone": "02-777-8878",
+    "source": "명동 - 명동역 - 리틀하노이 - 베트남",
+    "address": "서울 중구 명동10길 7-3",
+    "website": "http://place.map.daum.net/17159950",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99068634856,
+     37.5331086002216
+    ]
+   },
+   "properties": {
+    "pid": "27118749",
+    "name": "포88",
+    "phone": "02-790-8338",
+    "source": "이태원동 - 녹사평역 - 포 88 - 베트남",
+    "address": "서울 용산구 녹사평대로32길 39",
+    "website": "http://place.map.daum.net/27118749",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990209837374,
+     37.543243012875
+    ]
+   },
+   "properties": {
+    "pid": "26425687",
+    "name": "레호이",
+    "phone": "070-4242-0426",
+    "source": "이태원동 - 녹사평역 - 레호이 - 베트남",
+    "address": "서울 용산구 소월로38가길 5",
+    "website": "http://place.map.daum.net/26425687",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992197789158,
+     37.5341106228426
+    ]
+   },
+   "properties": {
+    "pid": "21353330",
+    "name": "라이포스트 이태원1호점",
+    "phone": "02-792-9991",
+    "source": "이태원동 - 이태원역 - 라이포스트 - 베트남",
+    "address": "서울 용산구 이태원로 164-1",
+    "website": "http://place.map.daum.net/21353330",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000887035088,
+     37.5348533019475
+    ]
+   },
+   "properties": {
+    "pid": "19857471",
+    "name": "타마린드",
+    "phone": "02-794-8780",
+    "source": "한남동 - 한강진역 - 타마린드 - 베트남",
+    "address": "서울 용산구 대사관로5길 12",
+    "website": "http://place.map.daum.net/19857471",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.917737691453,
+     37.5996927332292
+    ]
+   },
+   "properties": {
+    "pid": "21423323",
+    "name": "pho358",
+    "phone": "",
+    "source": "응암동 - 응암역 - Pho358 - 베트남",
+    "address": "서울 은평구 은평로 91",
+    "website": "http://place.map.daum.net/21423323",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.911566824811,
+     37.5588732553053
+    ]
+   },
+   "properties": {
+    "pid": "27331979",
+    "name": "싸이공레시피",
+    "phone": "02-323-4018",
+    "source": "성산동 - 망원역 - 싸이공레시피 - 베트남",
+    "address": "서울 마포구 성미산로 29-1",
+    "website": "http://place.map.daum.net/27331979",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926797507666,
+     37.5620876248869
+    ]
+   },
+   "properties": {
+    "pid": "26501357",
+    "name": "라이라이라이",
+    "phone": "02-395-7973",
+    "source": "연남동 - 홍대입구역 - 라이라이라이 - 베트남",
+    "address": "서울 마포구 동교로46길 42",
+    "website": "http://place.map.daum.net/26501357",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925026058107,
+     37.5588285092783
+    ]
+   },
+   "properties": {
+    "pid": "1216358651",
+    "name": "베트남이랑",
+    "phone": "02-334-9777",
+    "source": "연남동 - 홍대입구역 안(Ahn) - 베트남",
+    "address": "서울 마포구 월드컵북로2길 97",
+    "website": "http://place.map.daum.net/1216358651",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.936766696009,
+     37.5728044215534
+    ]
+   },
+   "properties": {
+    "pid": "18908200",
+    "name": "오시아",
+    "phone": "02-338-8399",
+    "source": "연희동 - 홍대입구역 - 오시아 - 베트남",
+    "address": "서울 서대문구 연희로26길 20",
+    "website": "http://place.map.daum.net/18908200",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921278632167,
+     37.5492286433045
+    ]
+   },
+   "properties": {
+    "pid": "21089100",
+    "name": "하노이안",
+    "phone": "02-3144-7495",
+    "source": "서교동 - 홍대입구역 - 하노이안 - 베트남",
+    "address": "서울 마포구 와우산로17길 19-24",
+    "website": "http://place.map.daum.net/21089100",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924682180857,
+     37.558644487039
+    ]
+   },
+   "properties": {
+    "pid": "27545971",
+    "name": "베트남노상식당 연남직영점",
+    "phone": "070-8157-3791",
+    "source": "동교동 - 홍대입구역 - 베트남노상식당 - 베트남",
+    "address": "서울 마포구 월드컵북로2길 91",
+    "website": "http://place.map.daum.net/27545971",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921649964261,
+     37.5490811265455
+    ]
+   },
+   "properties": {
+    "pid": "27433086",
+    "name": "리틀파파포 상수점",
+    "phone": "02-335-2299",
+    "source": "합정동 - 합정역 - 리틀파파포 - 베트남",
+    "address": "서울 마포구 와우산로15길 33",
+    "website": "http://place.map.daum.net/27433086",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93459216041,
+     37.5585314612524
+    ]
+   },
+   "properties": {
+    "pid": "236525222",
+    "name": "신촌카우키",
+    "phone": "02-336-1426",
+    "source": "창천동 - 신촌역 - 카우키 - 베트남",
+    "address": "서울 서대문구 연세로9길 37",
+    "website": "http://place.map.daum.net/236525222",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9456258826975,
+     37.558288654322226
+    ]
+   },
+   "properties": {
+    "pid": "7864191",
+    "name": "리틀베트남",
+    "phone": "",
+    "source": "대현동 - 이대역 하드투포겟 - 베트남",
+    "address": "서울 서대문구 이화여대길 29",
+    "website": "http://place.map.daum.net/7864191",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.94334883541,
+     37.5569141926164
+    ]
+   },
+   "properties": {
+    "pid": "16041559",
+    "name": "포나타이",
+    "phone": "02-363-1013",
+    "source": "대현동 - 이태역 - 포나타이 - 베트남",
+    "address": "서울 서대문구 신촌로 155",
+    "website": "http://place.map.daum.net/16041559",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.966387617504,
+     37.5451343375191
+    ]
+   },
+   "properties": {
+    "pid": "23279410",
+    "name": "사이공마켓",
+    "phone": "",
+    "source": "청파동 - 숙대입구역 - 사이공마켓 - 베트남",
+    "address": "서울 용산구 청파로47길 76",
+    "website": "http://place.map.daum.net/23279410",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.975167764392,
+     37.5205355768058
+    ]
+   },
+   "properties": {
+    "pid": "27277789",
+    "name": "르번미 동부이촌점",
+    "phone": "02-797-0707",
+    "source": "이촌동 - 이촌역 - 르번미 - 베트남",
+    "address": "서울 용산구 이촌로77길 19",
+    "website": "http://place.map.daum.net/27277789",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.979595296276,
+     37.4790072494233
+    ]
+   },
+   "properties": {
+    "pid": "1360276418",
+    "name": "베트남쌀국수",
+    "phone": "",
+    "source": "사당동 - 사당역 72420 - 베트남",
+    "address": "서울 동작구 동작대로7길 44",
+    "website": "http://place.map.daum.net/1360276418",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.034712034946,
+     37.5641342594468
+    ]
+   },
+   "properties": {
+    "pid": "26972970",
+    "name": "팜티진쌀국수",
+    "phone": "02-2293-2214",
+    "source": "도선동 - 왕십리역 - 팜티진 - 베트남",
+    "address": "",
+    "website": "http://place.map.daum.net/26972970",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.03477581241063,
+     37.56476269944685
+    ]
+   },
+   "properties": {
+    "pid": "18837607",
+    "name": "리틀베트남퍼",
+    "phone": "02-2299-3357",
+    "source": "도선동 - 왕십리역 - 리틀베트남 - 베트남",
+    "address": "서울 성동구 무학로6길 50",
+    "website": "http://place.map.daum.net/18837607",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.025382214419,
+     37.6345544790656
+    ]
+   },
+   "properties": {
+    "pid": "27063489",
+    "name": "호치민쌀국수",
+    "phone": "070-8822-4882",
+    "source": "수유동 - 수유역 - 호치민쌀국수 - 베트남",
+    "address": "서울 강북구 덕릉로30길 3",
+    "website": "http://place.map.daum.net/27063489",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.870305368118,
+     37.5255450270024
+    ]
+   },
+   "properties": {
+    "pid": "21524739",
+    "name": "포트랑",
+    "phone": "02-2652-5455",
+    "source": "목동 - 목동역 - 포트랑 - 베트남",
+    "address": "서울 양천구 오목로 299",
+    "website": "http://place.map.daum.net/21524739",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05535332138,
+     37.5220893571589
+    ]
+   },
+   "properties": {
+    "pid": "18738555",
+    "name": "파파호 청담점",
+    "phone": "02-517-6885",
+    "source": "청담동 - 청담역 - 파파호 - 베트남",
+    "address": "서울 강남구 영동대로 721",
+    "website": "http://place.map.daum.net/18738555",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040716416367,
+     37.5243045681715
+    ]
+   },
+   "properties": {
+    "pid": "13127530",
+    "name": "포웰그릴 청담점",
+    "phone": "02-541-3322",
+    "source": "청담동 - 청담역 - 포웰 - 베트남",
+    "address": "서울 강남구 선릉로152길 15",
+    "website": "http://place.map.daum.net/13127530",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041488928745,
+     37.5220085448974
+    ]
+   },
+   "properties": {
+    "pid": "7849053",
+    "name": "라우라우",
+    "phone": "02-542-1464",
+    "source": "청담동 - 청담역 - 라우라우 - 베트남",
+    "address": "서울 강남구 도산대로58길 17",
+    "website": "http://place.map.daum.net/7849053",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.021502404729,
+     37.522067934799
+    ]
+   },
+   "properties": {
+    "pid": "26816154",
+    "name": "분타 가로수길점",
+    "phone": "02-3443-0399",
+    "source": "신사동 - 신사역 - 분타 - 베트남",
+    "address": "서울 강남구 압구정로10길 30-9",
+    "website": "http://place.map.daum.net/26816154",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.025253661703,
+     37.4955091760088
+    ]
+   },
+   "properties": {
+    "pid": "9107822",
+    "name": "빈로이 1호점",
+    "phone": "02-582-1990",
+    "source": "서초동 - 강남역 - 빈로이 - 베트남",
+    "address": "서울 서초구 서운로 134",
+    "website": "http://place.map.daum.net/9107822",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.057502914483,
+     37.5106311695813
+    ]
+   },
+   "properties": {
+    "pid": "8571567",
+    "name": "포사이공 본점",
+    "phone": "02-565-1288",
+    "source": "삼성동 - 삼성역 - 포사이공 - 베트남",
+    "address": "서울 강남구 테헤란로87길 45",
+    "website": "http://place.map.daum.net/8571567",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.043027300622,
+     37.4824214071396
+    ]
+   },
+   "properties": {
+    "pid": "13327686",
+    "name": "한스포",
+    "phone": "02-575-7769",
+    "source": "도곡동 - 매봉역 - 한스포 - 베트남",
+    "address": "서울 강남구 논현로 142",
+    "website": "http://place.map.daum.net/13327686",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040690907954,
+     37.4689719608566
+    ]
+   },
+   "properties": {
+    "pid": "26869290",
+    "name": "인사이공",
+    "phone": "02-574-0420",
+    "source": "양재동 - 양재역 - 인사이공 - 베트남",
+    "address": "서울 서초구 동산로 6",
+    "website": "http://place.map.daum.net/26869290",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.998358021977,
+     37.4961966289051
+    ]
+   },
+   "properties": {
+    "pid": "21056776",
+    "name": "잇스파이스",
+    "phone": "02-595-8754",
+    "source": "반포동 - 내방역 - 잇스파이스 - 베트남",
+    "address": "서울 서초구 서래로 14",
+    "website": "http://place.map.daum.net/21056776",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.13379176682,
+     37.536741697738
+    ]
+   },
+   "properties": {
+    "pid": "241271172",
+    "name": "강동호치민",
+    "phone": "02-474-0780",
+    "source": "천호동 - 강동역 - 호치민 - 베트남",
+    "address": "서울 강동구 천호대로 1089",
+    "website": "http://place.map.daum.net/241271172",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925814361834,
+     37.5628078083291
+    ]
+   },
+   "properties": {
+    "pid": "1312658635",
+    "name": "메이형바쿠테",
+    "phone": "",
+    "source": "연남동 - 홍대입구역 - 메이형 - 말레이시아",
+    "address": "서울 마포구 동교로 266-12",
+    "website": "http://place.map.daum.net/1312658635",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.023249165638,
+     37.5225289172546
+    ]
+   },
+   "properties": {
+    "pid": "22577946",
+    "name": "팬아시아 가로수점",
+    "phone": "02-541-7940",
+    "source": "신사동 - 신사역 - 팬아시아 - 싱가포르",
+    "address": "서울 강남구 압구정로14길 28",
+    "website": "http://place.map.daum.net/22577946",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00766546105,
+     37.568734192892
+    ]
+   },
+   "properties": {
+    "pid": "500934097",
+    "name": "야미캄퐁",
+    "phone": "02-2283-2240",
+    "source": "을지로 6가 - 동대문역 - 야미캄퐁 - 싱가포르",
+    "address": "서울 중구 장충단로13길 20",
+    "website": "http://place.map.daum.net/500934097",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925577146282,
+     37.5555059803164
+    ]
+   },
+   "properties": {
+    "pid": "27272521",
+    "name": "미스싱가포르",
+    "phone": "02-3142-8878",
+    "source": "서교동 - 홍대입구역 - 미스싱가포르 - 싱가포르",
+    "address": "서울 마포구 와우산로29바길 24",
+    "website": "http://place.map.daum.net/27272521",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.995963176714,
+     37.5331557505412
+    ]
+   },
+   "properties": {
+    "pid": "18956294",
+    "name": "시티사라",
+    "phone": "02-796-8515",
+    "source": "이태원동 - 이태원역 - 시티사라 - 인도네시아",
+    "address": "서울 용산구 우사단로10길 7",
+    "website": "http://place.map.daum.net/18956294",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.024930425566,
+     37.5708293268234
+    ]
+   },
+   "properties": {
+    "pid": "24449587",
+    "name": "조비스그릴",
+    "phone": "070-8943-0357",
+    "source": "상왕십리동 - 신설동역 - 조비스그릴 - 필리핀",
+    "address": "서울 성동구 청계천로 432",
+    "website": "http://place.map.daum.net/24449587",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008073714145,
+     37.5337826402539
+    ]
+   },
+   "properties": {
+    "pid": "24211340",
+    "name": "바나나그릴",
+    "phone": "02-792-3088",
+    "source": "한남동 - 한강진역 - 바나나그릴 - 필리핀",
+    "address": "서울 용산구 독서당로 67",
+    "website": "http://place.map.daum.net/24211340",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924122230797,
+     37.5617147253209
+    ]
+   },
+   "properties": {
+    "pid": "26840640",
+    "name": "리틀타이완 연남점",
+    "phone": "02-784-7103",
+    "source": "연남동 - 홍대입구역 - 리틀 타이완 - 대만",
+    "address": "서울 마포구 동교로 243",
+    "website": "http://place.map.daum.net/26840640",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926710694009,
+     37.5628984677677
+    ]
+   },
+   "properties": {
+    "pid": "642479510",
+    "name": "향미",
+    "phone": "02-333-2943",
+    "source": "연남동 - 홍대입구역 - 향미 - 대만",
+    "address": "서울 마포구 성미산로 193",
+    "website": "http://place.map.daum.net/642479510",
+    "category": "아시아 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981133101889,
+     37.5679905137668
+    ]
+   },
+   "properties": {
+    "pid": "23966819",
+    "name": "청키면가 무교점",
+    "phone": "02-538-3913",
+    "source": "무교동 - 을지로입구역 - 청키면가 - 대만",
+    "address": "서울 중구 다동길 33",
+    "website": "http://place.map.daum.net/23966819",
+    "category": "아시아 음식"
+   }
+  }
+ ]
+}

@@ -1,12 +1,195 @@
-{"type": "FeatureCollection","features": [
-  {"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.69972484599, 34.7469341826717]}, "properties": {"name": "\ub9db\uae54\ucc38\uc8fd \uc5ec\uc218\uc5ec\ubb38\uc810", "address": "\uc804\ub0a8 \uc5ec\uc218\uc2dc \ub300\uce583\uae38 13", "website": "http://place.map.daum.net/21654826", "phone": "061-653-6233", "source": "\uc11c\uad50\ub3d9 - \ud569\uc815\uc5ed - \ub9db\uae54\ucc38\uc8fd", "pid": "21654826"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.974526019536, 37.5714490954993]}, "properties": {"name": "\ucd08\uc6d0\uc8fd\uc9d1", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc0c8\ubb38\uc548\ub85c5\uae38 13", "website": "http://place.map.daum.net/8588121", "phone": "02-735-5904", "source": "\ub2f9\uc8fc\ub3d9 - \uad11\ud654\ubb38\uc5ed - \ucd08\uc6d0", "pid": "8588121"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.981109994696, 37.5698465609494]}, "properties": {"name": "\uc57d\uc218\ud130", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc885\ub85c 34", "website": "http://place.map.daum.net/13557708", "phone": "02-739-9678", "source": "\uc11c\ub9b0\ub3d9 - \uc885\uac01\uc5ed - \uc8fd\uc9d1 \uc57d\uc218\ud130", "pid": "13557708"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.989173402924, 37.5740858568012]}, "properties": {"name": "\uc5f0\uc8fd", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc0bc\uc77c\ub300\ub85c30\uae38 28", "website": "http://place.map.daum.net/8443876", "phone": "02-741-8004", "source": "\uc775\uc120\ub3d9 - \uc885\ub85c 3\uac00\uc5ed - \uc5f0\uc8fd", "pid": "8443876"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.018757521345, 37.5651505920209]}, "properties": {"name": "\uc2e0\ub2f9\ub3d9\ucc9c\ud325\uc8fd", "address": "\uc11c\uc6b8 \uc911\uad6c \ub2e4\uc0b0\ub85c44\uae38 33", "website": "http://place.map.daum.net/9842753", "phone": "02-2237-6385", "source": "\uc2e0\ub2f9\ub3d9 - \uc2e0\ub2f9\uc5ed - \uc2e0\ub2f9\ub3d9\ucc9c\ud325\uc8fd", "pid": "9842753"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.991995666987, 37.5621136509372]}, "properties": {"name": "\uc1a1\uc8fd", "address": "\uc11c\uc6b8 \uc911\uad6c \uc218\ud45c\ub85c2\uae38 26", "website": "http://place.map.daum.net/23105939", "phone": "02-2265-5129", "source": "\ud544\ub3d9 - \ucda9\ubb34\ub85c\uc5ed - \uc1a1\uc8fd", "pid": "23105939"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.060945037516, 37.5151957321229]}, "properties": {"name": "\uc6d0\uc8fd \uc0bc\uc131\uc810", "address": "\uc11c\uc6b8 \uac15\ub0a8\uad6c \uc601\ub3d9\ub300\ub85c112\uae38 9", "website": "http://place.map.daum.net/16820419", "phone": "02-543-8266", "source": "\uc0bc\uc131\ub3d9 - \ubd09\uc740\uc0ac\uc5ed - \uc6d0\uc8fd", "pid": "16820419"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.981821394796, 37.5862735984118]}, "properties": {"name": "\uc11c\uc6b8\uc11c \ub458\uc9f8\ub85c\uc798\ud558\ub294\uc9d1", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc0bc\uccad\ub85c 122-1", "website": "http://place.map.daum.net/7941905", "phone": "02-734-5302", "source": "\uc0bc\uccad\ub3d9 - \uc548\uad6d\uc5ed - \uc11c\uc6b8\uc5d0\uc11c\ub450\ubc88\uc9f8\ub85c\uc798\ud558\ub294\uc9d1", "pid": "7941905"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.921602493815, 37.5295726453777]}, "properties": {"name": "\ub2e4\ud654", "address": "\uc11c\uc6b8 \uc601\ub4f1\ud3ec\uad6c \uad6d\ud68c\ub300\ub85c74\uae38 20", "website": "http://place.map.daum.net/8220939", "phone": "02-784-9810", "source": "\uc5ec\uc758\ub3c4\ub3d9 - \uc5ec\uc758\ub3c4\uc5ed - \ub2e4\ud654", "pid": "8220939"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.930014392196, 37.5207012570397]}, "properties": {"name": "\ub300\uc5ec\uc8fd\uc9d1", "address": "\uc11c\uc6b8 \uc601\ub4f1\ud3ec\uad6c \uc5ec\uc758\ub300\ubc29\ub85c67\uae38 22", "website": "http://place.map.daum.net/11010649", "phone": "02-783-6023", "source": "\uc5ec\uc758\ub3c4\ub3d9 - \uc5ec\uc758\ub3c4\uc5ed \u2013 \ub300\uc5ec", "pid": "11010649"}}
-]}
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.69972484599,
+     34.7469341826717
+    ]
+   },
+   "properties": {
+    "pid": "21654826",
+    "name": "맛깔참죽 여수여문점",
+    "phone": "061-653-6233",
+    "source": "서교동 - 합정역 - 맛깔참죽",
+    "address": "전남 여수시 대치3길 13",
+    "website": "http://place.map.daum.net/21654826",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.974526019536,
+     37.5714490954993
+    ]
+   },
+   "properties": {
+    "pid": "8588121",
+    "name": "초원죽집",
+    "phone": "02-735-5904",
+    "source": "당주동 - 광화문역 - 초원",
+    "address": "서울 종로구 새문안로5길 13",
+    "website": "http://place.map.daum.net/8588121",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981109994696,
+     37.5698465609494
+    ]
+   },
+   "properties": {
+    "pid": "13557708",
+    "name": "약수터",
+    "phone": "02-739-9678",
+    "source": "서린동 - 종각역 - 죽집 약수터",
+    "address": "서울 종로구 종로 34",
+    "website": "http://place.map.daum.net/13557708",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989173402924,
+     37.5740858568012
+    ]
+   },
+   "properties": {
+    "pid": "8443876",
+    "name": "연죽",
+    "phone": "02-741-8004",
+    "source": "익선동 - 종로 3가역 - 연죽",
+    "address": "서울 종로구 삼일대로30길 28",
+    "website": "http://place.map.daum.net/8443876",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.018757521345,
+     37.5651505920209
+    ]
+   },
+   "properties": {
+    "pid": "9842753",
+    "name": "신당동천팥죽",
+    "phone": "02-2237-6385",
+    "source": "신당동 - 신당역 - 신당동천팥죽",
+    "address": "서울 중구 다산로44길 33",
+    "website": "http://place.map.daum.net/9842753",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.991995666987,
+     37.5621136509372
+    ]
+   },
+   "properties": {
+    "pid": "23105939",
+    "name": "송죽",
+    "phone": "02-2265-5129",
+    "source": "필동 - 충무로역 - 송죽",
+    "address": "서울 중구 수표로2길 26",
+    "website": "http://place.map.daum.net/23105939",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.060945037516,
+     37.5151957321229
+    ]
+   },
+   "properties": {
+    "pid": "16820419",
+    "name": "원죽 삼성점",
+    "phone": "02-543-8266",
+    "source": "삼성동 - 봉은사역 - 원죽",
+    "address": "서울 강남구 영동대로112길 9",
+    "website": "http://place.map.daum.net/16820419",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981821394796,
+     37.5862735984118
+    ]
+   },
+   "properties": {
+    "pid": "7941905",
+    "name": "서울서 둘째로잘하는집",
+    "phone": "02-734-5302",
+    "source": "삼청동 - 안국역 - 서울에서두번째로잘하는집",
+    "address": "서울 종로구 삼청로 122-1",
+    "website": "http://place.map.daum.net/7941905",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921602493815,
+     37.5295726453777
+    ]
+   },
+   "properties": {
+    "pid": "8220939",
+    "name": "다화",
+    "phone": "02-784-9810",
+    "source": "여의도동 - 여의도역 - 다화",
+    "address": "서울 영등포구 국회대로74길 20",
+    "website": "http://place.map.daum.net/8220939",
+    "category": "죽"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.930014392196,
+     37.5207012570397
+    ]
+   },
+   "properties": {
+    "pid": "11010649",
+    "name": "대여죽집",
+    "phone": "02-783-6023",
+    "source": "여의도동 - 여의도역 - 대여",
+    "address": "서울 영등포구 여의대방로67길 22",
+    "website": "http://place.map.daum.net/11010649",
+    "category": "죽"
+   }
+  }
+ ]
+}

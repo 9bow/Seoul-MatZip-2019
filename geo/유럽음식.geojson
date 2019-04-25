@@ -1,0 +1,936 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992414926641,
+     37.5350332618453
+    ]
+   },
+   "properties": {
+    "pid": "8085472",
+    "name": "젤렌 이태원점",
+    "phone": "02-749-0600",
+    "source": "이태원동 - 이태원역 - 젤렌 - 불가리아",
+    "address": "서울 용산구 이태원로27가길 52",
+    "website": "http://place.map.daum.net/8085472",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.995166596946,
+     37.534341437894
+    ]
+   },
+   "properties": {
+    "pid": "17061718",
+    "name": "케르반 레스토랑 이태원점",
+    "phone": "02-792-4767",
+    "source": "이태원동 - 이태원역 - 케르반레스토랑 - 터키",
+    "address": "서울 용산구 이태원로 190",
+    "website": "http://place.map.daum.net/17061718",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.996524287573,
+     37.5344892497986
+    ]
+   },
+   "properties": {
+    "pid": "24375610",
+    "name": "케르반베이커리",
+    "phone": "02-790-5585",
+    "source": "이태원동 - 이태원역 - 케르반 베이커리 - 터키",
+    "address": "서울 용산구 이태원로 204",
+    "website": "http://place.map.daum.net/24375610",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.995356670795,
+     37.5344027135795
+    ]
+   },
+   "properties": {
+    "pid": "11520662",
+    "name": "미스터케밥 이태원점",
+    "phone": "070-7758-1997",
+    "source": "이태원동 - 이태원역 - 미스터 케밥 - 터키",
+    "address": "서울 용산구 이태원로 192",
+    "website": "http://place.map.daum.net/11520662",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.994293142428,
+     37.5343738349466
+    ]
+   },
+   "properties": {
+    "pid": "17001472",
+    "name": "앙카라피크닉",
+    "phone": "02-793-2550",
+    "source": "이태원동 - 이태원역 - 앙카라피크닉 - 터키",
+    "address": "서울 용산구 이태원로 182",
+    "website": "http://place.map.daum.net/17001472",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000529842288,
+     37.5824115380737
+    ]
+   },
+   "properties": {
+    "pid": "10758047",
+    "name": "이스탄불",
+    "phone": "02-744-9790",
+    "source": "명륜동 - 대학로역 - 이스탄불 - 터키",
+    "address": "서울 종로구 대학로11길 20",
+    "website": "http://place.map.daum.net/10758047",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.994243387037,
+     37.5340242441846
+    ]
+   },
+   "properties": {
+    "pid": "11123498",
+    "name": "술탄터키케밥하우스",
+    "phone": "02-749-3890",
+    "source": "이태원동 - 이태원역 - 술탄케밥 - 터키",
+    "address": "서울 용산구 보광로 126",
+    "website": "http://place.map.daum.net/11123498",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99545278362011,
+     37.533913681663336
+    ]
+   },
+   "properties": {
+    "pid": "22424238",
+    "name": "살람베이커리 2호점",
+    "phone": "070-4025-7044",
+    "source": "이태원동 - 이태원역 - 살람 - 터키",
+    "address": "서울 용산구 보광로60길 22",
+    "website": "http://place.map.daum.net/22424238",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98234426810589,
+     37.558363283724496
+    ]
+   },
+   "properties": {
+    "pid": "25462155",
+    "name": "헴라갓",
+    "phone": "02-318-3335",
+    "source": "회현동1가 - 회현역 - 헴라갓 - 스웨덴",
+    "address": "서울 중구 소공로 35",
+    "website": "http://place.map.daum.net/25462155",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0249063850548,
+     37.52269594194498
+    ]
+   },
+   "properties": {
+    "pid": "21354068",
+    "name": "피카 델리점",
+    "phone": "02-514-6690",
+    "source": "신사동 - 신사역 - 피카 - 스웨덴",
+    "address": "서울 강남구 논현로159길 36-5",
+    "website": "http://place.map.daum.net/21354068",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.967799484214,
+     37.5774877208724
+    ]
+   },
+   "properties": {
+    "pid": "27144696",
+    "name": "호이리거서울",
+    "phone": "02-722-0333",
+    "source": "내자동 - 경복궁역 - 호이리거 - 오스트리아",
+    "address": "서울 종로구 사직로9길 22",
+    "website": "http://place.map.daum.net/27144696",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92113441668,
+     37.5529226392494
+    ]
+   },
+   "properties": {
+    "pid": "11053709",
+    "name": "보난자",
+    "phone": "02-322-8755",
+    "source": "서교동 - 홍대입구역 - 보난자 - 독일",
+    "address": "서울 마포구 양화로16길 30",
+    "website": "http://place.map.daum.net/11053709",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987476649622,
+     37.539447743498
+    ]
+   },
+   "properties": {
+    "pid": "18376376",
+    "name": "더베이커스테이블",
+    "phone": "070-7717-3501",
+    "source": "이태원동 - 녹사평역 - 더 베이커스 테이블 - 독일",
+    "address": "서울 용산구 녹사평대로 244-1",
+    "website": "http://place.map.daum.net/18376376",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989858255565,
+     37.539639974707974
+    ]
+   },
+   "properties": {
+    "pid": "25985349",
+    "name": "베를린커리부어스트",
+    "phone": "",
+    "source": "이태원동 - 녹사평역 - 베를린 커리부어스트 - 독일",
+    "address": "서울 용산구 회나무로 29",
+    "website": "http://place.map.daum.net/25985349",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000520789247,
+     37.5829989858595
+    ]
+   },
+   "properties": {
+    "pid": "25463398",
+    "name": "독일주택",
+    "phone": "02-742-1933",
+    "source": "명륜동 - 혜화역 - 독일주택 - 독일",
+    "address": "서울 종로구 대명1길 16-4",
+    "website": "http://place.map.daum.net/25463398",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.003068355276,
+     37.533339583887
+    ]
+   },
+   "properties": {
+    "pid": "11093739",
+    "name": "도이치하우스",
+    "phone": "02-794-1313",
+    "source": "한남동 - 한남역 - 도이치 하우스 - 독일",
+    "address": "서울 용산구 대사관로 46",
+    "website": "http://place.map.daum.net/11093739",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0251801393482,
+     37.525756813003916
+    ]
+   },
+   "properties": {
+    "pid": "9899611",
+    "name": "악소",
+    "phone": "02-794-1142",
+    "source": "한남동 - 한남역 - 악소 - 독일",
+    "address": "서울 강남구 압구정로 151",
+    "website": "http://place.map.daum.net/9899611",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989450004157,
+     37.5392136762551
+    ]
+   },
+   "properties": {
+    "pid": "27273984",
+    "name": "치즈어랏",
+    "phone": "02-796-8160",
+    "source": "이태원동 - 녹사평역 - 치즈 어랏 - 스위스",
+    "address": "서울 용산구 회나무로 24-1",
+    "website": "http://place.map.daum.net/27273984",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.994238734419,
+     37.5356748774142
+    ]
+   },
+   "properties": {
+    "pid": "7986469",
+    "name": "알트스위스샬레",
+    "phone": "02-797-9664",
+    "source": "이태원동 - 이태원역 - 알트 스위스 살레 - 스위스",
+    "address": "서울 용산구 이태원로27길 38",
+    "website": "http://place.map.daum.net/7986469",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.896539278775,
+     37.484928390908
+    ]
+   },
+   "properties": {
+    "pid": "27337556",
+    "name": "레더라 구로지밸리몰점",
+    "phone": "02-6344-3905",
+    "source": "신사동 - 압구정역 - 레더라 - 스위스",
+    "address": "서울 구로구 디지털로 300",
+    "website": "http://place.map.daum.net/27337556",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.923153829401,
+     37.5524662638896
+    ]
+   },
+   "properties": {
+    "pid": "26785197",
+    "name": "메이드바이오즈 홍대직영점",
+    "phone": "02-3144-3922",
+    "source": "서교동 - 홍대입구역 - 메이드 바이 오즈 - 스위스",
+    "address": "서울 마포구 와우산로21길 14",
+    "website": "http://place.map.daum.net/26785197",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926050269848,
+     37.5623178143049
+    ]
+   },
+   "properties": {
+    "pid": "27469522",
+    "name": "부퓌에트 발랴",
+    "phone": "",
+    "source": "연남동 - 홍대입구역 - 부퓌에트발랴 - 러시아",
+    "address": "서울 마포구 동교로46길 23",
+    "website": "http://place.map.daum.net/27469522",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992224946391,
+     37.534078188601
+    ]
+   },
+   "properties": {
+    "pid": "14500573",
+    "name": "트로이카",
+    "phone": "02-797-7724",
+    "source": "이태원동 - 이태원역 - 트로이카 - 러시아",
+    "address": "서울 용산구 이태원로 164-1",
+    "website": "http://place.map.daum.net/14500573",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988467885196,
+     37.5391306924181
+    ]
+   },
+   "properties": {
+    "pid": "17086938",
+    "name": "엘그레코스",
+    "phone": "070-8263-8678",
+    "source": "이태원동 - 녹사평역 - 엘그레코스 - 그리스",
+    "address": "서울 용산구 녹사평대로54길 23",
+    "website": "http://place.map.daum.net/17086938",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.991125248188,
+     37.5338006027928
+    ]
+   },
+   "properties": {
+    "pid": "23419712",
+    "name": "그릭온더그릴",
+    "phone": "02-794-7043",
+    "source": "이태원동 - 녹사평역 - 그릭 온 더 그릴 - 그리스",
+    "address": "서울 용산구 보광로59길 51",
+    "website": "http://place.map.daum.net/23419712",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.913752157404,
+     37.5481962474724
+    ]
+   },
+   "properties": {
+    "pid": "8710354",
+    "name": "그릭조이",
+    "phone": "02-338-2100",
+    "source": "서교동 - 홍대입구역 - 그릭조이 - 그리스",
+    "address": "서울 마포구 성지1길 6",
+    "website": "http://place.map.daum.net/8710354",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987059901302,
+     37.5415272064002
+    ]
+   },
+   "properties": {
+    "pid": "23578921",
+    "name": "드라큘라라운지",
+    "phone": "",
+    "source": "용산동 - 녹사평역 - 드라큘라 라운지 - 루마니아",
+    "address": "서울 용산구 신흥로 33",
+    "website": "http://place.map.daum.net/23578921",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.06133871025135,
+     37.51524598454659
+    ]
+   },
+   "properties": {
+    "pid": "17893851",
+    "name": "소브스위드살몬",
+    "phone": "02-512-0140",
+    "source": "삼성동 - 봉은사역 - 소브 스위드 살몬 - 노르웨이",
+    "address": "",
+    "website": "http://place.map.daum.net/17893851",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.027982986776,
+     37.5002442508043
+    ]
+   },
+   "properties": {
+    "pid": "27587532",
+    "name": "나즈드라비 본점",
+    "phone": "02-558-0053",
+    "source": "역삼동 - 강남역 - 나즈드라비 - 체코",
+    "address": "서울 강남구 테헤란로1길 28-6",
+    "website": "http://place.map.daum.net/27587532",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.994791427773,
+     37.5927548208603
+    ]
+   },
+   "properties": {
+    "pid": "27319212",
+    "name": "우물우물",
+    "phone": "02-747-4297",
+    "source": "성북동 - 한성대입구역 - 우물우물 - 잉글랜드",
+    "address": "서울 성북구 성북로23길 24",
+    "website": "http://place.map.daum.net/27319212",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.023912546332,
+     37.5027499412113
+    ]
+   },
+   "properties": {
+    "pid": "27475417",
+    "name": "소브레메사",
+    "phone": "02-536-0669",
+    "source": "서초동 - 신논현역 - 소브레메사 - 스페인",
+    "address": "서울 서초구 서초대로77길 62",
+    "website": "http://place.map.daum.net/27475417",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02782587521,
+     37.50351674102
+    ]
+   },
+   "properties": {
+    "pid": "27583375",
+    "name": "케렌시아 강남점",
+    "phone": "02-563-4567",
+    "source": "역삼동 - 신논현역 - 케렌시아 - 스페인",
+    "address": "서울 강남구 강남대로106길 29",
+    "website": "http://place.map.daum.net/27583375",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026336887857,
+     37.5016429905049
+    ]
+   },
+   "properties": {
+    "pid": "27375629",
+    "name": "리얼스페인 강남점",
+    "phone": "02-538-3614",
+    "source": "역삼동 - 강남역 - 리얼스페인 - 스페인",
+    "address": "서울 강남구 강남대로 438",
+    "website": "http://place.map.daum.net/27375629",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.029401737713,
+     37.5190821107512
+    ]
+   },
+   "properties": {
+    "pid": "27092798",
+    "name": "타파스타파",
+    "phone": "02-515-1170",
+    "source": "논현동 - 학동역 - 타파스타파 - 스페인",
+    "address": "서울 강남구 도산대로30길 12",
+    "website": "http://place.map.daum.net/27092798",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0247097005,
+     37.5194291707615
+    ]
+   },
+   "properties": {
+    "pid": "12442152",
+    "name": "엘쁠라또",
+    "phone": "02-325-3515",
+    "source": "신사동 - 신사역 - 엘쁠라또 - 스페인",
+    "address": "서울 강남구 도산대로17길 11",
+    "website": "http://place.map.daum.net/12442152",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.021909599792,
+     37.5219056794705
+    ]
+   },
+   "properties": {
+    "pid": "10337547",
+    "name": "스페인클럽 가로수길점",
+    "phone": "02-515-1118",
+    "source": "신사동 - 신사역 - 스페인클럽 (홍대, 이태원에도 있음) - 스페인",
+    "address": "서울 강남구 압구정로10길 26",
+    "website": "http://place.map.daum.net/10337547",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926254977316,
+     37.5613268462214
+    ]
+   },
+   "properties": {
+    "pid": "26533374",
+    "name": "꼬메이베베",
+    "phone": "02-324-5808",
+    "source": "연남동 - 홍대입구역 - 꼬메이베베 - 스페인",
+    "address": "서울 마포구 연희로1길 55",
+    "website": "http://place.map.daum.net/26533374",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.91967282044132,
+     37.54944020772519
+    ]
+   },
+   "properties": {
+    "pid": "1103572841",
+    "name": "플란차404",
+    "phone": "",
+    "source": "서교동 - 홍대입구역 - 맛있는 스페인 - 스페인",
+    "address": "서울 마포구 독막로7길 40",
+    "website": "http://place.map.daum.net/1103572841",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.918377008662,
+     37.5617721609882
+    ]
+   },
+   "properties": {
+    "pid": "11749150",
+    "name": "빠끼또",
+    "phone": "02-6407-6064",
+    "source": "서교동 - 홍대입구역 - 빠끼또 - 스페인",
+    "address": "서울 마포구 성미산로17길 4",
+    "website": "http://place.map.daum.net/11749150",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92106483877,
+     37.5459272416092
+    ]
+   },
+   "properties": {
+    "pid": "26330417",
+    "name": "까리뇨",
+    "phone": "02-338-1232",
+    "source": "상수동 - 상수역 - 까리뇨 - 스페인",
+    "address": "서울 마포구 와우산로3길 34",
+    "website": "http://place.map.daum.net/26330417",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.934023641935,
+     37.5717793901969
+    ]
+   },
+   "properties": {
+    "pid": "26776693",
+    "name": "작은스페인",
+    "phone": "02-322-8870",
+    "source": "연희동 - 홍대입구역 - 작은스페인 - 스페인",
+    "address": "서울 서대문구 연희로25길 37",
+    "website": "http://place.map.daum.net/26776693",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98864510540183,
+     37.534459923030695
+    ]
+   },
+   "properties": {
+    "pid": "24211068",
+    "name": "타페오",
+    "phone": "02-794-2848",
+    "source": "이태원동 - 이태원역 - 타페오 - 스페인",
+    "address": "서울 용산구 녹사평대로40길 51",
+    "website": "http://place.map.daum.net/24211068",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98696551274,
+     37.5377393917737
+    ]
+   },
+   "properties": {
+    "pid": "12602186",
+    "name": "미마드레",
+    "phone": "02-790-7875",
+    "source": "이태원동 - 녹사평역 - 미마드레 - 스페인",
+    "address": "서울 용산구 녹사평대로 224-1",
+    "website": "http://place.map.daum.net/12602186",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.970841733869,
+     37.5794022229761
+    ]
+   },
+   "properties": {
+    "pid": "20628775",
+    "name": "따빠스구르메",
+    "phone": "02-6014-2369",
+    "source": "통인동 - 경복궁역 - 타파스구르메 - 스페인",
+    "address": "서울 종로구 자하문로9길 7",
+    "website": "http://place.map.daum.net/20628775",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.969356369377,
+     37.5795351938392
+    ]
+   },
+   "properties": {
+    "pid": "24545275",
+    "name": "고미스",
+    "phone": "02-722-9123",
+    "source": "체부동 - 경복궁역 - 고미스 - 스페인",
+    "address": "서울 종로구 자하문로9길 34",
+    "website": "http://place.map.daum.net/24545275",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.96910997876,
+     37.5730695936594
+    ]
+   },
+   "properties": {
+    "pid": "1491378893",
+    "name": "따빠마드레",
+    "phone": "02-722-4199",
+    "source": "신문로2가 - 경복궁역 - 따빠마드레 - 스페인",
+    "address": "서울 종로구 경희궁길 43",
+    "website": "http://place.map.daum.net/1491378893",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981554824286,
+     37.5837255485381
+    ]
+   },
+   "properties": {
+    "pid": "14623318",
+    "name": "살루드타파",
+    "phone": "02-730-2714",
+    "source": "삼청동 - 안국역 - 스페인시장 엘까사 - 스페인",
+    "address": "서울 종로구 팔판길 46",
+    "website": "http://place.map.daum.net/14623318",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.984847224419,
+     37.5833584118092
+    ]
+   },
+   "properties": {
+    "pid": "26304039",
+    "name": "떼레노",
+    "phone": "02-332-5525",
+    "source": "가회동 - 안국역 - 떼레노 - 스페인",
+    "address": "서울 종로구 북촌로 71",
+    "website": "http://place.map.daum.net/26304039",
+    "category": "유럽 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000230971704,
+     37.5872048226104
+    ]
+   },
+   "properties": {
+    "pid": "10580861",
+    "name": "알바이신 대학로점",
+    "phone": "02-741-5841",
+    "source": "혜화동 - 혜화역 - 알바이신 - 스페인",
+    "address": "서울 종로구 혜화로 18",
+    "website": "http://place.map.daum.net/10580861",
+    "category": "유럽 음식"
+   }
+  }
+ ]
+}

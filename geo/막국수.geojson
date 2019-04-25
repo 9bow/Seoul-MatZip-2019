@@ -1,36 +1,670 @@
-{"type": "FeatureCollection","features": [
-  {"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.816147933842, 37.5774570636626]}, "properties": {"name": "\uac15\uc6d0\ub3c4\uace0\uc131\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uac15\uc11c\uad6c \ubc29\ud654\ub300\ub85c49\uae38 6-7", "website": "http://place.map.daum.net/16989715", "phone": "02-2665-1205", "source": "\ubc29\ud654\ub3d9 - \ubc29\ud654\uc5ed - \uace0\uc131\ub9c9\uad6d\uc218", "pid": "16989715"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.008216122217, 37.5530459993937]}, "properties": {"name": "\ucc98\uac00\uc9d1", "address": "\uc11c\uc6b8 \uc911\uad6c \ub3d9\ud638\ub85c11\uac00\uae38 22", "website": "http://place.map.daum.net/16445172", "phone": "02-2235-4589", "source": "\ub2e4\uc0b0\ub3d9 - \uc57d\uc218\uc5ed - \ucc98\uac00\uc9d1", "pid": "16445172"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.010158166079, 37.5534242674395]}, "properties": {"name": "\uc9c4\ub0a8\ud3ec\uba74\uc625", "address": "\uc11c\uc6b8 \uc911\uad6c \ub2e4\uc0b0\ub85c 108", "website": "http://place.map.daum.net/8076538", "phone": "02-2252-2457", "source": "\uc57d\uc218\ub3d9 - \uc57d\uc218\uc5ed - \uc9c4\ub0a8\ud3ec\uba74\uc625", "pid": "8076538"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.01031863376261, 37.555830097762694]}, "properties": {"name": "\ub9cc\ud3ec\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc911\uad6c \ub3d9\ud638\ub85c14\uae38 2", "website": "http://place.map.daum.net/21722308", "phone": "02-2235-1357", "source": "\ub2e4\uc0b0\ub3d9 - \uc57d\uc218\uc5ed - \ub9cc\ud3ec\ub9c9\uad6d\uc218", "pid": "21722308"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.085158171251, 37.5094575796711]}, "properties": {"name": "\ub0a8\uacbd\ub9c9\uad6d\uc218 \uc2e0\ucc9c\uc810", "address": "\uc11c\uc6b8 \uc1a1\ud30c\uad6c \ubc31\uc81c\uace0\ubd84\ub85c7\uae38 52-29", "website": "http://place.map.daum.net/14878561", "phone": "02-417-0060", "source": "\uc7a0\uc2e4\ub3d9 - \uc2e0\ucc9c\uc5ed - \ub0a8\uacbd\ub9c9\uad6d\uc218", "pid": "14878561"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.963060803669, 37.5359107089117]}, "properties": {"name": "\ubc15\uba85\ub3c4\ubd09\ud3c9\uba54\ubc00\ub9c9\uad6d\uc218 \ubcf8\uc810", "address": "\uc11c\uc6b8 \uc6a9\uc0b0\uad6c \uc6d0\ud6a8\ub85c 184", "website": "http://place.map.daum.net/1770466898", "phone": "02-717-7711", "source": "\uc6d0\ud6a8\ub85c 2\uac00 - \ud6a8\ucc3d\uacf5\uc6d0\uc55e\uc5ed - \ubd09\ud3c9 \uba54\ubc00 \ub9c9\uad6d\uc218", "pid": "1770466898"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.124554380837, 37.5284409724457]}, "properties": {"name": "\ud654\uc9c4\ud3ec\ub9c9\uad6d\uc218 \uac15\ub3d9\uad6c\uccad\uc810", "address": "\uc11c\uc6b8 \uac15\ub3d9\uad6c \uc131\ub0b4\ub85c10\uae38 12", "website": "http://place.map.daum.net/8165290", "phone": "02-478-1539", "source": "\uc131\ub0b4\ub3d9 - \uac15\ub3d9\uad6c\uccad\uc5ed - \ud654\uc9c4\ud3ec \ub9c9\uad6d\uc218", "pid": "8165290"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.016039622311, 37.4952801285782]}, "properties": {"name": "\uc0d8\ubc2d\ub9c9\uad6d\uc218 \uc11c\ucd08\uc810", "address": "\uc11c\uc6b8 \uc11c\ucd08\uad6c \uc11c\ucd08\uc911\uc559\ub85c24\uae38 27", "website": "http://place.map.daum.net/130561410", "phone": "02-585-1702", "source": "\uc11c\ucd08\ub3d9 - \uad50\ub300\uc5ed - \uc0d8\ubc2d\ub9c9\uad6d\uc218", "pid": "130561410"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.027826419765, 37.4684026475805]}, "properties": {"name": "\ubd09\ud3c9\ub9c9\uad6d\uc218\uc804\ubb38", "address": "\uc11c\uc6b8 \uc11c\ucd08\uad6c \ubc14\uc6b0\ubafc\ub85c4\uae38 53", "website": "http://place.map.daum.net/20145644", "phone": "02-572-6465", "source": "\uc11c\ucd08\ub3d9 - \uad50\ub300\uc5ed - \uc6b0\uba74 \ubd09\ud3c9 \ub9c9\uad6d\uc218", "pid": "20145644"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.997369447499, 37.5669288169589]}, "properties": {"name": "\uc0b0\uace8\uba74\uc625\ucd98\ucc9c\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc911\uad6c \uc744\uc9c0\ub85c 175-3", "website": "http://place.map.daum.net/8098734", "phone": "02-2266-5409", "source": "\uc744\uc9c0\ub85c - \uc744\uc9c0\ub85c 4\uac00\uc5ed - \ucd98\ucc9c\ub9c9\uad6d\uc218(\uc0b0\uace8\uba74\uc625)", "pid": "8098734"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.99239296801, 37.5284379311332]}, "properties": {"name": "\uc720\uc9c4\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc6a9\uc0b0\uad6c \uc7a5\ubb38\ub85c 18", "website": "http://place.map.daum.net/9341771", "phone": "02-797-2307", "source": "\ub3d9\ube59\uace0\ub3d9 - \ub179\uc0ac\ud3c9\uc5ed - \uc720\uc9c4\ub9c9\uad6d\uc218", "pid": "9341771"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.057811058256, 37.5698951852154]}, "properties": {"name": "\uc131\ucc9c\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \ub3d9\ub300\ubb38\uad6c \ub2f5\uc2ed\ub9ac\ub85c48\ub098\uae38 2", "website": "http://place.map.daum.net/9141738", "phone": "02-2244-5529", "source": "\ub2f5\uc2ed\ub9ac\ub3d9 - \ub2f5\uc2ed\ub9ac\uc5ed - \uc131\ucc9c\ub9c9\uad6d\uc218 (\uc591\uc7ac\ub3d9\uc5d0 \ubd84\uc810)", "pid": "9141738"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.09794197324524, 37.51128472654813]}, "properties": {"name": "\uba54\ubc00\uacf5\ubc29 \ub86f\ub370\uc6d4\ub4dc\uc810", "address": "\uc11c\uc6b8 \uc1a1\ud30c\uad6c \uc62c\ub9bc\ud53d\ub85c 240", "website": "http://place.map.daum.net/27497812", "phone": "02-2143-1253", "source": "\uc11d\ucd0c\ub3d9 - \uc11d\ucd0c\uc5ed - \uba54\ubc00\uacf5\ubc29", "pid": "27497812"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.128166629857, 37.5528577932415]}, "properties": {"name": "\ub3d9\uc2e0\uba74\uac00", "address": "\uc11c\uc6b8 \uac15\ub3d9\uad6c \uc62c\ub9bc\ud53d\ub85c 803", "website": "http://place.map.daum.net/26646485", "phone": "02-481-8892", "source": "\uc554\uc0ac\ub3d9 - \uc554\uc0ac\uc5ed - \ub3d9\uc2e0\uba74\uac00", "pid": "26646485"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.969289654313, 37.5765871236368]}, "properties": {"name": "\ubd09\ud3c9\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \ud544\uc6b4\ub300\ub85c 6", "website": "http://place.map.daum.net/10459414", "phone": "02-723-4830", "source": "\ud544\uc6b4\ub3d9 - \uacbd\ubcf5\uad81\uc5ed - \ubd09\ud3c9\ub9c9\uad6d\uc218", "pid": "10459414"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.971108762287, 37.5797807060788]}, "properties": {"name": "\uc798\ube60\uc9c4\uba54\ubc00 \uc11c\ucd0c\uc810", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc790\ud558\ubb38\ub85c 41-1", "website": "http://place.map.daum.net/24869605", "phone": "070-4142-1214", "source": "\ud1b5\uc778\ub3d9 - \uacbd\ubcf5\uad81\uc5ed - \uc798\ube60\uc9c4\uba54\ubc00", "pid": "24869605"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.973699324047, 37.5788911296426]}, "properties": {"name": "\uba54\ubc00\uaf43\ud544\ubb34\ub835", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \ud6a8\uc790\ub85c 31-1", "website": "http://place.map.daum.net/16418693", "phone": "02-734-0367", "source": "\ud1b5\uc758\ub3d9 - \uacbd\ubcf5\uad81\uc5ed - \uba54\ubc00\uaf43 \ud544\ubb34\ub835", "pid": "16418693"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.012587902346, 37.6540574363257]}, "properties": {"name": "\ucd98\ucc9c\ub9c9\uad6d\uc218\uc804\ubb38", "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \uc0bc\uc591\ub85c 573", "website": "http://place.map.daum.net/13309306", "phone": "02-993-2229", "source": "\uc6b0\uc774\ub3d9 - \uc30d\ubb38\uc5ed - \ucd98\ucc9c\ub9c9\uad6d\uc218", "pid": "13309306"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.022209097465, 37.6467328267228]}, "properties": {"name": "\uc6d0\uc870\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uac15\ubd81\uad6c \ub178\ud574\ub85c33\uae38 42", "website": "http://place.map.daum.net/16067150", "phone": "02-991-5215", "source": "\uc218\uc720\ub3d9 - \uc218\uc720\uc5ed - \uc6d0\uc870\ub9c9\uad6d\uc218", "pid": "16067150"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.070799589255, 37.65884089825]}, "properties": {"name": "\ud3c9\ucc3d\uba54\ubc00\uad6d\uc218", "address": "\uc11c\uc6b8 \ub178\uc6d0\uad6c \uc0c1\uacc4\ub85c 147", "website": "http://place.map.daum.net/16060214", "phone": "02-932-8770", "source": "\uc0c1\uacc4\ub3d9 - \uc0c1\uacc4\uc5ed - \ud3c9\ucc3d\uba54\ubc00", "pid": "16060214"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.921697632347, 37.6159672956339]}, "properties": {"name": "\uba54\ubc00\ub9c8\uc744", "address": "\uc11c\uc6b8 \uc740\ud3c9\uad6c \uc5f0\uc11c\ub85c26\uae38 23-1", "website": "http://place.map.daum.net/10342053", "phone": "02-386-8903", "source": "\ub300\uc870\ub3d9 - \uc5f0\uc2e0\ub0b4\uc5ed - \uba54\ubc00\ub9c8\uc744", "pid": "10342053"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.934154339228, 37.5724750312594]}, "properties": {"name": "\ub179\uc6d0\uc308\ubc25", "address": "\uc11c\uc6b8 \uc11c\ub300\ubb38\uad6c \uc5f0\ud76c\ub85c25\uae38 22", "website": "http://place.map.daum.net/16904322", "phone": "02-336-9483", "source": "\uc5f0\ud76c\ub3d9 - \ud64d\ub300\uc785\uad6c\uc5ed - \ub179\uc6d0\uc308\ubc25", "pid": "16904322"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.141479153466, 37.5452922300043]}, "properties": {"name": "\ubd09\ud3c9\uc0b0\uace8\uba54\ubc00\ucd0c \uad7d\uc740\ub2e4\ub9ac\uc5ed\uc810", "address": "\uc11c\uc6b8 \uac15\ub3d9\uad6c \uc591\uc7ac\ub300\ub85c127\uae38 21", "website": "http://place.map.daum.net/16932802", "phone": "02-545-6663", "source": "\uba85\uc77c\ub3d9 - \uba85\uc77c\uc5ed, \uad7d\uc740\ub2e4\ub9ac\uc5ed - \ubd09\ud3c9\uba54\ubc00\ucd0c", "pid": "16932802"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.835076440227, 37.5526427861113]}, "properties": {"name": "\ub611\uc21c\uc774\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uac15\uc11c\uad6c \uac15\uc11c\ub85c47\uae38 19", "website": "http://place.map.daum.net/21360740", "phone": "02-2064-2626", "source": "\ub0b4\ubc1c\uc0b0\ub3d9 - \uc6b0\uc7a5\uc0b0\uc5ed - \ub611\uc21c\uc774\ub9c9\uad6d\uc218", "pid": "21360740"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.9882850843, 37.4925163469457]}, "properties": {"name": "\uc591\uc591\uba54\ubc00\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc11c\ucd08\uad6c \ub3d9\uad11\ub85c15\uae38 10", "website": "http://place.map.daum.net/16013228", "phone": "02-3482-3738", "source": "\ubc29\ubc30\ub3d9 - \uc774\uc218\uc5ed, \ub0b4\ubc29\uc5ed - \uc591\uc591\uba54\ubc00\ub9c9\uad6d\uc218", "pid": "16013228"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.004659625902, 37.5780938847705]}, "properties": {"name": "\ubaa8\ud2f0\uc9d1", "address": "\uc11c\uc6b8 \uc885\ub85c\uad6c \uc774\ud654\uc7a52\uae38 1", "website": "http://place.map.daum.net/13578091", "phone": "02-747-4137", "source": "\ub3d9\uc22d\ub3d9 - \ud61c\ud654\uc5ed - \ubaa8\ud2f0\uc9d1", "pid": "13578091"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.939973634643, 37.6559457105446]}, "properties": {"name": "\ud3c9\uc591\ucd08\uacc4\ud0d5\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc740\ud3c9\uad6c \ubd81\ud55c\uc0b0\ub85c 281-15", "website": "http://place.map.daum.net/15265014", "phone": "02-388-2977", "source": "\uc9c4\uad00\ub3d9 - \uad6c\ud30c\ubc1c\uc5ed(\ubd81\ud55c\uc0b0) - \ud3c9\uc591\ucd08\uacc4\ud0d5 \ub9c9\uad6d\uc218", "pid": "15265014"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.91132778551612, 37.499000041912595]}, "properties": {"name": "\ubd09\ud3c9\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uc601\ub4f1\ud3ec\uad6c \ub300\ubc29\ucc9c\ub85c 184", "website": "http://place.map.daum.net/27183147", "phone": "02-831-0867", "source": "\uc2e0\uc6d0\ub3d9 - \uccad\uacc4\uc0b0\uc785\uad6c\uc5ed - \ubd09\ud3c9\ub9c9\uad6d\uc218", "pid": "27183147"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.949187139503, 37.5408673622472]}, "properties": {"name": "\ubd09\ud3c9\uba54\ubc00\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \ub9c8\ud3ec\uad6c \ub3c4\ud654\uae38 29", "website": "http://place.map.daum.net/1569892536", "phone": "", "source": "\ub3c4\ud654\ub3d9 - \ub9c8\ud3ec\uc5ed - \ubd09\ud3c9 \uba54\ubc00 \ub9c9\uad6d\uc218", "pid": "1569892536"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.011959013254, 37.6048960846932]}, "properties": {"name": "\uac15\ub989\uba54\ubc00\ucd0c", "address": "\uc11c\uc6b8 \uc131\ubd81\uad6c \ubcf4\uad6d\ubb38\ub85c2\uae38 3", "website": "http://place.map.daum.net/8730828", "phone": "02-911-2232", "source": "\uc815\ub989\ub3d9 - \uae38\uc74c\uc5ed - \uac15\ub989 \uba54\ubc00\ucd0c (\uba54\ubc00\ucd0c)", "pid": "8730828"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.055380929832, 37.4982163299549]}, "properties": {"name": "\uba54\ubc00\uc5f0\uac00", "address": "\uc11c\uc6b8 \uac15\ub0a8\uad6c \uc120\ub989\ub85c62\uae38 37", "website": "http://place.map.daum.net/26845505", "phone": "02-2052-8700", "source": "\ub300\uce58\ub3d9 - \ud55c\ud2f0\uc5ed - \uba54\ubc00\uc5f0\uac00", "pid": "26845505"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [126.931790787077, 37.5674605516899]}, "properties": {"name": "\ud638\ucc9c\uc2dd\ub2f9", "address": "\uc11c\uc6b8 \uc11c\ub300\ubb38\uad6c \uc5f0\ud76c\ub85c14\uae38 5", "website": "http://place.map.daum.net/799489991", "phone": "02-334-0749", "source": "\uc5f0\ud76c\ub3d9 - \ud64d\ub300\uc785\uad6c\uc5ed - \ud638\ucc9c\uc2dd\ub2f9", "pid": "799489991"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.143231147319, 37.5430880772249]}, "properties": {"name": "\ubbfc\uc131\ub9c9\uad6d\uc218", "address": "\uc11c\uc6b8 \uac15\ub3d9\uad6c \uc591\uc7ac\ub300\ub85c124\uae38 19", "website": "http://place.map.daum.net/13287059", "phone": "02-473-8349", "source": "\uae38\ub3d9 - \uad7d\uc740\ub2e4\ub9ac\uc5ed - \ubbfc\uc131\ub9c9\uad6d\uc218", "pid": "13287059"}}
-  ,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [127.039583192827, 37.5034593260918]}, "properties": {"name": "\ubc31\uc6b4\ubd09\ub9c9\uad6d\uc218 \ubcf8\uc810", "address": "\uc11c\uc6b8 \uac15\ub0a8\uad6c \uc5b8\uc8fc\ub85c93\uae38 30", "website": "http://place.map.daum.net/18522215", "phone": "02-554-5155", "source": "\uc5ed\uc0bc\ub3d9 - \uc5ed\uc0bc\uc5ed - \ubc31\uc6b4\ubd09\ub9c9\uad6d\uc218", "pid": "18522215"}}
-]}
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.816147933842,
+     37.5774570636626
+    ]
+   },
+   "properties": {
+    "pid": "16989715",
+    "name": "강원도고성막국수",
+    "phone": "02-2665-1205",
+    "source": "방화동 - 방화역 - 고성막국수",
+    "address": "서울 강서구 방화대로49길 6-7",
+    "website": "http://place.map.daum.net/16989715",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008216122217,
+     37.5530459993937
+    ]
+   },
+   "properties": {
+    "pid": "16445172",
+    "name": "처가집",
+    "phone": "02-2235-4589",
+    "source": "다산동 - 약수역 - 처가집",
+    "address": "서울 중구 동호로11가길 22",
+    "website": "http://place.map.daum.net/16445172",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.010158166079,
+     37.5534242674395
+    ]
+   },
+   "properties": {
+    "pid": "8076538",
+    "name": "진남포면옥",
+    "phone": "02-2252-2457",
+    "source": "약수동 - 약수역 - 진남포면옥",
+    "address": "서울 중구 다산로 108",
+    "website": "http://place.map.daum.net/8076538",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.01031863376261,
+     37.555830097762694
+    ]
+   },
+   "properties": {
+    "pid": "21722308",
+    "name": "만포막국수",
+    "phone": "02-2235-1357",
+    "source": "다산동 - 약수역 - 만포막국수",
+    "address": "서울 중구 동호로14길 2",
+    "website": "http://place.map.daum.net/21722308",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.085158171251,
+     37.5094575796711
+    ]
+   },
+   "properties": {
+    "pid": "14878561",
+    "name": "남경막국수 신천점",
+    "phone": "02-417-0060",
+    "source": "잠실동 - 신천역 - 남경막국수",
+    "address": "서울 송파구 백제고분로7길 52-29",
+    "website": "http://place.map.daum.net/14878561",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.963060803669,
+     37.5359107089117
+    ]
+   },
+   "properties": {
+    "pid": "1770466898",
+    "name": "박명도봉평메밀막국수 본점",
+    "phone": "02-717-7711",
+    "source": "원효로 2가 - 효창공원앞역 - 봉평 메밀 막국수",
+    "address": "서울 용산구 원효로 184",
+    "website": "http://place.map.daum.net/1770466898",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.124554380837,
+     37.5284409724457
+    ]
+   },
+   "properties": {
+    "pid": "8165290",
+    "name": "화진포막국수 강동구청점",
+    "phone": "02-478-1539",
+    "source": "성내동 - 강동구청역 - 화진포 막국수",
+    "address": "서울 강동구 성내로10길 12",
+    "website": "http://place.map.daum.net/8165290",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.016039622311,
+     37.4952801285782
+    ]
+   },
+   "properties": {
+    "pid": "130561410",
+    "name": "샘밭막국수 서초점",
+    "phone": "02-585-1702",
+    "source": "서초동 - 교대역 - 샘밭막국수",
+    "address": "서울 서초구 서초중앙로24길 27",
+    "website": "http://place.map.daum.net/130561410",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.027826419765,
+     37.4684026475805
+    ]
+   },
+   "properties": {
+    "pid": "20145644",
+    "name": "봉평막국수전문",
+    "phone": "02-572-6465",
+    "source": "서초동 - 교대역 - 우면 봉평 막국수",
+    "address": "서울 서초구 바우뫼로4길 53",
+    "website": "http://place.map.daum.net/20145644",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.997369447499,
+     37.5669288169589
+    ]
+   },
+   "properties": {
+    "pid": "8098734",
+    "name": "산골면옥춘천막국수",
+    "phone": "02-2266-5409",
+    "source": "을지로 - 을지로 4가역 - 춘천막국수(산골면옥)",
+    "address": "서울 중구 을지로 175-3",
+    "website": "http://place.map.daum.net/8098734",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99239296801,
+     37.5284379311332
+    ]
+   },
+   "properties": {
+    "pid": "9341771",
+    "name": "유진막국수",
+    "phone": "02-797-2307",
+    "source": "동빙고동 - 녹사평역 - 유진막국수",
+    "address": "서울 용산구 장문로 18",
+    "website": "http://place.map.daum.net/9341771",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.057811058256,
+     37.5698951852154
+    ]
+   },
+   "properties": {
+    "pid": "9141738",
+    "name": "성천막국수",
+    "phone": "02-2244-5529",
+    "source": "답십리동 - 답십리역 - 성천막국수 (양재동에 분점)",
+    "address": "서울 동대문구 답십리로48나길 2",
+    "website": "http://place.map.daum.net/9141738",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.09794197324524,
+     37.51128472654813
+    ]
+   },
+   "properties": {
+    "pid": "27497812",
+    "name": "메밀공방 롯데월드점",
+    "phone": "02-2143-1253",
+    "source": "석촌동 - 석촌역 - 메밀공방",
+    "address": "서울 송파구 올림픽로 240",
+    "website": "http://place.map.daum.net/27497812",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.128166629857,
+     37.5528577932415
+    ]
+   },
+   "properties": {
+    "pid": "26646485",
+    "name": "동신면가",
+    "phone": "02-481-8892",
+    "source": "암사동 - 암사역 - 동신면가",
+    "address": "서울 강동구 올림픽로 803",
+    "website": "http://place.map.daum.net/26646485",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.969289654313,
+     37.5765871236368
+    ]
+   },
+   "properties": {
+    "pid": "10459414",
+    "name": "봉평막국수",
+    "phone": "02-723-4830",
+    "source": "필운동 - 경복궁역 - 봉평막국수",
+    "address": "서울 종로구 필운대로 6",
+    "website": "http://place.map.daum.net/10459414",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.971108762287,
+     37.5797807060788
+    ]
+   },
+   "properties": {
+    "pid": "24869605",
+    "name": "잘빠진메밀 서촌점",
+    "phone": "070-4142-1214",
+    "source": "통인동 - 경복궁역 - 잘빠진메밀",
+    "address": "서울 종로구 자하문로 41-1",
+    "website": "http://place.map.daum.net/24869605",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.973699324047,
+     37.5788911296426
+    ]
+   },
+   "properties": {
+    "pid": "16418693",
+    "name": "메밀꽃필무렵",
+    "phone": "02-734-0367",
+    "source": "통의동 - 경복궁역 - 메밀꽃 필무렵",
+    "address": "서울 종로구 효자로 31-1",
+    "website": "http://place.map.daum.net/16418693",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.012587902346,
+     37.6540574363257
+    ]
+   },
+   "properties": {
+    "pid": "13309306",
+    "name": "춘천막국수전문",
+    "phone": "02-993-2229",
+    "source": "우이동 - 쌍문역 - 춘천막국수",
+    "address": "서울 강북구 삼양로 573",
+    "website": "http://place.map.daum.net/13309306",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.022209097465,
+     37.6467328267228
+    ]
+   },
+   "properties": {
+    "pid": "16067150",
+    "name": "원조막국수",
+    "phone": "02-991-5215",
+    "source": "수유동 - 수유역 - 원조막국수",
+    "address": "서울 강북구 노해로33길 42",
+    "website": "http://place.map.daum.net/16067150",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.070799589255,
+     37.65884089825
+    ]
+   },
+   "properties": {
+    "pid": "16060214",
+    "name": "평창메밀국수",
+    "phone": "02-932-8770",
+    "source": "상계동 - 상계역 - 평창메밀",
+    "address": "서울 노원구 상계로 147",
+    "website": "http://place.map.daum.net/16060214",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921697632347,
+     37.6159672956339
+    ]
+   },
+   "properties": {
+    "pid": "10342053",
+    "name": "메밀마을",
+    "phone": "02-386-8903",
+    "source": "대조동 - 연신내역 - 메밀마을",
+    "address": "서울 은평구 연서로26길 23-1",
+    "website": "http://place.map.daum.net/10342053",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.934154339228,
+     37.5724750312594
+    ]
+   },
+   "properties": {
+    "pid": "16904322",
+    "name": "녹원쌈밥",
+    "phone": "02-336-9483",
+    "source": "연희동 - 홍대입구역 - 녹원쌈밥",
+    "address": "서울 서대문구 연희로25길 22",
+    "website": "http://place.map.daum.net/16904322",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.141479153466,
+     37.5452922300043
+    ]
+   },
+   "properties": {
+    "pid": "16932802",
+    "name": "봉평산골메밀촌 굽은다리역점",
+    "phone": "02-545-6663",
+    "source": "명일동 - 명일역, 굽은다리역 - 봉평메밀촌",
+    "address": "서울 강동구 양재대로127길 21",
+    "website": "http://place.map.daum.net/16932802",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.835076440227,
+     37.5526427861113
+    ]
+   },
+   "properties": {
+    "pid": "21360740",
+    "name": "똑순이막국수",
+    "phone": "02-2064-2626",
+    "source": "내발산동 - 우장산역 - 똑순이막국수",
+    "address": "서울 강서구 강서로47길 19",
+    "website": "http://place.map.daum.net/21360740",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9882850843,
+     37.4925163469457
+    ]
+   },
+   "properties": {
+    "pid": "16013228",
+    "name": "양양메밀막국수",
+    "phone": "02-3482-3738",
+    "source": "방배동 - 이수역, 내방역 - 양양메밀막국수",
+    "address": "서울 서초구 동광로15길 10",
+    "website": "http://place.map.daum.net/16013228",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.004659625902,
+     37.5780938847705
+    ]
+   },
+   "properties": {
+    "pid": "13578091",
+    "name": "모티집",
+    "phone": "02-747-4137",
+    "source": "동숭동 - 혜화역 - 모티집",
+    "address": "서울 종로구 이화장2길 1",
+    "website": "http://place.map.daum.net/13578091",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.939973634643,
+     37.6559457105446
+    ]
+   },
+   "properties": {
+    "pid": "15265014",
+    "name": "평양초계탕막국수",
+    "phone": "02-388-2977",
+    "source": "진관동 - 구파발역(북한산) - 평양초계탕 막국수",
+    "address": "서울 은평구 북한산로 281-15",
+    "website": "http://place.map.daum.net/15265014",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.91132778551612,
+     37.499000041912595
+    ]
+   },
+   "properties": {
+    "pid": "27183147",
+    "name": "봉평막국수",
+    "phone": "02-831-0867",
+    "source": "신원동 - 청계산입구역 - 봉평막국수",
+    "address": "서울 영등포구 대방천로 184",
+    "website": "http://place.map.daum.net/27183147",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.949187139503,
+     37.5408673622472
+    ]
+   },
+   "properties": {
+    "pid": "1569892536",
+    "name": "봉평메밀막국수",
+    "phone": "",
+    "source": "도화동 - 마포역 - 봉평 메밀 막국수",
+    "address": "서울 마포구 도화길 29",
+    "website": "http://place.map.daum.net/1569892536",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.011959013254,
+     37.6048960846932
+    ]
+   },
+   "properties": {
+    "pid": "8730828",
+    "name": "강릉메밀촌",
+    "phone": "02-911-2232",
+    "source": "정릉동 - 길음역 - 강릉 메밀촌 (메밀촌)",
+    "address": "서울 성북구 보국문로2길 3",
+    "website": "http://place.map.daum.net/8730828",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.055380929832,
+     37.4982163299549
+    ]
+   },
+   "properties": {
+    "pid": "26845505",
+    "name": "메밀연가",
+    "phone": "02-2052-8700",
+    "source": "대치동 - 한티역 - 메밀연가",
+    "address": "서울 강남구 선릉로62길 37",
+    "website": "http://place.map.daum.net/26845505",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.931790787077,
+     37.5674605516899
+    ]
+   },
+   "properties": {
+    "pid": "799489991",
+    "name": "호천식당",
+    "phone": "02-334-0749",
+    "source": "연희동 - 홍대입구역 - 호천식당",
+    "address": "서울 서대문구 연희로14길 5",
+    "website": "http://place.map.daum.net/799489991",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.143231147319,
+     37.5430880772249
+    ]
+   },
+   "properties": {
+    "pid": "13287059",
+    "name": "민성막국수",
+    "phone": "02-473-8349",
+    "source": "길동 - 굽은다리역 - 민성막국수",
+    "address": "서울 강동구 양재대로124길 19",
+    "website": "http://place.map.daum.net/13287059",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.039583192827,
+     37.5034593260918
+    ]
+   },
+   "properties": {
+    "pid": "18522215",
+    "name": "백운봉막국수 본점",
+    "phone": "02-554-5155",
+    "source": "역삼동 - 역삼역 - 백운봉막국수",
+    "address": "서울 강남구 언주로93길 30",
+    "website": "http://place.map.daum.net/18522215",
+    "category": "막국수"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.889702348695,
+     37.4778546951962
+    ]
+   },
+   "properties": {
+    "pid": "8117410",
+    "name": "춘천옥",
+    "phone": "02-868-9937",
+    "source": "가산동 - 가산디지털역 - 춘천옥",
+    "address": "서울 금천구 디지털로12길 19",
+    "website": "http://place.map.daum.net/8117410",
+    "category": "막국수"
+   }
+  }
+ ]
+}

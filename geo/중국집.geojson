@@ -1,0 +1,2057 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005183376469,
+     37.5559762162812
+    ]
+   },
+   "properties": {
+    "pid": "8440821",
+    "name": "팔선",
+    "phone": "02-2230-3366",
+    "source": "장충동 - 동대입구역 - 팔선",
+    "address": "서울 중구 동호로 249",
+    "website": "http://place.map.daum.net/8440821",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00206441795899,
+     37.56037317848148
+    ]
+   },
+   "properties": {
+    "pid": "10217454",
+    "name": "홍보각",
+    "phone": "02-2270-3141",
+    "source": "장충동 - 동대입구역 - 홍보각",
+    "address": "서울 중구 동호로 287",
+    "website": "http://place.map.daum.net/10217454",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.032256273604,
+     37.507238568097
+    ]
+   },
+   "properties": {
+    "pid": "26858784",
+    "name": "일일향 2호점",
+    "phone": "02-512-9181",
+    "source": "신사동 - 압구정역 - 일일향",
+    "address": "서울 강남구 봉은사로 167",
+    "website": "http://place.map.daum.net/26858784",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.930504091782,
+     37.5683644008351
+    ]
+   },
+   "properties": {
+    "pid": "21359554",
+    "name": "목란",
+    "phone": "02-732-0054",
+    "source": "연희동 - 홍대입구역 - 목란",
+    "address": "서울 서대문구 연희로15길 21",
+    "website": "http://place.map.daum.net/21359554",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.070742214133,
+     37.5408832340231
+    ]
+   },
+   "properties": {
+    "pid": "24528079",
+    "name": "금룡통닭 건대점",
+    "phone": "",
+    "source": "광장동 - 광나루역 - 금룡",
+    "address": "서울 광진구 능동로 109",
+    "website": "http://place.map.daum.net/24528079",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.978082409316,
+     37.5646707176943
+    ]
+   },
+   "properties": {
+    "pid": "27025622",
+    "name": "더 플라자 도원",
+    "phone": "02-310-7300",
+    "source": "태평로 - 시청역 - 도원",
+    "address": "서울 중구 소공로 119",
+    "website": "http://place.map.daum.net/27025622",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.892730748988,
+     37.4852349412243
+    ]
+   },
+   "properties": {
+    "pid": "13642703",
+    "name": "소공동뚝배기집 구로2호점",
+    "phone": "02-801-8686",
+    "source": "소공동 - 을지로입구역 - 도림",
+    "address": "서울 구로구 디지털로31길 41",
+    "website": "http://place.map.daum.net/13642703",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.029458772737,
+     37.5145374347634
+    ]
+   },
+   "properties": {
+    "pid": "10972091",
+    "name": "홍명",
+    "phone": "02-548-2223",
+    "source": "논현동 - 학동역 - 홍명",
+    "address": "서울 강남구 논현로131길 10",
+    "website": "http://place.map.daum.net/10972091",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.913279343754,
+     37.5577861212588
+    ]
+   },
+   "properties": {
+    "pid": "26550666",
+    "name": "진진 본관",
+    "phone": "070-5035-8878",
+    "source": "서교동 - 홍대입구역 - 진진",
+    "address": "서울 마포구 잔다리로 123",
+    "website": "http://place.map.daum.net/26550666",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04253022928,
+     37.5230136934444
+    ]
+   },
+   "properties": {
+    "pid": "1669970814",
+    "name": "더라운드",
+    "phone": "02-545-4448",
+    "source": "청담동 - 강남구청역 - 더라운드 - 트렌드 중식당",
+    "address": "서울 강남구 선릉로148길 37",
+    "website": "http://place.map.daum.net/1669970814",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.002186000471,
+     37.5380248069931
+    ]
+   },
+   "properties": {
+    "pid": "26793540",
+    "name": "자리",
+    "phone": "070-8278-2947",
+    "source": "한남동 - 한강진역 - 자리 - 트렌드 중식당",
+    "address": "서울 용산구 이태원로54길 5-5",
+    "website": "http://place.map.daum.net/26793540",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.045777147215,
+     37.5271246537279
+    ]
+   },
+   "properties": {
+    "pid": "1399406229",
+    "name": "파불라",
+    "phone": "02-517-2852",
+    "source": "청담동 - 압구정 로데오역 - 파불라 - 트렌드 중식당",
+    "address": "서울 강남구 도산대로81길 51",
+    "website": "http://place.map.daum.net/1399406229",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05952069140761,
+     37.51344490705746
+    ]
+   },
+   "properties": {
+    "pid": "26345047",
+    "name": "피에프창 코엑스몰점",
+    "phone": "02-551-4588",
+    "source": "삼성동 - 삼성역 - 피에프창 - 트렌드 중식당",
+    "address": "서울 강남구 영동대로 517",
+    "website": "http://place.map.daum.net/26345047",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.006740506765,
+     37.5040640333231
+    ]
+   },
+   "properties": {
+    "pid": "184125380",
+    "name": "모던눌랑 센트럴시티점",
+    "phone": "02-6282-5005",
+    "source": "반포동 - 고속터미널역 - 모던눌랑 - 트렌드 중식당",
+    "address": "서울 서초구 사평대로 205",
+    "website": "http://place.map.daum.net/184125380",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.001860132212,
+     37.5378301965054
+    ]
+   },
+   "properties": {
+    "pid": "27553252",
+    "name": "바밍고",
+    "phone": "",
+    "source": "한남동 - 한강진역 - 바밍고 - 트렌드 중식당",
+    "address": "서울 용산구 이태원로54길 8",
+    "website": "http://place.map.daum.net/27553252",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.965592383696,
+     37.5814730953317
+    ]
+   },
+   "properties": {
+    "pid": "27323863",
+    "name": "라누하",
+    "phone": "02-720-3388",
+    "source": "누상동 - 경복궁역 - 라누하 - 트렌드 중식당",
+    "address": "서울 종로구 옥인길 59-1",
+    "website": "http://place.map.daum.net/27323863",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.978244305841,
+     37.5684297026576
+    ]
+   },
+   "properties": {
+    "pid": "27150500",
+    "name": "메이징에이 광화문점",
+    "phone": "02-3783-0600",
+    "source": "태평로 1가 - 광화문역 - 메이징에이 - 트렌드 중식당",
+    "address": "서울 중구 세종대로 136",
+    "website": "http://place.map.daum.net/27150500",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0063503203587,
+     37.50399242500519
+    ]
+   },
+   "properties": {
+    "pid": "6755850",
+    "name": "차알",
+    "phone": "02-6282-3218",
+    "source": "신사동 - 신사역 - 차알 - 트렌드 중식당",
+    "address": "",
+    "website": "http://place.map.daum.net/6755850",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.957756181028,
+     37.5447135015045
+    ]
+   },
+   "properties": {
+    "pid": "8398691",
+    "name": "신성각",
+    "phone": "02-716-1210",
+    "source": "신공덕동 - 공덕역 - 신성각 - 짜장면",
+    "address": "서울 마포구 임정로 55-1",
+    "website": "http://place.map.daum.net/8398691",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92261431284,
+     37.5050876480822
+    ]
+   },
+   "properties": {
+    "pid": "10243866",
+    "name": "대성관",
+    "phone": "02-815-0567",
+    "source": "대방동 - 보라매역 - 대성관 - 짜장면",
+    "address": "서울 동작구 여의대방로 204-1",
+    "website": "http://place.map.daum.net/10243866",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981717199847,
+     37.5678860901623
+    ]
+   },
+   "properties": {
+    "pid": "9351301",
+    "name": "원흥",
+    "phone": "02-3789-3624",
+    "source": "다동 - 을지로입구역 - 원흥 - 짜장면",
+    "address": "서울 중구 다동길 46",
+    "website": "http://place.map.daum.net/9351301",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008808945242,
+     37.5899074718699
+    ]
+   },
+   "properties": {
+    "pid": "7960698",
+    "name": "송림원",
+    "phone": "02-764-7970",
+    "source": "동소문동 - 한성대입구역 - 송림원 - 짜장면",
+    "address": "서울 성북구 동소문로 25-2",
+    "website": "http://place.map.daum.net/7960698",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.998900796526,
+     37.4981139771636
+    ]
+   },
+   "properties": {
+    "pid": "26533341",
+    "name": "서래향",
+    "phone": "02-537-8521",
+    "source": "반포동 - 고속터미널역 - 서래향 - 짜장면",
+    "address": "서울 서초구 사평대로26길 48",
+    "website": "http://place.map.daum.net/26533341",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.003011048596,
+     37.5712824183912
+    ]
+   },
+   "properties": {
+    "pid": "9610050",
+    "name": "홍릉각",
+    "phone": "02-762-3941",
+    "source": "종로 5가 - 종로 5가역 - 홍릉각 - 짜장면",
+    "address": "서울 종로구 종로 227",
+    "website": "http://place.map.daum.net/9610050",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.975196147878,
+     37.5714528421785
+    ]
+   },
+   "properties": {
+    "pid": "7838086",
+    "name": "동성각",
+    "phone": "02-735-0107",
+    "source": "당주동 - 광화문역 - 동성각 - 짜장면",
+    "address": "서울 종로구 새문안로9길 29-2",
+    "website": "http://place.map.daum.net/7838086",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.980144005061,
+     37.5586920684651
+    ]
+   },
+   "properties": {
+    "pid": "7996258",
+    "name": "야래향",
+    "phone": "02-752-3991",
+    "source": "회현동 - 회현역 - 야래향 - 짜장면",
+    "address": "서울 중구 퇴계로10길 14",
+    "website": "http://place.map.daum.net/7996258",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981877068486,
+     37.5621089273532
+    ]
+   },
+   "properties": {
+    "pid": "10130879",
+    "name": "개화",
+    "phone": "02-776-0508",
+    "source": "명동 - 명동역 - 개화 - 짜장면",
+    "address": "서울 중구 남대문로 52-5",
+    "website": "http://place.map.daum.net/10130879",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.94365710020504,
+     37.56350623644841
+    ]
+   },
+   "properties": {
+    "pid": "26966311",
+    "name": "효동각 본점",
+    "phone": "",
+    "source": "대신동 - 신촌역 - 효동각 - 짜장면",
+    "address": "서울 서대문구 연대동문길 24",
+    "website": "http://place.map.daum.net/26966311",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922584182109,
+     37.5517667173745
+    ]
+   },
+   "properties": {
+    "pid": "20438452",
+    "name": "송탄영빈루 홍대직영점",
+    "phone": "02-322-8884",
+    "source": "서교동 - 홍대입구역 - 영빈루 - 짜장면",
+    "address": "서울 마포구 와우산로21길 19-16",
+    "website": "http://place.map.daum.net/20438452",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9690187563043,
+     37.580133365651896
+    ]
+   },
+   "properties": {
+    "pid": "10635098",
+    "name": "영화루",
+    "phone": "02-738-1218",
+    "source": "누하동 - 경복궁역 - 영화루 - 짜장면",
+    "address": "서울 종로구 자하문로7길 65",
+    "website": "http://place.map.daum.net/10635098",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.948638763123,
+     37.540273366124
+    ]
+   },
+   "properties": {
+    "pid": "8081930",
+    "name": "외백",
+    "phone": "02-712-0985",
+    "source": "도화동 - 마포역 - 외백 - 짜장면",
+    "address": "서울 마포구 도화2길 4",
+    "website": "http://place.map.daum.net/8081930",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.061260008486,
+     37.5904901625034
+    ]
+   },
+   "properties": {
+    "pid": "8189395",
+    "name": "경발원",
+    "phone": "02-2244-2616",
+    "source": "회기동 - 회기역 - 경발원 - 짜장면",
+    "address": "서울 동대문구 망우로21길 42-10",
+    "website": "http://place.map.daum.net/8189395",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92510427735,
+     37.5213721955387
+    ]
+   },
+   "properties": {
+    "pid": "8435069",
+    "name": "신동양반점",
+    "phone": "02-782-1754",
+    "source": "여의도동 - 여의도역 - 신동양 - 짜장면",
+    "address": "서울 영등포구 여의나루로 42",
+    "website": "http://place.map.daum.net/8435069",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.061034554268,
+     37.5972585284493
+    ]
+   },
+   "properties": {
+    "pid": "9419941",
+    "name": "중국관",
+    "phone": "02-962-1070",
+    "source": "이문동 - 외대역 영화장 - 짜장면",
+    "address": "서울 동대문구 이문로30길 1",
+    "website": "http://place.map.daum.net/9419941",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98264448422,
+     37.5717280746673
+    ]
+   },
+   "properties": {
+    "pid": "7999718",
+    "name": "안래홍",
+    "phone": "02-739-8013",
+    "source": "공평동 - 종각역 - 안래홍 - 짜장면",
+    "address": "서울 종로구 종로7길 43",
+    "website": "http://place.map.daum.net/7999718",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.944928772226,
+     37.5384480702379
+    ]
+   },
+   "properties": {
+    "pid": "8540921",
+    "name": "현래장",
+    "phone": "02-715-0730",
+    "source": "마포동 - 마포역 - 현래장 - 짜장면",
+    "address": "서울 마포구 마포대로 20",
+    "website": "http://place.map.daum.net/8540921",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981109994696,
+     37.5698465609494
+    ]
+   },
+   "properties": {
+    "pid": "20743443",
+    "name": "신승관",
+    "phone": "02-735-9955",
+    "source": "서린동 - 종각역 - 신승관 - 짜장면",
+    "address": "서울 종로구 종로 34",
+    "website": "http://place.map.daum.net/20743443",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.001625461682,
+     37.5689002137498
+    ]
+   },
+   "properties": {
+    "pid": "21397316",
+    "name": "방산분식",
+    "phone": "02-2265-8009",
+    "source": "주교동 - 을지로4가역 - 방산분식 - 짜장면",
+    "address": "서울 중구 을지로35길 50",
+    "website": "http://place.map.daum.net/21397316",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000484559519,
+     37.5828584310371
+    ]
+   },
+   "properties": {
+    "pid": "13627376",
+    "name": "진아춘",
+    "phone": "02-765-5688",
+    "source": "명륜4가 - 혜화역 - 진아춘 - 짜장면",
+    "address": "서울 종로구 대명1길 18",
+    "website": "http://place.map.daum.net/13627376",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.982148978718,
+     37.5609773169211
+    ]
+   },
+   "properties": {
+    "pid": "12793877",
+    "name": "란주칼면",
+    "phone": "02-779-4800",
+    "source": "충무로1가 - 명동역 - 란주라미엔 - 짜장면",
+    "address": "서울 중구 소공로 64",
+    "website": "http://place.map.daum.net/12793877",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.923408957527,
+     37.5508734651679
+    ]
+   },
+   "properties": {
+    "pid": "20699830",
+    "name": "초마 홍대본점",
+    "phone": "070-7661-8963",
+    "source": "서교동 - 상수역 - 초마 - 짬뽕",
+    "address": "서울 마포구 와우산로 72",
+    "website": "http://place.map.daum.net/20699830",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92198909063,
+     37.6015192246623
+    ]
+   },
+   "properties": {
+    "pid": "20749835",
+    "name": "산동성 옛날정통수타짜장",
+    "phone": "02-355-9655",
+    "source": "응암동 - 응암역 - 산동성 - 짬뽕",
+    "address": "서울 은평구 응암로 331-16",
+    "website": "http://place.map.daum.net/20749835",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.930459330638,
+     37.5678093612253
+    ]
+   },
+   "properties": {
+    "pid": "8186587",
+    "name": "걸리부",
+    "phone": "02-322-9998",
+    "source": "연희동 - 홍대입구역 - 걸리부 - 짬뽕",
+    "address": "서울 서대문구 연희맛로 31",
+    "website": "http://place.map.daum.net/8186587",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992403253987,
+     37.5608666984076
+    ]
+   },
+   "properties": {
+    "pid": "9199537",
+    "name": "동방명주 충무로점",
+    "phone": "02-2267-7285",
+    "source": "충무로 - 충무로역 - 동방명주 - 짬뽕",
+    "address": "서울 중구 퇴계로 186",
+    "website": "http://place.map.daum.net/9199537",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990696245347,
+     37.5627226293765
+    ]
+   },
+   "properties": {
+    "pid": "17075882",
+    "name": "낭만짬뽕",
+    "phone": "02-2273-4458",
+    "source": "충무로 - 충무로역 - 낭만짬뽕 - 짬뽕",
+    "address": "서울 중구 수표로6길 6",
+    "website": "http://place.map.daum.net/17075882",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.931720272804,
+     37.6099693318705
+    ]
+   },
+   "properties": {
+    "pid": "12506935",
+    "name": "중화원",
+    "phone": "02-353-3379",
+    "source": "불광동 - 불광역 - 중화원 - 짬뽕",
+    "address": "서울 은평구 통일로66길 10-16",
+    "website": "http://place.map.daum.net/12506935",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040294906283,
+     37.5230397052958
+    ]
+   },
+   "properties": {
+    "pid": "152797598",
+    "name": "청담수산",
+    "phone": "02-3444-7333",
+    "source": "청담동 - 청담역 - 청담 - 짬뽕",
+    "address": "서울 강남구 도산대로 408",
+    "website": "http://place.map.daum.net/152797598",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041607561384,
+     37.6620803208073
+    ]
+   },
+   "properties": {
+    "pid": "16530619",
+    "name": "방학사거리짬뽕집 본점",
+    "phone": "02-955-6558",
+    "source": "방학동 - 방학역 - 사거리짬뽕집 - 짬뽕",
+    "address": "서울 도봉구 방학로 99-16",
+    "website": "http://place.map.daum.net/16530619",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.928817168724,
+     37.5663523734898
+    ]
+   },
+   "properties": {
+    "pid": "16327888",
+    "name": "진보",
+    "phone": "02-338-2897",
+    "source": "연희동 - 홍대입구역 - 진보 - 간짜장",
+    "address": "서울 서대문구 연희맛로 9",
+    "website": "http://place.map.daum.net/16327888",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.092568375846,
+     37.5896913040982
+    ]
+   },
+   "properties": {
+    "pid": "19032412",
+    "name": "진미각",
+    "phone": "02-494-9800",
+    "source": "면목동 - 면목역 - 진미각 - 간짜장",
+    "address": "서울 중랑구 겸재로 225",
+    "website": "http://place.map.daum.net/19032412",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.030762819285,
+     37.5279980847558
+    ]
+   },
+   "properties": {
+    "pid": "13139695",
+    "name": "산동교자관",
+    "phone": "02-514-2608",
+    "source": "신사동 - 압구정역 - 산동교자관 - 볶음밥",
+    "address": "서울 강남구 압구정로 214",
+    "website": "http://place.map.daum.net/13139695",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.920850347282,
+     37.5475849357353
+    ]
+   },
+   "properties": {
+    "pid": "19032013",
+    "name": "맛이차이나",
+    "phone": "02-322-2653",
+    "source": "상수동 - 상수역 - 맛이차이나 - 볶음밥",
+    "address": "서울 마포구 독막로 68",
+    "website": "http://place.map.daum.net/19032013",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97345179249909,
+     37.54268812169785
+    ]
+   },
+   "properties": {
+    "pid": "8890271",
+    "name": "덕순루",
+    "phone": "02-793-6656",
+    "source": "남영동 - 숙대입구역 - 덕순루 - 볶음밥",
+    "address": "서울 용산구 한강대로80길 11",
+    "website": "http://place.map.daum.net/8890271",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989359710299,
+     37.5694691746286
+    ]
+   },
+   "properties": {
+    "pid": "16376359",
+    "name": "서호장",
+    "phone": "02-2265-5329",
+    "source": "관수동 - 종로3가역 - 서호장 - 볶음밥",
+    "address": "서울 종로구 수표로 91-1",
+    "website": "http://place.map.daum.net/16376359",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.982397699542,
+     37.5621630659184
+    ]
+   },
+   "properties": {
+    "pid": "7912905",
+    "name": "산동교자",
+    "phone": "02-778-4150",
+    "source": "명동 - 명동역 - 산동교자 - 볶음밥",
+    "address": "서울 중구 남대문로 52-13",
+    "website": "http://place.map.daum.net/7912905",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.020733282608,
+     37.5224789295512
+    ]
+   },
+   "properties": {
+    "pid": "8083443",
+    "name": "채운",
+    "phone": "02-516-8837",
+    "source": "신사동 - 신사역 - 채운 - 볶음밥",
+    "address": "서울 강남구 논현로175길 107",
+    "website": "http://place.map.daum.net/8083443",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.950968485586,
+     37.542069147914
+    ]
+   },
+   "properties": {
+    "pid": "26970486",
+    "name": "여명",
+    "phone": "02-711-5468",
+    "source": "도화동 - 마포역 - 여명 - 잡채밥",
+    "address": "서울 마포구 도화길 51",
+    "website": "http://place.map.daum.net/26970486",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93180215312694,
+     37.52020494927552
+    ]
+   },
+   "properties": {
+    "pid": "10500536",
+    "name": "서궁",
+    "phone": "02-780-7548",
+    "source": "여의도동 - 샛강역 - 서궁 - 잡채밥",
+    "address": "서울 영등포구 국제금융로 86",
+    "website": "http://place.map.daum.net/10500536",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.039978425896,
+     37.5828624740649
+    ]
+   },
+   "properties": {
+    "pid": "8620226",
+    "name": "홍릉각",
+    "phone": "02-969-7787",
+    "source": "제기동 - 청량리역 - 홍릉각 - 잡채밥",
+    "address": "서울 동대문구 약령시로 90",
+    "website": "http://place.map.daum.net/8620226",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98175483214,
+     37.5621017005538
+    ]
+   },
+   "properties": {
+    "pid": "8609409",
+    "name": "향미",
+    "phone": "02-773-8835",
+    "source": "명동 - 명동역 - 향미 - 돈까스 덮밥 - 덮밥",
+    "address": "서울 중구 남대문로 52-5",
+    "website": "http://place.map.daum.net/8609409",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981754827745,
+     37.5621197204854
+    ]
+   },
+   "properties": {
+    "pid": "8147747",
+    "name": "행화촌",
+    "phone": "02-771-0172",
+    "source": "명동 - 명동역 - 행화촌 - 라조육밥 - 덮밥",
+    "address": "서울 중구 남대문로 52-5",
+    "website": "http://place.map.daum.net/8147747",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.930070186089,
+     37.5675568525973
+    ]
+   },
+   "properties": {
+    "pid": "9348308",
+    "name": "이품",
+    "phone": "02-322-6172",
+    "source": "연희동 - 홍대입구역 - 이품 - 중국냉면",
+    "address": "서울 서대문구 연희로11길 20",
+    "website": "http://place.map.daum.net/9348308",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.929020711968,
+     37.566561527059
+    ]
+   },
+   "properties": {
+    "pid": "14511324",
+    "name": "이화원",
+    "phone": "02-334-1888",
+    "source": "연희동 - 홍대입구역 - 이화원 - 중국냉면",
+    "address": "서울 서대문구 연희맛로 13",
+    "website": "http://place.map.daum.net/14511324",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926710694009,
+     37.5628984677677
+    ]
+   },
+   "properties": {
+    "pid": "642479510",
+    "name": "향미",
+    "phone": "02-333-2943",
+    "source": "연남동 - 홍대입구역 - 향미 - 우육탕면",
+    "address": "서울 마포구 성미산로 193",
+    "website": "http://place.map.daum.net/642479510",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.940281933018,
+     37.5198311199145
+    ]
+   },
+   "properties": {
+    "pid": "11891739",
+    "name": "백리향",
+    "phone": "02-789-5741",
+    "source": "여의도동 - 샛강역 - 백리향 - 기스면",
+    "address": "서울 영등포구 63로 50",
+    "website": "http://place.map.daum.net/11891739",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.038551824965,
+     37.52116259751
+    ]
+   },
+   "properties": {
+    "pid": "7815078",
+    "name": "대가방 본점",
+    "phone": "02-544-6336",
+    "source": "논현동 - 강남구청역 - 대가방 - 대가탕면",
+    "address": "서울 강남구 선릉로145길 13",
+    "website": "http://place.map.daum.net/7815078",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.032319580518,
+     37.5281526413054
+    ]
+   },
+   "properties": {
+    "pid": "7846256",
+    "name": "동천홍 압구정본점",
+    "phone": "02-548-8887",
+    "source": "신사동 - 압구정역 - 동천홍 - 사천탕면",
+    "address": "서울 강남구 언주로173길 14",
+    "website": "http://place.map.daum.net/7846256",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.004333904606,
+     37.5053688019563
+    ]
+   },
+   "properties": {
+    "pid": "27287365",
+    "name": "호경전 신세계백화점강남점",
+    "phone": "02-3479-1627",
+    "source": "반포동 - 고속터미널역 - 호경전 - 사천짜장면",
+    "address": "서울 서초구 신반포로 176",
+    "website": "http://place.map.daum.net/27287365",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.050300087601,
+     37.5035021011843
+    ]
+   },
+   "properties": {
+    "pid": "18283045",
+    "name": "마담밍",
+    "phone": "02-567-6992",
+    "source": "대치동 - 선릉역 - 마담밍 - 냉짬뽕",
+    "address": "서울 강남구 선릉로86길 5-4",
+    "website": "http://place.map.daum.net/18283045",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.913525217622,
+     37.5918078508563
+    ]
+   },
+   "properties": {
+    "pid": "15097612",
+    "name": "마마수제만두",
+    "phone": "02-375-1688",
+    "source": "신사동 - 새절역 - 마마수제만두 - 산동짜장",
+    "address": "서울 은평구 증산로 397",
+    "website": "http://place.map.daum.net/15097612",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.937793788705,
+     37.5573835191496
+    ]
+   },
+   "properties": {
+    "pid": "19517236",
+    "name": "갑이다짬뽕 본점",
+    "phone": "",
+    "source": "창천동 - 신촌역 - 갑이다짬뽕 - 마라면",
+    "address": "서울 서대문구 연세로4길 19",
+    "website": "http://place.map.daum.net/19517236",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.981133101889,
+     37.5679905137668
+    ]
+   },
+   "properties": {
+    "pid": "23966819",
+    "name": "청키면가 무교점",
+    "phone": "02-538-3913",
+    "source": "무교동 - 을지로입구역 - 청키면가 - 짜장로미엔",
+    "address": "서울 중구 다동길 33",
+    "website": "http://place.map.daum.net/23966819",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.053307282036,
+     37.5146371997401
+    ]
+   },
+   "properties": {
+    "pid": "12701868",
+    "name": "차이린",
+    "phone": "02-543-2847",
+    "source": "삼성동 - 삼성중앙역 - 차이린 - 된장짜장",
+    "address": "서울 강남구 삼성로112길 10",
+    "website": "http://place.map.daum.net/12701868",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02470059515,
+     37.5192597840747
+    ]
+   },
+   "properties": {
+    "pid": "24371711",
+    "name": "쮸즈",
+    "phone": "02-6081-9888",
+    "source": "신사동 - 신사역 - 쮸즈 - 딤섬",
+    "address": "서울 강남구 도산대로17길 9",
+    "website": "http://place.map.daum.net/24371711",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.984094995586,
+     37.5643112822912
+    ]
+   },
+   "properties": {
+    "pid": "22906526",
+    "name": "딘타이펑 명동점",
+    "phone": "02-3789-2778",
+    "source": "명동 - 명동역 - 딘타이펑 - 딤섬",
+    "address": "서울 중구 명동7길 13",
+    "website": "http://place.map.daum.net/22906526",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.111755493275,
+     37.5123726834671
+    ]
+   },
+   "properties": {
+    "pid": "27480084",
+    "name": "서두산딤섬만두",
+    "phone": "02-425-4588",
+    "source": "방이동 - 잠실역 - 서두산 - 딤섬",
+    "address": "서울 송파구 올림픽로32길 52",
+    "website": "http://place.map.daum.net/27480084",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.027445544857,
+     37.5273213488329
+    ]
+   },
+   "properties": {
+    "pid": "23068927",
+    "name": "크리스탈제이드 압구정본점",
+    "phone": "02-3449-5864",
+    "source": "압구정동 - 압구정역 - 크리스탈 제이드 - 딤섬",
+    "address": "서울 강남구 압구정로 165",
+    "website": "http://place.map.daum.net/23068927",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008834066244,
+     37.5341826302353
+    ]
+   },
+   "properties": {
+    "pid": "8035538",
+    "name": "웨스턴차이나 한남본점",
+    "phone": "02-795-6751",
+    "source": "한남동 - 한남역 - 웨스턴 차이나 - 딤섬",
+    "address": "서울 용산구 독서당로 73",
+    "website": "http://place.map.daum.net/8035538",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.066916081413,
+     37.5390726524284
+    ]
+   },
+   "properties": {
+    "pid": "27361208",
+    "name": "중경소면관",
+    "phone": "02-462-7712",
+    "source": "자양동 - 건대입구역 - 중경소면관 - 딤섬",
+    "address": "서울 광진구 아차산로30길 42",
+    "website": "http://place.map.daum.net/27361208",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.88271782263485,
+     37.50116956884092
+    ]
+   },
+   "properties": {
+    "pid": "13109754",
+    "name": "얌차이나 구로점",
+    "phone": "02-818-1414",
+    "source": "구로동 - 구로역 - 얌차이나 - 딤섬",
+    "address": "서울 구로구 구로중앙로 152",
+    "website": "http://place.map.daum.net/13109754",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.037106325388,
+     37.5261221780312
+    ]
+   },
+   "properties": {
+    "pid": "24010315",
+    "name": "골드피쉬딤섬퀴진",
+    "phone": "02-511-5266",
+    "source": "신사동 - 압구정로데오역 - 골드피쉬 - 딤섬",
+    "address": "서울 강남구 압구정로48길 35",
+    "website": "http://place.map.daum.net/24010315",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97060287402716,
+     37.57937062894619
+    ]
+   },
+   "properties": {
+    "pid": "26888848",
+    "name": "포담",
+    "phone": "02-733-0831",
+    "source": "통인동 - 구복역 - 포담 - 딤섬",
+    "address": "서울 종로구 자하문로9길 11",
+    "website": "http://place.map.daum.net/26888848",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.042872031624,
+     37.479790517452
+    ]
+   },
+   "properties": {
+    "pid": "11831453",
+    "name": "브루스리 양재점",
+    "phone": "02-576-8845",
+    "source": "양재동 - 양재역 - 브루스리 - 딤섬",
+    "address": "서울 서초구 양재천로 147-3",
+    "website": "http://place.map.daum.net/11831453",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04481610576194,
+     37.52429227164699
+    ]
+   },
+   "properties": {
+    "pid": "12140312",
+    "name": "몽중헌 청담점",
+    "phone": "02-3446-7887",
+    "source": "청담동 - 압구정 로데오역 - 몽중헌 - 딤섬",
+    "address": "서울 강남구 도산대로 445",
+    "website": "http://place.map.daum.net/12140312",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.943157851868,
+     37.5580313373802
+    ]
+   },
+   "properties": {
+    "pid": "26786725",
+    "name": "미스터서왕만두",
+    "phone": "02-312-8869",
+    "source": "대현동 - 이대역 - 미스터 서왕만두 - 딤섬",
+    "address": "서울 서대문구 신촌역로 16",
+    "website": "http://place.map.daum.net/26786725",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.978604640594,
+     37.5591819419707
+    ]
+   },
+   "properties": {
+    "pid": "20743408",
+    "name": "홍연칡냉면",
+    "phone": "02-777-4564",
+    "source": "소공동 - 을지로입구역 - 홍연 - 딤섬",
+    "address": "서울 중구 남대문시장8길 26",
+    "website": "http://place.map.daum.net/20743408",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.983221849272,
+     37.5613883287803
+    ]
+   },
+   "properties": {
+    "pid": "26646897",
+    "name": "꽁시면관 본점",
+    "phone": "02-778-8863",
+    "source": "명동 - 명동역 - 꽁시면관 - 딤섬",
+    "address": "서울 중구 명동2길 45",
+    "website": "http://place.map.daum.net/26646897",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93565891505,
+     37.5551803375028
+    ]
+   },
+   "properties": {
+    "pid": "26967981",
+    "name": "딤차이",
+    "phone": "02-338-8810",
+    "source": "창천동 - 신촌역 - 딤차이 - 딤섬",
+    "address": "서울 마포구 신촌로 92",
+    "website": "http://place.map.daum.net/26967981",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.89760096338,
+     37.4923932618195
+    ]
+   },
+   "properties": {
+    "pid": "27432275",
+    "name": "중국원난쌀국수",
+    "phone": "",
+    "source": "대림동 - 대림역 - 중국원난쌀국수 - 딤섬",
+    "address": "서울 영등포구 도림로38길 7",
+    "website": "http://place.map.daum.net/27432275",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988626804588,
+     37.5655551805652
+    ]
+   },
+   "properties": {
+    "pid": "26404570",
+    "name": "바오차이",
+    "phone": "02-6031-0107",
+    "source": "을지로 2가 - 을지로 3가역 - 바오차이 - 딤섬",
+    "address": "서울 중구 을지로 100",
+    "website": "http://place.map.daum.net/26404570",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.938305327396,
+     37.5574054114823
+    ]
+   },
+   "properties": {
+    "pid": "12272633",
+    "name": "구복",
+    "phone": "",
+    "source": "창천동 - 신촌역 - 구복 - 딤섬",
+    "address": "서울 서대문구 연세로4길 26",
+    "website": "http://place.map.daum.net/12272633",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.898583086671,
+     37.4551319490809
+    ]
+   },
+   "properties": {
+    "pid": "11833906",
+    "name": "동흥관",
+    "phone": "02-802-0137",
+    "source": "시흥동 - 금천구청역 - 동흥관 - 딤섬",
+    "address": "서울 금천구 시흥대로63길 20",
+    "website": "http://place.map.daum.net/11833906",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.928272317548,
+     37.4876152971167
+    ]
+   },
+   "properties": {
+    "pid": "8416287",
+    "name": "아리차이 신림점",
+    "phone": "02-877-1272",
+    "source": "신림동 - 신림역 - 아리차이 - 딤섬",
+    "address": "서울 관악구 신림동길 4",
+    "website": "http://place.map.daum.net/8416287",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.002014029598,
+     37.538493330194
+    ]
+   },
+   "properties": {
+    "pid": "18711398",
+    "name": "차이797 이태원점",
+    "phone": "02-749-7972",
+    "source": "한남동 - 한강진역 - 차이 797 - 딤섬",
+    "address": "서울 용산구 이태원로 270",
+    "website": "http://place.map.daum.net/18711398",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.016360601976,
+     37.5152103221122
+    ]
+   },
+   "properties": {
+    "pid": "8214378",
+    "name": "노독일처",
+    "phone": "02-517-4552",
+    "source": "잠원동 - 신사역 - 노독일처 - 딤섬",
+    "address": "서울 서초구 나루터로 59",
+    "website": "http://place.map.daum.net/8214378",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.012088424594,
+     37.5087200016908
+    ]
+   },
+   "properties": {
+    "pid": "7997376",
+    "name": "양자강",
+    "phone": "02-595-2874",
+    "source": "반포동 - 반포역 - 양자강 - 딤섬",
+    "address": "서울 서초구 신반포로 257",
+    "website": "http://place.map.daum.net/7997376",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.977838105498,
+     37.5181862918388
+    ]
+   },
+   "properties": {
+    "pid": "19711157",
+    "name": "차이옌",
+    "phone": "02-792-0872",
+    "source": "이촌동 - 이촌역 - 차이엔 - 딤섬",
+    "address": "서울 용산구 이촌로88길 8",
+    "website": "http://place.map.daum.net/19711157",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925261456735,
+     37.5633732852796
+    ]
+   },
+   "properties": {
+    "pid": "27598849",
+    "name": "라오찌에연남점",
+    "phone": "02-333-8288",
+    "source": "연남동 - 홍대입구역 - 라오찌에 - 딤섬",
+    "address": "서울 마포구 동교로 265",
+    "website": "http://place.map.daum.net/27598849",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.06122372292,
+     37.5904253098949
+    ]
+   },
+   "properties": {
+    "pid": "13121471",
+    "name": "봉이만두",
+    "phone": "02-2215-1122",
+    "source": "회기동 - 회기역 - 봉이만두 - 군만두",
+    "address": "서울 동대문구 망우로21길 34",
+    "website": "http://place.map.daum.net/13121471",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.993722950623,
+     37.5338800575199
+    ]
+   },
+   "properties": {
+    "pid": "17361137",
+    "name": "쟈니덤플링 1호점",
+    "phone": "02-790-8830",
+    "source": "이태원동 - 이태원역 - 자니덤플링 - 군만두",
+    "address": "서울 용산구 보광로59길 5",
+    "website": "http://place.map.daum.net/17361137",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.929275934328,
+     37.555209122621
+    ]
+   },
+   "properties": {
+    "pid": "27377923",
+    "name": "진만두",
+    "phone": "02-338-1117",
+    "source": "서교동 - 홍대입구역 - 진만두 - 군만두",
+    "address": "서울 마포구 와우산로29길 4-42",
+    "website": "http://place.map.daum.net/27377923",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.943247989097,
+     37.5585647710204
+    ]
+   },
+   "properties": {
+    "pid": "26921338",
+    "name": "화상손만두",
+    "phone": "02-312-5888",
+    "source": "대현동 - 이대역 - 화상손만두 - 군만두",
+    "address": "서울 서대문구 이화여대7길 46",
+    "website": "http://place.map.daum.net/26921338",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989844579883,
+     37.5665463872176
+    ]
+   },
+   "properties": {
+    "pid": "8016538",
+    "name": "오구반점",
+    "phone": "02-2267-0516",
+    "source": "을지로3가 - 을지로 3가역 - 오구반점 - 군만두",
+    "address": "서울 중구 수표로 60",
+    "website": "http://place.map.daum.net/8016538",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.973190665435,
+     37.5451252660393
+    ]
+   },
+   "properties": {
+    "pid": "27209120",
+    "name": "구복만두",
+    "phone": "02-797-8656",
+    "source": "남영동 - 숙대입구역 - 구복만두 - 군만두",
+    "address": "서울 용산구 두텁바위로 10",
+    "website": "http://place.map.daum.net/27209120",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.974646583764,
+     37.5363462448494
+    ]
+   },
+   "properties": {
+    "pid": "13280285",
+    "name": "명화원",
+    "phone": "02-792-2969",
+    "source": "한강로 - 삼각지역 - 명화원 - 군만두",
+    "address": "서울 용산구 한강대로 202",
+    "website": "http://place.map.daum.net/13280285",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.948525791134,
+     37.5400138289654
+    ]
+   },
+   "properties": {
+    "pid": "13609867",
+    "name": "산동만두",
+    "phone": "02-711-3958",
+    "source": "도화동 - 마포역 - 산동만두 - 군만두",
+    "address": "서울 마포구 도화길 22-10",
+    "website": "http://place.map.daum.net/13609867",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.930125107198,
+     37.5669261881487
+    ]
+   },
+   "properties": {
+    "pid": "18657057",
+    "name": "오향만두",
+    "phone": "02-323-3749",
+    "source": "연희동 - 홍대입구역 - 오향만두 - 군만두",
+    "address": "서울 서대문구 연희맛로 22",
+    "website": "http://place.map.daum.net/18657057",
+    "category": "중국집"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925148397686,
+     37.5632470741811
+    ]
+   },
+   "properties": {
+    "pid": "13727108",
+    "name": "하하",
+    "phone": "02-337-0211",
+    "source": "연남동 - 홍대입구역 - 하하 - 군만두",
+    "address": "서울 마포구 동교로 263",
+    "website": "http://place.map.daum.net/13727108",
+    "category": "중국집"
+   }
+  }
+ ]
+}

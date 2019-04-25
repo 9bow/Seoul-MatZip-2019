@@ -1,0 +1,81 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.01999091594,
+     37.5044806006296
+    ]
+   },
+   "properties": {
+    "pid": "26361891",
+    "name": "분노지",
+    "phone": "070-4105-0153",
+    "source": "반포동 - 신논현역 - 분노지",
+    "address": "서울 서초구 주흥3길 8",
+    "website": "http://place.map.daum.net/26361891",
+    "category": "사케"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056610447443,
+     37.5090494367614
+    ]
+   },
+   "properties": {
+    "pid": "10957050",
+    "name": "히라메키",
+    "phone": "02-539-6303",
+    "source": "삼성동 - 삼성역 - 히라메키",
+    "address": "서울 강남구 테헤란로81길 32",
+    "website": "http://place.map.daum.net/10957050",
+    "category": "사케"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056118736642,
+     37.5109453848254
+    ]
+   },
+   "properties": {
+    "pid": "27231483",
+    "name": "쿠시152",
+    "phone": "02-566-5487",
+    "source": "삼성동 - 삼성역 - 쿠시 152",
+    "address": "서울 강남구 삼성로104길 16",
+    "website": "http://place.map.daum.net/27231483",
+    "category": "사케"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.034929733781,
+     37.4873075440448
+    ]
+   },
+   "properties": {
+    "pid": "26785216",
+    "name": "슈토 1호점 니혼슈바",
+    "phone": "070-8251-0213",
+    "source": "도곡동 - 양재역 - 슈토",
+    "address": "서울 강남구 강남대로48길 23",
+    "website": "http://place.map.daum.net/26785216",
+    "category": "사케"
+   }
+  }
+ ]
+}

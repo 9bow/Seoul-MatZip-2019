@@ -1,0 +1,100 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987127774101,
+     37.5416353337895
+    ]
+   },
+   "properties": {
+    "pid": "24208557",
+    "name": "카사블랑카",
+    "phone": "02-797-8367",
+    "source": "용산동 - 녹사평역 - 카사블랑카 - 모로코",
+    "address": "서울 용산구 신흥로 35",
+    "website": "http://place.map.daum.net/24208557",
+    "category": "아프리카 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.96005826916401,
+     37.59896154036733
+    ]
+   },
+   "properties": {
+    "pid": "27279308",
+    "name": "마라케쉬나이트",
+    "phone": "",
+    "source": "홍지동 - 홍제역 - 마라케쉬 나이트 - 모로코",
+    "address": "서울 종로구 자하문로 295",
+    "website": "http://place.map.daum.net/27279308",
+    "category": "아프리카 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.996583105133,
+     37.534842443838
+    ]
+   },
+   "properties": {
+    "pid": "7987988",
+    "name": "알리바바",
+    "phone": "",
+    "source": "이태원동 - 이태원역 - 알리바바 - 이집트",
+    "address": "서울 용산구 이태원로27나길 36",
+    "website": "http://place.map.daum.net/7987988",
+    "category": "아프리카 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99079038336254,
+     37.533544692877065
+    ]
+   },
+   "properties": {
+    "pid": "14608358",
+    "name": "브라이리퍼블릭 이태원점",
+    "phone": "070-8879-1967",
+    "source": "이태원동 - 녹사평역 - 브라이 리퍼블릭 - 남아프리카 공화국",
+    "address": "서울 용산구 이태원로14길 19",
+    "website": "http://place.map.daum.net/14608358",
+    "category": "아프리카 음식"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.991505375391,
+     37.5340240789795
+    ]
+   },
+   "properties": {
+    "pid": "18778526",
+    "name": "해피홈",
+    "phone": "02-797-3185",
+    "source": "이태원동 - 이태원역 - 해피홈 - 나이지리아",
+    "address": "서울 용산구 이태원로20길 2-10",
+    "website": "http://place.map.daum.net/18778526",
+    "category": "아프리카 음식"
+   }
+  }
+ ]
+}

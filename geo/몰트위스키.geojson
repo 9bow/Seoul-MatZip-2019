@@ -1,0 +1,1848 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925655413038,
+     37.563301454311
+    ]
+   },
+   "properties": {
+    "pid": "26643656",
+    "name": "오파스",
+    "phone": "070-8867-5858",
+    "source": "연남동 - 홍대입구역 - 오파스",
+    "address": "서울 마포구 동교로 268",
+    "website": "http://place.map.daum.net/26643656",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.923656620528,
+     37.5654625693275
+    ]
+   },
+   "properties": {
+    "pid": "27583071",
+    "name": "무디",
+    "phone": "02-3142-1010",
+    "source": "연남동 - 홍대입구역 - 무디",
+    "address": "서울 마포구 성미산로29안길 26",
+    "website": "http://place.map.daum.net/27583071",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.914837776544,
+     37.5727113515032
+    ]
+   },
+   "properties": {
+    "pid": "2104616341",
+    "name": "치킨더비 남가좌뉴타운점",
+    "phone": "",
+    "source": "연남동 - 홍대입구역 - 더비",
+    "address": "서울 서대문구 가재울미래로 2",
+    "website": "http://place.map.daum.net/2104616341",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.923881458397,
+     37.5625254671136
+    ]
+   },
+   "properties": {
+    "pid": "26647431",
+    "name": "허니홀",
+    "phone": "02-335-2046",
+    "source": "연남동 - 홍대입구역 - 허니홀",
+    "address": "서울 마포구 동교로39길 4-8",
+    "website": "http://place.map.daum.net/26647431",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925065712334,
+     37.5599169386408
+    ]
+   },
+   "properties": {
+    "pid": "27388090",
+    "name": "엔젤스셰어",
+    "phone": "",
+    "source": "동교동 - 홍대입구역 - 엔젤스 쉐어",
+    "address": "서울 마포구 동교로30길 21",
+    "website": "http://place.map.daum.net/27388090",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924826617958,
+     37.559073453624
+    ]
+   },
+   "properties": {
+    "pid": "23446573",
+    "name": "히피히피셰이크",
+    "phone": "02-338-6809",
+    "source": "동교동 - 홍대입구역 - 히피히피 셰이크",
+    "address": "서울 마포구 양화로21길 21",
+    "website": "http://place.map.daum.net/23446573",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92639648981796,
+     37.556699451944255
+    ]
+   },
+   "properties": {
+    "pid": "19622308",
+    "name": "빅블루",
+    "phone": "",
+    "source": "동교동 - 홍대입구역 - 빅블루",
+    "address": "서울 마포구 어울마당로 149",
+    "website": "http://place.map.daum.net/19622308",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921310158916,
+     37.5493800320438
+    ]
+   },
+   "properties": {
+    "pid": "13579518",
+    "name": "더라이온스덴 서교",
+    "phone": "02-333-1136",
+    "source": "서교동 - 홍대입구역 - 더라이온스덴",
+    "address": "서울 마포구 와우산로17길 19-22",
+    "website": "http://place.map.daum.net/13579518",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921785666467,
+     37.5491713163504
+    ]
+   },
+   "properties": {
+    "pid": "15886132",
+    "name": "바다",
+    "phone": "",
+    "source": "서교동 - 홍대입구역 - 바 다",
+    "address": "서울 마포구 와우산로15길 29",
+    "website": "http://place.map.daum.net/15886132",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922465412458,
+     37.5528045890423
+    ]
+   },
+   "properties": {
+    "pid": "70536176",
+    "name": "티플러",
+    "phone": "02-323-5944",
+    "source": "서교동 - 홍대입구역 - 티플러",
+    "address": "서울 마포구 와우산로21길 28-12",
+    "website": "http://place.map.daum.net/70536176",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922847975677,
+     37.5505595525952
+    ]
+   },
+   "properties": {
+    "pid": "13123127",
+    "name": "로빈스스퀘어",
+    "phone": "",
+    "source": "서교동 - 홍대입구역 - 로빈스 스퀘어",
+    "address": "서울 마포구 와우산로 69",
+    "website": "http://place.map.daum.net/13123127",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922486486862,
+     37.5499394290652
+    ]
+   },
+   "properties": {
+    "pid": "12728238",
+    "name": "디스틸",
+    "phone": "02-337-7560",
+    "source": "서교동 - 홍대입구역 - 디스틸",
+    "address": "서울 마포구 와우산로15길 10",
+    "website": "http://place.map.daum.net/12728238",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922647790671,
+     37.5515397075626
+    ]
+   },
+   "properties": {
+    "pid": "1462881884",
+    "name": "소셜팩토리플러스",
+    "phone": "02-323-9580",
+    "source": "서교동 - 홍대입구역 - 팩토리",
+    "address": "서울 마포구 와우산로21길 19-19",
+    "website": "http://place.map.daum.net/1462881884",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.918455900054,
+     37.547540058527
+    ]
+   },
+   "properties": {
+    "pid": "872998222",
+    "name": "리슨",
+    "phone": "02-322-2436",
+    "source": "합정동 - 홍대입구역 - 리슨",
+    "address": "서울 마포구 독막로8길 7",
+    "website": "http://place.map.daum.net/872998222",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92277418345974,
+     37.54749610974605
+    ]
+   },
+   "properties": {
+    "pid": "15674521",
+    "name": "Bar 상수리",
+    "phone": "",
+    "source": "상수동 - 상수역 - 바 상수리",
+    "address": "서울 마포구 독막로 86",
+    "website": "http://place.map.daum.net/15674521",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922445093103,
+     37.5462020598606
+    ]
+   },
+   "properties": {
+    "pid": "26641157",
+    "name": "스윗제인",
+    "phone": "070-4214-0607",
+    "source": "상수동 - 상수역 - 스윗제인",
+    "address": "서울 마포구 와우산로3길 8",
+    "website": "http://place.map.daum.net/26641157",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9973803796627,
+     37.53948550706754
+    ]
+   },
+   "properties": {
+    "pid": "26107553",
+    "name": "파리스바",
+    "phone": "02-799-8361",
+    "source": "한남동 - 한강진역 - 그랜드 하얏트 호텔 파리스 바",
+    "address": "서울 용산구 소월로 322",
+    "website": "http://place.map.daum.net/26107553",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00935094417031,
+     37.53444336191474
+    ]
+   },
+   "properties": {
+    "pid": "21213525",
+    "name": "2E",
+    "phone": "",
+    "source": "한남동 - 한강진역 - 2E",
+    "address": "",
+    "website": "http://place.map.daum.net/21213525",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.999710348446,
+     37.5367778423087
+    ]
+   },
+   "properties": {
+    "pid": "26304285",
+    "name": "몽키숄더",
+    "phone": "070-4157-5414",
+    "source": "한남동 - 한강진역 - 몽키 숄더",
+    "address": "서울 용산구 이태원로55가길 35",
+    "website": "http://place.map.daum.net/26304285",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000294175052,
+     37.5361903899414
+    ]
+   },
+   "properties": {
+    "pid": "16090296",
+    "name": "도미닉",
+    "phone": "02-790-7588",
+    "source": "한남동 - 한강진역 - 도미닉",
+    "address": "서울 용산구 이태원로 242",
+    "website": "http://place.map.daum.net/16090296",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00170263033942,
+     37.53339486489302
+    ]
+   },
+   "properties": {
+    "pid": "18832131",
+    "name": "볼트82",
+    "phone": "",
+    "source": "한남동 - 이태원역 - 볼트 82",
+    "address": "서울 용산구 대사관로12길 3",
+    "website": "http://place.map.daum.net/18832131",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.004978148898,
+     37.5332097746759
+    ]
+   },
+   "properties": {
+    "pid": "27515404",
+    "name": "블라인드피그",
+    "phone": "070-4233-7168",
+    "source": "한남동 - 한남역 - 블라인드 피그",
+    "address": "서울 용산구 대사관로 62",
+    "website": "http://place.map.daum.net/27515404",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.003851143403,
+     37.530611329214
+    ]
+   },
+   "properties": {
+    "pid": "22015028",
+    "name": "장진우의슈퍼마켓",
+    "phone": "070-8831-3571",
+    "source": "한남동 - 한남역 - 슈퍼마켓",
+    "address": "서울 용산구 장문로49길 83",
+    "website": "http://place.map.daum.net/22015028",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005829081815,
+     37.5347774773519
+    ]
+   },
+   "properties": {
+    "pid": "27564675",
+    "name": "버번스트릿",
+    "phone": "02-797-6578",
+    "source": "한남동 - 한남역 - 버번스트릿",
+    "address": "서울 용산구 대사관로31길 31",
+    "website": "http://place.map.daum.net/27564675",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00813349614131,
+     37.53383076071689
+    ]
+   },
+   "properties": {
+    "pid": "27478315",
+    "name": "H avenue",
+    "phone": "",
+    "source": "한남동 - 한남역 - H Avenue",
+    "address": "서울 용산구 독서당로 67",
+    "website": "http://place.map.daum.net/27478315",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0099212590119,
+     37.53520736521879
+    ]
+   },
+   "properties": {
+    "pid": "27338759",
+    "name": "더부즈",
+    "phone": "02-797-8002",
+    "source": "한남동 - 한남역 - 더 부즈",
+    "address": "서울 용산구 한남대로20길 47-10",
+    "website": "http://place.map.daum.net/27338759",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04134486057579,
+     37.50487600418555
+    ]
+   },
+   "properties": {
+    "pid": "20945342",
+    "name": "커피바K",
+    "phone": "",
+    "source": "한남동 - 한남역 - 커피바K",
+    "address": "서울 강남구 언주로 517",
+    "website": "http://place.map.daum.net/20945342",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005747565557,
+     37.5340747006767
+    ]
+   },
+   "properties": {
+    "pid": "25147438",
+    "name": "와이낫",
+    "phone": "02-3785-3226",
+    "source": "한남동 - 한남역 - 와이낫",
+    "address": "서울 용산구 대사관로31길 17",
+    "website": "http://place.map.daum.net/25147438",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008797938956,
+     37.534845769554
+    ]
+   },
+   "properties": {
+    "pid": "26804668",
+    "name": "한남리커",
+    "phone": "02-790-7280",
+    "source": "한남동 - 한남역 - 한남리커",
+    "address": "서울 용산구 한남대로20길 36",
+    "website": "http://place.map.daum.net/26804668",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00881414774057,
+     37.53509597626057
+    ]
+   },
+   "properties": {
+    "pid": "27002674",
+    "name": "원밀리언",
+    "phone": "",
+    "source": "한남동 - 한남역 - 원밀리언",
+    "address": "서울 용산구 한남대로20길 33",
+    "website": "http://place.map.daum.net/27002674",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987539402595,
+     37.5431166213492
+    ]
+   },
+   "properties": {
+    "pid": "26944443",
+    "name": "올드나이브스",
+    "phone": "",
+    "source": "용산동 - 녹사평역 - 올드나이브스",
+    "address": "서울 용산구 신흥로11길 4",
+    "website": "http://place.map.daum.net/26944443",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987833607195,
+     37.5431022360352
+    ]
+   },
+   "properties": {
+    "pid": "25775336",
+    "name": "트웰브해방촌",
+    "phone": "02-796-9693",
+    "source": "용산동 - 녹사평역 - 트웰브",
+    "address": "서울 용산구 신흥로 54",
+    "website": "http://place.map.daum.net/25775336",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990947870986,
+     37.5410626525406
+    ]
+   },
+   "properties": {
+    "pid": "27344999",
+    "name": "칼로앤디에고",
+    "phone": "",
+    "source": "이태원동 - 녹사평역 - 칼로 &디에고",
+    "address": "서울 용산구 회나무로13가길 25",
+    "website": "http://place.map.daum.net/27344999",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988065133873,
+     37.5387666483342
+    ]
+   },
+   "properties": {
+    "pid": "19777152",
+    "name": "번",
+    "phone": "02-794-8077",
+    "source": "이태원동 - 녹사평역 - 번인할",
+    "address": "서울 용산구 회나무로 11",
+    "website": "http://place.map.daum.net/19777152",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.991174320767,
+     37.5398192897675
+    ]
+   },
+   "properties": {
+    "pid": "16935637",
+    "name": "J라운지",
+    "phone": "",
+    "source": "이태원동 - 녹사평역 - 제이 라운지",
+    "address": "서울 용산구 회나무로 41",
+    "website": "http://place.map.daum.net/16935637",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987047085507,
+     37.537119512477
+    ]
+   },
+   "properties": {
+    "pid": "26972066",
+    "name": "사우스사이드팔러",
+    "phone": "02-749-9522",
+    "source": "이태원동 - 녹사평역 - 사우스 사이드 팔러",
+    "address": "서울 용산구 녹사평대로 218",
+    "website": "http://place.map.daum.net/26972066",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989238145198,
+     37.5332238052644
+    ]
+   },
+   "properties": {
+    "pid": "24879049",
+    "name": "더버뮤다",
+    "phone": "",
+    "source": "이태원동 - 녹사평역 - 더 버뮤다",
+    "address": "서울 용산구 녹사평대로 168-6",
+    "website": "http://place.map.daum.net/24879049",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98935216506945,
+     37.534623193752445
+    ]
+   },
+   "properties": {
+    "pid": "1260202008",
+    "name": "라즈무 파티오",
+    "phone": "02-337-9337",
+    "source": "이태원동 - 녹사평역 - 라즈무 파티오",
+    "address": "서울 용산구 이태원로 143-11",
+    "website": "http://place.map.daum.net/1260202008",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992718148195,
+     37.5350368849346
+    ]
+   },
+   "properties": {
+    "pid": "268714227",
+    "name": "버뮤다트라이앵글",
+    "phone": "",
+    "source": "이태원동 - 이태원역 - 버뮤다 트라이 앵글",
+    "address": "서울 용산구 이태원로27가길 46",
+    "website": "http://place.map.daum.net/268714227",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.999619848874,
+     37.5335198233385
+    ]
+   },
+   "properties": {
+    "pid": "1209066258",
+    "name": "쉬어감",
+    "phone": "",
+    "source": "이태원동 - 이태원역 - 쉬어감",
+    "address": "서울 용산구 대사관로6길 21",
+    "website": "http://place.map.daum.net/1209066258",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.001669947098,
+     37.5334080880184
+    ]
+   },
+   "properties": {
+    "pid": "27462167",
+    "name": "소하",
+    "phone": "02-792-5055",
+    "source": "이태원동 - 이태원역 - 소하",
+    "address": "서울 용산구 대사관로12길 3",
+    "website": "http://place.map.daum.net/27462167",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.935293570748,
+     37.5588706226071
+    ]
+   },
+   "properties": {
+    "pid": "16011991",
+    "name": "틸트",
+    "phone": "02-322-8279",
+    "source": "창천동 - 신촌역 - 바틸트",
+    "address": "서울 서대문구 연세로11길 27",
+    "website": "http://place.map.daum.net/16011991",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.935379794912,
+     37.5586292026362
+    ]
+   },
+   "properties": {
+    "pid": "26949719",
+    "name": "바코드",
+    "phone": "070-4786-7866",
+    "source": "창천동 - 신촌역 - 바코드",
+    "address": "서울 서대문구 연세로9길 26",
+    "website": "http://place.map.daum.net/26949719",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.936439298063,
+     37.5584459743638
+    ]
+   },
+   "properties": {
+    "pid": "15675757",
+    "name": "헤븐스도어",
+    "phone": "070-4229-7710",
+    "source": "창천동 - 신촌역 - 헤븐스도어",
+    "address": "서울 서대문구 연세로9길 7",
+    "website": "http://place.map.daum.net/15675757",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93036965600847,
+     37.56686506492475
+    ]
+   },
+   "properties": {
+    "pid": "27114079",
+    "name": "책바",
+    "phone": "02-6449-5858",
+    "source": "연희동 - 홍대입구역 - 책바",
+    "address": "서울 서대문구 연희맛로 24",
+    "website": "http://place.map.daum.net/27114079",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97294764225,
+     37.5788224842294
+    ]
+   },
+   "properties": {
+    "pid": "24654367",
+    "name": "합스카치 광화문점",
+    "phone": "02-722-0145",
+    "source": "통의동 - 경복궁역 - 합스카치",
+    "address": "서울 종로구 효자로7길 14-1",
+    "website": "http://place.map.daum.net/24654367",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.971069762174,
+     37.5752432895362
+    ]
+   },
+   "properties": {
+    "pid": "2075113598",
+    "name": "텐더바서울",
+    "phone": "02-733-8343",
+    "source": "내자동 - 경복궁역 - 텐더바",
+    "address": "서울 종로구 사직로12길 17",
+    "website": "http://place.map.daum.net/2075113598",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97790018850299,
+     37.56846567856809
+    ]
+   },
+   "properties": {
+    "pid": "7873362",
+    "name": "뭄바",
+    "phone": "",
+    "source": "태평로 1가 - 시청역 - 뭄바",
+    "address": "서울 중구 세종대로 136",
+    "website": "http://place.map.daum.net/7873362",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.980970774211,
+     37.5653595796429
+    ]
+   },
+   "properties": {
+    "pid": "11831545",
+    "name": "롯데호텔서울 피에르바",
+    "phone": "02-317-7183",
+    "source": "소공동 - 을지로입구역 - 롯데호텔 피에르 바",
+    "address": "서울 중구 을지로 30",
+    "website": "http://place.map.daum.net/11831545",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.954008325024,
+     37.5448634691232
+    ]
+   },
+   "properties": {
+    "pid": "22380774",
+    "name": "발린치",
+    "phone": "02-702-5929",
+    "source": "공덕동 - 공덕역 - 발린치",
+    "address": "서울 마포구 만리재로 23",
+    "website": "http://place.map.daum.net/22380774",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.947494911718,
+     37.5449724765191
+    ]
+   },
+   "properties": {
+    "pid": "696683794",
+    "name": "더팩토리엠 2호점",
+    "phone": "02-337-7117",
+    "source": "공덕동 - 공덕역 - 팩토리 엠",
+    "address": "서울 마포구 백범로 152",
+    "website": "http://place.map.daum.net/696683794",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041057536707,
+     37.5604958012506
+    ]
+   },
+   "properties": {
+    "pid": "1745682381",
+    "name": "더클래식",
+    "phone": "02-2282-2775",
+    "source": "행당동 왕십리역 - 더 클래식",
+    "address": "서울 성동구 마조로 31",
+    "website": "http://place.map.daum.net/1745682381",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0659852338656,
+     37.54037978853404
+    ]
+   },
+   "properties": {
+    "pid": "27596582",
+    "name": "싱글하우스",
+    "phone": "070-8866-1256",
+    "source": "자양동 - 건대입구역 - 싱글하우스",
+    "address": "서울 광진구 아차산로26길 19",
+    "website": "http://place.map.daum.net/27596582",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.875595144784,
+     37.5256011735069
+    ]
+   },
+   "properties": {
+    "pid": "14710362",
+    "name": "알콜트리",
+    "phone": "02-2642-3012",
+    "source": "목동 - 오목교역 - 알콜트리",
+    "address": "서울 양천구 목동동로 266-1",
+    "website": "http://place.map.daum.net/14710362",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.90766384948,
+     37.5189703892756
+    ]
+   },
+   "properties": {
+    "pid": "19925767",
+    "name": "칵테일컴퍼니",
+    "phone": "",
+    "source": "영등포동 - 영등포역 - 칵테일 컴퍼니",
+    "address": "서울 영등포구 영등포로46길 4",
+    "website": "http://place.map.daum.net/19925767",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.929856620271,
+     37.5200632534417
+    ]
+   },
+   "properties": {
+    "pid": "25975306",
+    "name": "글렌우드",
+    "phone": "02-780-6243",
+    "source": "여의도동 - 샛강역 - 글렌우드",
+    "address": "서울 영등포구 의사당대로1길 25",
+    "website": "http://place.map.daum.net/25975306",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.919806224104,
+     37.5504205742129
+    ]
+   },
+   "properties": {
+    "pid": "26794320",
+    "name": "더캐스크",
+    "phone": "1644-7574",
+    "source": "여의도동 - 샛강역 - 더캐스크",
+    "address": "서울 마포구 잔다리로3안길 27",
+    "website": "http://place.map.daum.net/26794320",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.008793074645,
+     37.5704928574591
+    ]
+   },
+   "properties": {
+    "pid": "179136160",
+    "name": "JW메리어트 동대문스퀘어서울 더그리핀바",
+    "phone": "02-2276-3344",
+    "source": "종로 6가 - 동대문역 - 그리핀바",
+    "address": "서울 종로구 청계천로 279",
+    "website": "http://place.map.daum.net/179136160",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.023421510983,
+     37.6394454319398
+    ]
+   },
+   "properties": {
+    "pid": "27345341",
+    "name": "낫심플",
+    "phone": "02-999-7727",
+    "source": "수유동 - 수유역 - 낫심플",
+    "address": "서울 강북구 노해로8가길 31",
+    "website": "http://place.map.daum.net/27345341",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.025016469857,
+     37.6385080802988
+    ]
+   },
+   "properties": {
+    "pid": "18829661",
+    "name": "M바",
+    "phone": "",
+    "source": "수유동 - 수유역 - 엠바",
+    "address": "서울 강북구 도봉로87길 14",
+    "website": "http://place.map.daum.net/18829661",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.044974910882,
+     37.5250058050897
+    ]
+   },
+   "properties": {
+    "pid": "25415531",
+    "name": "볼트82",
+    "phone": "02-544-9234",
+    "source": "청담동 - 압구정 로데오역 - 볼트 82",
+    "address": "서울 강남구 압구정로72길 22",
+    "website": "http://place.map.daum.net/25415531",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041129268365,
+     37.5262577978897
+    ]
+   },
+   "properties": {
+    "pid": "25689487",
+    "name": "르챔버",
+    "phone": "02-6337-2014",
+    "source": "청담동 - 압구정 로데오역 - 르챔버",
+    "address": "서울 강남구 도산대로55길 42",
+    "website": "http://place.map.daum.net/25689487",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040953023206,
+     37.5266903401031
+    ]
+   },
+   "properties": {
+    "pid": "26857068",
+    "name": "앨리스",
+    "phone": "02-511-8420",
+    "source": "청담동 - 압구정 로데오역 - 앨리스",
+    "address": "서울 강남구 도산대로55길 47",
+    "website": "http://place.map.daum.net/26857068",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041463157449,
+     37.5244989248803
+    ]
+   },
+   "properties": {
+    "pid": "26787230",
+    "name": "디브릿지",
+    "phone": "",
+    "source": "청담동 - 압구정 로데오역 - 디브릿지",
+    "address": "서울 강남구 선릉로152길 21",
+    "website": "http://place.map.daum.net/26787230",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040694566337,
+     37.5257317632514
+    ]
+   },
+   "properties": {
+    "pid": "26488168",
+    "name": "더라이온스덴 청담",
+    "phone": "02-512-1136",
+    "source": "청담동 - 압구정 로데오역 - 라이온스덴 청담",
+    "address": "서울 강남구 선릉로158길 7",
+    "website": "http://place.map.daum.net/26488168",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04253022928,
+     37.5230136934444
+    ]
+   },
+   "properties": {
+    "pid": "1669970814",
+    "name": "더라운드",
+    "phone": "02-545-4448",
+    "source": "청담동 - 압구정 로데오역 - 라운드",
+    "address": "서울 강남구 선릉로148길 37",
+    "website": "http://place.map.daum.net/1669970814",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.044048059341,
+     37.5263540535859
+    ]
+   },
+   "properties": {
+    "pid": "10842704",
+    "name": "까사델비노",
+    "phone": "02-542-8003",
+    "source": "청담동 - 압구정 로데오역 - 까사델비노",
+    "address": "서울 강남구 선릉로162길 43",
+    "website": "http://place.map.daum.net/10842704",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040776369938,
+     37.5263768525273
+    ]
+   },
+   "properties": {
+    "pid": "22282883",
+    "name": "루팡",
+    "phone": "02-511-8418",
+    "source": "청담동 - 압구정 로데오역 - 루팡",
+    "address": "서울 강남구 선릉로160길 5",
+    "website": "http://place.map.daum.net/22282883",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.045001970516,
+     37.5248544264057
+    ]
+   },
+   "properties": {
+    "pid": "27402325",
+    "name": "트웰브",
+    "phone": "",
+    "source": "청담동 - 압구정 로데오역 - 트웰브",
+    "address": "서울 강남구 압구정로72길 26",
+    "website": "http://place.map.daum.net/27402325",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.048174508348,
+     37.5255595606748
+    ]
+   },
+   "properties": {
+    "pid": "24924397",
+    "name": "셜록",
+    "phone": "070-8885-0221",
+    "source": "청담동 - 압구정 로데오역 - 셜록",
+    "address": "서울 강남구 도산대로83길 17",
+    "website": "http://place.map.daum.net/24924397",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040753040227,
+     37.5250830215187
+    ]
+   },
+   "properties": {
+    "pid": "19156631",
+    "name": "B28",
+    "phone": "",
+    "source": "청담동 - 압구정 로데오역 - B28",
+    "address": "서울 강남구 도산대로55길 24",
+    "website": "http://place.map.daum.net/19156631",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04094793659283,
+     37.52405758494858
+    ]
+   },
+   "properties": {
+    "pid": "27519035",
+    "name": "키퍼스",
+    "phone": "02-549-9992",
+    "source": "청담동 - 압구정 로데오역 - 키퍼스",
+    "address": "서울 강남구 선릉로152길 18",
+    "website": "http://place.map.daum.net/27519035",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.053460554917,
+     37.5265375764439
+    ]
+   },
+   "properties": {
+    "pid": "26632246",
+    "name": "노마드",
+    "phone": "02-511-1283",
+    "source": "청담동 - 압구정 로데오역 - 노마드",
+    "address": "서울 강남구 도산대로101길 28",
+    "website": "http://place.map.daum.net/26632246",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.036857361755,
+     37.5259600756117
+    ]
+   },
+   "properties": {
+    "pid": "702447954",
+    "name": "보일러룸",
+    "phone": "",
+    "source": "청담동 - 압구정 로데오역 - 보일러 룸",
+    "address": "서울 강남구 압구정로48길 38",
+    "website": "http://place.map.daum.net/702447954",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.038544835107,
+     37.5251666550358
+    ]
+   },
+   "properties": {
+    "pid": "1139674206",
+    "name": "미스터사이몬바",
+    "phone": "02-3445-6108",
+    "source": "신사동 - 압구정 로데오역 - 미스터 사이몬",
+    "address": "서울 강남구 선릉로155길 13-1",
+    "website": "http://place.map.daum.net/1139674206",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.037383304392,
+     37.5280141947509
+    ]
+   },
+   "properties": {
+    "pid": "15551494",
+    "name": "샴",
+    "phone": "070-4125-6413",
+    "source": "신사동 - 압구정 로데오역 - 샴",
+    "address": "서울 강남구 압구정로46길 5-6",
+    "website": "http://place.map.daum.net/15551494",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.023289811718,
+     37.522276628496
+    ]
+   },
+   "properties": {
+    "pid": "20032439",
+    "name": "페타테",
+    "phone": "02-516-3342",
+    "source": "신사동 - 신사역 - 페타테",
+    "address": "서울 강남구 압구정로14길 32",
+    "website": "http://place.map.daum.net/20032439",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.021353354672,
+     37.5230230246619
+    ]
+   },
+   "properties": {
+    "pid": "979531592",
+    "name": "몽리라운지",
+    "phone": "070-7740-3789",
+    "source": "신사동 - 신사역 - 앙코르몽리",
+    "address": "서울 강남구 압구정로8길 5",
+    "website": "http://place.map.daum.net/979531592",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035801701244,
+     37.5232393733376
+    ]
+   },
+   "properties": {
+    "pid": "24010736",
+    "name": "제이앤엘",
+    "phone": "",
+    "source": "신사동 - 압구정역 - 제이앤엘",
+    "address": "서울 강남구 도산대로45길 14",
+    "website": "http://place.map.daum.net/24010736",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026832006415,
+     37.519972913559
+    ]
+   },
+   "properties": {
+    "pid": "24583557",
+    "name": "파복스",
+    "phone": "02-3444-5684",
+    "source": "신사동 - 압구정역 - 파복스",
+    "address": "서울 강남구 논현로151길 17",
+    "website": "http://place.map.daum.net/24583557",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.025983019378,
+     37.5247988737225
+    ]
+   },
+   "properties": {
+    "pid": "10584572",
+    "name": "알렉스네스트",
+    "phone": "02-544-0150",
+    "source": "신사동 - 압구정역 - 알렉스네스트",
+    "address": "서울 강남구 압구정로20길 21",
+    "website": "http://place.map.daum.net/10584572",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.039956068465,
+     37.5155578905237
+    ]
+   },
+   "properties": {
+    "pid": "16878661",
+    "name": "15콜룸바",
+    "phone": "02-3443-1534",
+    "source": "논현동 - 강남구청역 - 15 콜룸바",
+    "address": "서울 강남구 학동로50길 16",
+    "website": "http://place.map.daum.net/16878661",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.042733796503,
+     37.5149802758311
+    ]
+   },
+   "properties": {
+    "pid": "21418771",
+    "name": "몰트바오프",
+    "phone": "02-516-6201",
+    "source": "논현동 - 강남구청역 - 바오프",
+    "address": "서울 강남구 선릉로122길 14",
+    "website": "http://place.map.daum.net/21418771",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0368875964251,
+     37.521060358029544
+    ]
+   },
+   "properties": {
+    "pid": "27144699",
+    "name": "몰트",
+    "phone": "",
+    "source": "논현동 - 강남구청역 - 몰트",
+    "address": "서울 강남구 언주로148길 29",
+    "website": "http://place.map.daum.net/27144699",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041253663082,
+     37.5220626874682
+    ]
+   },
+   "properties": {
+    "pid": "27455200",
+    "name": "믹솔로지",
+    "phone": "02-511-8214",
+    "source": "논현동 - 강남구청역 - 믹솔로지",
+    "address": "서울 강남구 도산대로58길 18",
+    "website": "http://place.map.daum.net/27455200",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02791911686111,
+     37.50739998965381
+    ]
+   },
+   "properties": {
+    "pid": "19977066",
+    "name": "지즈바",
+    "phone": "",
+    "source": "논현동 - 신논현역 - 지즈바",
+    "address": "서울 강남구 강남대로118길 61",
+    "website": "http://place.map.daum.net/19977066",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.058505908235,
+     37.5088575001708
+    ]
+   },
+   "properties": {
+    "pid": "19514179",
+    "name": "붓처스컷 삼성점",
+    "phone": "02-552-6647",
+    "source": "삼성동 - 삼성역 - 붓처스컷 삼성점",
+    "address": "서울 강남구 테헤란로87길 17",
+    "website": "http://place.map.daum.net/19514179",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.064092800923,
+     37.5083968905154
+    ]
+   },
+   "properties": {
+    "pid": "7827799",
+    "name": "더팀버하우스",
+    "phone": "02-2016-1291",
+    "source": "대치동 - 삼성역 - 파크하얏트 호텔 팀버하우스",
+    "address": "서울 강남구 테헤란로 606",
+    "website": "http://place.map.daum.net/7827799",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035923539579,
+     37.5036587169141
+    ]
+   },
+   "properties": {
+    "pid": "921537088",
+    "name": "마릴린 역삼점",
+    "phone": "02-6261-3656",
+    "source": "역삼동 - 역삼역 - 마릴린",
+    "address": "서울 강남구 논현로 528",
+    "website": "http://place.map.daum.net/921537088",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.042353123926,
+     37.5058838718506
+    ]
+   },
+   "properties": {
+    "pid": "513868403",
+    "name": "델라마노",
+    "phone": "070-7778-6476",
+    "source": "역삼동 - 선릉역 - 스피크이지 마노",
+    "address": "서울 강남구 봉은사로44길 59",
+    "website": "http://place.map.daum.net/513868403",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026437219632,
+     37.5039423345731
+    ]
+   },
+   "properties": {
+    "pid": "22614649",
+    "name": "쓰리인어베드",
+    "phone": "02-557-9255",
+    "source": "역삼동 - 신논현역 - 쓰리 인 어 베드",
+    "address": "서울 강남구 강남대로110길 19",
+    "website": "http://place.map.daum.net/22614649",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.081262850043,
+     37.5094350955787
+    ]
+   },
+   "properties": {
+    "pid": "27121387",
+    "name": "판테라",
+    "phone": "02-419-4949",
+    "source": "잠실동 - 신천역 - 판테라",
+    "address": "서울 송파구 올림픽로10길 24",
+    "website": "http://place.map.daum.net/27121387",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.083747304656,
+     37.5100568552935
+    ]
+   },
+   "properties": {
+    "pid": "15242785",
+    "name": "바코난",
+    "phone": "02-3431-6039",
+    "source": "잠실동 - 신천역 - 바코난",
+    "address": "서울 송파구 백제고분로7길 42-16",
+    "website": "http://place.map.daum.net/15242785",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.08466637811,
+     37.5106436548975
+    ]
+   },
+   "properties": {
+    "pid": "919659861",
+    "name": "비바라비다",
+    "phone": "",
+    "source": "잠실동 - 신천역 - 비바라비다",
+    "address": "서울 송파구 백제고분로7길 52",
+    "website": "http://place.map.daum.net/919659861",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05188226132702,
+     37.48651424866149
+    ]
+   },
+   "properties": {
+    "pid": "27298584",
+    "name": "시그넷",
+    "phone": "02-576-6891",
+    "source": "도곡동 - 도곡역 - 시그넷",
+    "address": "서울 강남구 언주로 118",
+    "website": "http://place.map.daum.net/27298584",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040998553646,
+     37.4775602832927
+    ]
+   },
+   "properties": {
+    "pid": "15615201",
+    "name": "바크로스비",
+    "phone": "02-576-7754",
+    "source": "양재동 - 양재역 - 바 크로스비",
+    "address": "서울 서초구 양재천로 115",
+    "website": "http://place.map.daum.net/15615201",
+    "category": "몰트 위스키"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99859490438463,
+     37.499117322811266
+    ]
+   },
+   "properties": {
+    "pid": "21555799",
+    "name": "리퀴드소울",
+    "phone": "02-533-9215",
+    "source": "반포동 - 고속터미널역 - 리퀴드 소울",
+    "address": "서울 서초구 서래로 46",
+    "website": "http://place.map.daum.net/21555799",
+    "category": "몰트 위스키"
+   }
+  }
+ ]
+}

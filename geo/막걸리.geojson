@@ -1,0 +1,1487 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.971467749625,
+     37.5765227985737
+    ]
+   },
+   "properties": {
+    "pid": "14951761",
+    "name": "체부동잔치집",
+    "phone": "02-730-5420",
+    "source": "체부동 - 경복궁역 - 체부동 잔치집",
+    "address": "서울 종로구 자하문로1길 16",
+    "website": "http://place.map.daum.net/14951761",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.970974188796,
+     37.5764866384741
+    ]
+   },
+   "properties": {
+    "pid": "15190025",
+    "name": "전대감댁",
+    "phone": "070-4202-5170",
+    "source": "체부동 - 경복궁역 - 전대감댁",
+    "address": "서울 종로구 자하문로1길 24-1",
+    "website": "http://place.map.daum.net/15190025",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.984051505867,
+     37.5771738852725
+    ]
+   },
+   "properties": {
+    "pid": "16041318",
+    "name": "산체스막걸리",
+    "phone": "02-735-0723",
+    "source": "안국동 - 안국역 - 산체스막걸리",
+    "address": "서울 종로구 윤보선길 26",
+    "website": "http://place.map.daum.net/16041318",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97873740576512,
+     37.571389251851905
+    ]
+   },
+   "properties": {
+    "pid": "27437215",
+    "name": "주유별장",
+    "phone": "02-2251-8484",
+    "source": "청진동 - 광화문역 - 주유별장",
+    "address": "서울 종로구 종로3길 17",
+    "website": "http://place.map.daum.net/27437215",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9799959907,
+     37.5704590543036
+    ]
+   },
+   "properties": {
+    "pid": "16414520",
+    "name": "청일집",
+    "phone": "02-732-2626",
+    "source": "청진동 - 광화문역 - 청일집",
+    "address": "",
+    "website": "http://place.map.daum.net/16414520",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.985275269272,
+     37.5714040738504
+    ]
+   },
+   "properties": {
+    "pid": "12447488",
+    "name": "달의뒤편",
+    "phone": "02-722-9032",
+    "source": "인사동 - 종각역 - 달의 뒤편",
+    "address": "서울 종로구 종로11길 17-17",
+    "website": "http://place.map.daum.net/12447488",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.109051227828,
+     38.0248970160928
+    ]
+   },
+   "properties": {
+    "pid": "1559029321",
+    "name": "인사동갈비",
+    "phone": "031-832-3090",
+    "source": "인사동 - 종각역 - 이갈비집",
+    "address": "경기 연천군 청산면 궁평로 17",
+    "website": "http://place.map.daum.net/1559029321",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.986003733726,
+     37.5742224747642
+    ]
+   },
+   "properties": {
+    "pid": "17408366",
+    "name": "늘마중",
+    "phone": "02-730-2985",
+    "source": "관훈동 - 종각역 - 늘마중",
+    "address": "서울 종로구 인사동8길 16-1",
+    "website": "http://place.map.daum.net/17408366",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988884275433,
+     37.5695880622254
+    ]
+   },
+   "properties": {
+    "pid": "8180421",
+    "name": "소문난경북집",
+    "phone": "02-2275-8177",
+    "source": "관수동 - 종각역 - 소문난경북집",
+    "address": "서울 종로구 삼일대로20길 16",
+    "website": "http://place.map.daum.net/8180421",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990876097683,
+     37.5729111033521
+    ]
+   },
+   "properties": {
+    "pid": "7824584",
+    "name": "대박집",
+    "phone": "02-763-5367",
+    "source": "돈의동 - 종로 3가역 - 진주 대박집",
+    "address": "서울 종로구 돈화문로11다길 14-2",
+    "website": "http://place.map.daum.net/7824584",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97070263327558,
+     37.55509754490802
+    ]
+   },
+   "properties": {
+    "pid": "21398707",
+    "name": "행운식품 롯데마트서울역점",
+    "phone": "",
+    "source": "관수동 - 종로 3가역 - 서울식품",
+    "address": "서울 중구 한강대로 405",
+    "website": "http://place.map.daum.net/21398707",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000733511961,
+     37.5706049060651
+    ]
+   },
+   "properties": {
+    "pid": "18755777",
+    "name": "순희네빈대떡",
+    "phone": "02-2264-7774",
+    "source": "종로 5가 - 종로 5가역 - 순희네 빈대떡",
+    "address": "서울 종로구 종로32길 5",
+    "website": "http://place.map.daum.net/18755777",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.000801428808,
+     37.5705184100716
+    ]
+   },
+   "properties": {
+    "pid": "12543498",
+    "name": "박가네빈대떡",
+    "phone": "02-2267-0614",
+    "source": "종로 5가 - 종로 5가역 - 박가네 빈대떡",
+    "address": "서울 종로구 종로32길 7",
+    "website": "http://place.map.daum.net/12543498",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99867747746863,
+     37.59264771033254
+    ]
+   },
+   "properties": {
+    "pid": "12178605",
+    "name": "마전터",
+    "phone": "02-765-7575",
+    "source": "성북동 - 한성대입구역 - 마전터",
+    "address": "서울 성북구 혜화로 82-2",
+    "website": "http://place.map.daum.net/12178605",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990962776188,
+     37.5675591974624
+    ]
+   },
+   "properties": {
+    "pid": "11892232",
+    "name": "원조녹두",
+    "phone": "02-2277-0241",
+    "source": "입정동 - 을지로 3가역 - 원조녹두",
+    "address": "서울 중구 을지로11길 26-2",
+    "website": "http://place.map.daum.net/11892232",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.987920566451,
+     37.5371412290647
+    ]
+   },
+   "properties": {
+    "pid": "26528156",
+    "name": "달려라개미2",
+    "phone": "02-794-5955",
+    "source": "이태원동 - 녹사평역 - 달려라개미",
+    "address": "서울 용산구 녹사평대로46길 18",
+    "website": "http://place.map.daum.net/26528156",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.992952923652,
+     37.540997917228
+    ]
+   },
+   "properties": {
+    "pid": "22894597",
+    "name": "한국술집안씨막걸리",
+    "phone": "010-9965-5112",
+    "source": "이태원동 - 녹사평역 - 안씨막걸리",
+    "address": "서울 용산구 회나무로13가길 61",
+    "website": "http://place.map.daum.net/22894597",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.004501407524,
+     37.5826168799543
+    ]
+   },
+   "properties": {
+    "pid": "14552231",
+    "name": "민들레처럼 홀씨둘 3호점",
+    "phone": "02-766-4170",
+    "source": "명륜2가 - 혜화역 - 민들레처럼",
+    "address": "서울 종로구 동숭3길 33",
+    "website": "http://place.map.daum.net/14552231",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.95370746694938,
+     37.54463629976113
+    ]
+   },
+   "properties": {
+    "pid": "25037317",
+    "name": "청학동부침개 마포본점",
+    "phone": "02-706-0603",
+    "source": "공덕동 - 공덕역 - 청학동 부침개",
+    "address": "서울 마포구 만리재로 23",
+    "website": "http://place.map.daum.net/25037317",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926974203784,
+     37.5619543868348
+    ]
+   },
+   "properties": {
+    "pid": "15742085",
+    "name": "코리아식당",
+    "phone": "02-332-3595",
+    "source": "연남동 - 홍대입구역 - 코리아식당",
+    "address": "서울 마포구 연희로 35",
+    "website": "http://place.map.daum.net/15742085",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924942480087,
+     37.5609115607045
+    ]
+   },
+   "properties": {
+    "pid": "27238568",
+    "name": "숨은골목",
+    "phone": "02-323-4633",
+    "source": "연남동 - 홍대입구역 - 숨은골목",
+    "address": "서울 마포구 동교로34길 12",
+    "website": "http://place.map.daum.net/27238568",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.928663770218,
+     37.565786455514
+    ]
+   },
+   "properties": {
+    "pid": "22424671",
+    "name": "이파리",
+    "phone": "02-333-6297",
+    "source": "연희동 - 홍대입구역 - 이파리",
+    "address": "서울 서대문구 연희맛로 4",
+    "website": "http://place.map.daum.net/22424671",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.925295947511,
+     37.5560355892071
+    ]
+   },
+   "properties": {
+    "pid": "24855991",
+    "name": "얼쑤",
+    "phone": "02-333-8897",
+    "source": "서교동 - 홍대입구역 - 얼쑤",
+    "address": "서울 마포구 어울마당로 136-3",
+    "website": "http://place.map.daum.net/24855991",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.91853172794,
+     37.5485708531968
+    ]
+   },
+   "properties": {
+    "pid": "26603664",
+    "name": "술개구리",
+    "phone": "02-322-1101",
+    "source": "서교동 - 홍대입구역 - 술개구리",
+    "address": "서울 마포구 양화로6길 77",
+    "website": "http://place.map.daum.net/26603664",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.91551183147,
+     37.5491994299031
+    ]
+   },
+   "properties": {
+    "pid": "17135791",
+    "name": "뉴욕막걸리",
+    "phone": "",
+    "source": "서교동 - 홍대입구역 - 뉴욕막걸리",
+    "address": "서울 마포구 양화로6길 21",
+    "website": "http://place.map.daum.net/17135791",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9231161708738,
+     37.552770776653865
+    ]
+   },
+   "properties": {
+    "pid": "21332528",
+    "name": "막걸리싸롱 홍대본점",
+    "phone": "02-324-1518",
+    "source": "서교동 - 홍대입구역 - 막걸리 싸롱",
+    "address": "서울 마포구 와우산로21길 12-6",
+    "website": "http://place.map.daum.net/21332528",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.918591238196,
+     37.5521208271071
+    ]
+   },
+   "properties": {
+    "pid": "23114682",
+    "name": "모우모우 홍대점",
+    "phone": "02-333-8998",
+    "source": "서교동 - 홍대입구역 - 모우모우 (이태원에도 지점이 있음)",
+    "address": "서울 마포구 잔다리로 45",
+    "website": "http://place.map.daum.net/23114682",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926664694712,
+     37.5544002358404
+    ]
+   },
+   "properties": {
+    "pid": "26463063",
+    "name": "따루포차따루주막",
+    "phone": "02-325-3322",
+    "source": "서교동 - 홍대입구역 - 따루주막",
+    "address": "서울 마포구 와우산로27길 31",
+    "website": "http://place.map.daum.net/26463063",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93555706973,
+     37.5577967782305
+    ]
+   },
+   "properties": {
+    "pid": "9851414",
+    "name": "술익는마을",
+    "phone": "02-338-1190",
+    "source": "창천동 - 신촌역 - 술익는 마을",
+    "address": "서울 서대문구 연세로7길 22",
+    "website": "http://place.map.daum.net/9851414",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.935167522824,
+     37.5580488441647
+    ]
+   },
+   "properties": {
+    "pid": "8433025",
+    "name": "송아저씨빈대떡",
+    "phone": "02-338-4919",
+    "source": "창천동 - 신촌역 - 송아저씨 빈대떡",
+    "address": "서울 서대문구 연세로7안길 29",
+    "website": "http://place.map.daum.net/8433025",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.938491819229,
+     37.5563315200082
+    ]
+   },
+   "properties": {
+    "pid": "8121543",
+    "name": "판자집",
+    "phone": "02-312-0044",
+    "source": "창천동 - 신촌역 - 판자집",
+    "address": "서울 서대문구 연세로2길 29",
+    "website": "http://place.map.daum.net/8121543",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.94916107925025,
+     37.54425240624458
+    ]
+   },
+   "properties": {
+    "pid": "26843634",
+    "name": "락희옥 마포본점",
+    "phone": "02-719-9797",
+    "source": "용강동 - 마포역 - 락희옥",
+    "address": "서울 마포구 백범로 170",
+    "website": "http://place.map.daum.net/26843634",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.939561922186,
+     37.5429720683183
+    ]
+   },
+   "properties": {
+    "pid": "14536745",
+    "name": "이박사의신동막걸리",
+    "phone": "02-702-7717",
+    "source": "용강동 - 마포역 - 이박사의 신동막걸리",
+    "address": "서울 마포구 토정로 263",
+    "website": "http://place.map.daum.net/14536745",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.945028639869,
+     37.5442073068346
+    ]
+   },
+   "properties": {
+    "pid": "20027117",
+    "name": "조선초가한끼",
+    "phone": "02-712-0080",
+    "source": "대흥동 - 대흥역 - 조선초가 한끼",
+    "address": "서울 마포구 독막로 288",
+    "website": "http://place.map.daum.net/20027117",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.94809140014,
+     37.5398622708319
+    ]
+   },
+   "properties": {
+    "pid": "27389621",
+    "name": "서울큰입탕",
+    "phone": "02-7070-090",
+    "source": "도화동 - 마포역 - 서울큰입탕",
+    "address": "서울 마포구 도화길 14-5",
+    "website": "http://place.map.daum.net/27389621",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.87517979057,
+     37.5467490081348
+    ]
+   },
+   "properties": {
+    "pid": "21233261",
+    "name": "옛날빈대떡",
+    "phone": "02-2646-4292",
+    "source": "목동 - 염창역 - 옛날빈대떡",
+    "address": "서울 양천구 공항대로 634",
+    "website": "http://place.map.daum.net/21233261",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.89441446692912,
+     37.51483626542294
+    ]
+   },
+   "properties": {
+    "pid": "13607988",
+    "name": "바로바로전집",
+    "phone": "02-2677-3177",
+    "source": "문래동 - 문래역 - 바로바로전집",
+    "address": "서울 영등포구 도림로 440-7",
+    "website": "http://place.map.daum.net/13607988",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.019255478178,
+     37.5648766090209
+    ]
+   },
+   "properties": {
+    "pid": "8656183",
+    "name": "골목길",
+    "phone": "02-2238-7650",
+    "source": "신당동 - 신당역 - 골목길",
+    "address": "서울 중구 퇴계로84길 17",
+    "website": "http://place.map.daum.net/8656183",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.067656167452,
+     37.5416815261221
+    ]
+   },
+   "properties": {
+    "pid": "22114762",
+    "name": "민들레홀씨",
+    "phone": "02-498-1319",
+    "source": "화양동 - 건대입구역 - 민들레홀씨",
+    "address": "서울 광진구 동일로22길 59",
+    "website": "http://place.map.daum.net/22114762",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.969212224641,
+     37.5446737961545
+    ]
+   },
+   "properties": {
+    "pid": "11895482",
+    "name": "이리오너라",
+    "phone": "02-714-1254",
+    "source": "청파동 - 숙대입구역 - 이리오너라",
+    "address": "서울 용산구 청파로47길 21",
+    "website": "http://place.map.daum.net/11895482",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056077830055,
+     37.5892385570598
+    ]
+   },
+   "properties": {
+    "pid": "21235804",
+    "name": "이모네왕파전",
+    "phone": "02-966-0643",
+    "source": "휘경동 - 회기역 - 이모네파전",
+    "address": "서울 동대문구 회기로28길 12-3",
+    "website": "http://place.map.daum.net/21235804",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05624082445,
+     37.5891736080596
+    ]
+   },
+   "properties": {
+    "pid": "8240165",
+    "name": "공경자 원조나그네파전",
+    "phone": "02-964-4415",
+    "source": "휘경동 - 회기역 - 나그네파전",
+    "address": "서울 동대문구 회기로28길 14",
+    "website": "http://place.map.daum.net/8240165",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056263599539,
+     37.5893465877388
+    ]
+   },
+   "properties": {
+    "pid": "16849562",
+    "name": "낙서파전",
+    "phone": "02-968-6019",
+    "source": "휘경동 - 회기역 - 낙서파전",
+    "address": "서울 동대문구 회기로28길 15",
+    "website": "http://place.map.daum.net/16849562",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056304357684,
+     37.5893429643343
+    ]
+   },
+   "properties": {
+    "pid": "8376338",
+    "name": "버드나무파전",
+    "phone": "02-968-8149",
+    "source": "휘경동 - 회기역 - 버드나무파전",
+    "address": "서울 동대문구 회기로28길 15",
+    "website": "http://place.map.daum.net/8376338",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.056413028826,
+     37.5893104767225
+    ]
+   },
+   "properties": {
+    "pid": "17317741",
+    "name": "온달파전",
+    "phone": "02-959-8999",
+    "source": "휘경동 - 회기역 - 온달파전",
+    "address": "서울 동대문구 회기로28길 17",
+    "website": "http://place.map.daum.net/17317741",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.980235803384,
+     37.4853180242071
+    ]
+   },
+   "properties": {
+    "pid": "14586281",
+    "name": "막걸리학교",
+    "phone": "02-6012-6550",
+    "source": "사당동 - 이수역 - 막걸리 학교",
+    "address": "서울 동작구 동작대로25길 41",
+    "website": "http://place.map.daum.net/14586281",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.98064883021,
+     37.4796525493038
+    ]
+   },
+   "properties": {
+    "pid": "8078768",
+    "name": "전주전집",
+    "phone": "02-581-1419",
+    "source": "사당동 - 사당역 - 전주전집",
+    "address": "서울 동작구 동작대로7길 19",
+    "website": "http://place.map.daum.net/8078768",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.945549538341,
+     37.4814075651322
+    ]
+   },
+   "properties": {
+    "pid": "16852632",
+    "name": "장군포차 봉천점",
+    "phone": "02-872-0562",
+    "source": "봉천동 - 봉천역 - 장군집",
+    "address": "서울 관악구 청룡2길 12",
+    "website": "http://place.map.daum.net/16852632",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.032206087185,
+     37.4957237268725
+    ]
+   },
+   "properties": {
+    "pid": "23777292",
+    "name": "장서는날 본점",
+    "phone": "02-567-4475",
+    "source": "역삼동 - 강남역 - 장서는날",
+    "address": "서울 강남구 강남대로78길 35",
+    "website": "http://place.map.daum.net/23777292",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035195618023,
+     37.4852567705228
+    ]
+   },
+   "properties": {
+    "pid": "25978142",
+    "name": "난지당",
+    "phone": "02-529-5508",
+    "source": "도곡동 - 양재역 - 난지당",
+    "address": "서울 강남구 강남대로42길 16",
+    "website": "http://place.map.daum.net/25978142",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.982762215939,
+     37.5717028640525
+    ]
+   },
+   "properties": {
+    "pid": "13092177",
+    "name": "열차집",
+    "phone": "02-734-2849",
+    "source": "공평동 - 종각역 - 열차집",
+    "address": "서울 종로구 종로7길 47",
+    "website": "http://place.map.daum.net/13092177",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.013183099813,
+     37.4820789148494
+    ]
+   },
+   "properties": {
+    "pid": "20043513",
+    "name": "모모코 예술의전당점",
+    "phone": "02-583-3060",
+    "source": "서초동 - 남부터미널역 - 모모코",
+    "address": "서울 서초구 반포대로4길 9",
+    "website": "http://place.map.daum.net/20043513",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026947838999,
+     37.5023492412586
+    ]
+   },
+   "properties": {
+    "pid": "11558047",
+    "name": "골목집",
+    "phone": "02-569-5979",
+    "source": "역삼동 - 강남역 - 골목집",
+    "address": "서울 강남구 봉은사로4길 40",
+    "website": "http://place.map.daum.net/11558047",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.046564261466,
+     37.5048371208584
+    ]
+   },
+   "properties": {
+    "pid": "22017472",
+    "name": "우밀가안동국시 선릉점",
+    "phone": "02-557-1855",
+    "source": "역삼동 - 강남역 - 안동국시 소담",
+    "address": "서울 강남구 선릉로93길 26",
+    "website": "http://place.map.daum.net/22017472",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02549536508,
+     37.501297188865
+    ]
+   },
+   "properties": {
+    "pid": "16906588",
+    "name": "월매네주막 강남본점",
+    "phone": "02-537-6684",
+    "source": "서초동 - 강남역 - 월매네주막",
+    "address": "서울 서초구 강남대로 437",
+    "website": "http://place.map.daum.net/16906588",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.025403816138,
+     37.4981220629255
+    ]
+   },
+   "properties": {
+    "pid": "20373259",
+    "name": "느린마을양조장 강남점",
+    "phone": "02-587-7720",
+    "source": "서초동 - 강남역 - 느린마을 양조장 (연남동 등에도 지점이 있음)",
+    "address": "서울 서초구 서초대로73길 7",
+    "website": "http://place.map.daum.net/20373259",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.065442572114,
+     37.5154023587222
+    ]
+   },
+   "properties": {
+    "pid": "7885177",
+    "name": "백세주마을 삼성점",
+    "phone": "02-546-7103",
+    "source": "삼성동 - 삼성역 - 백세주마을",
+    "address": "서울 강남구 봉은사로 641",
+    "website": "http://place.map.daum.net/7885177",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026255672307,
+     37.5022448804607
+    ]
+   },
+   "properties": {
+    "pid": "18839446",
+    "name": "셰막 강남점",
+    "phone": "02-3014-7077",
+    "source": "신사동 - 신사역 - 셰막",
+    "address": "서울 강남구 강남대로 442",
+    "website": "http://place.map.daum.net/18839446",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92902728258287,
+     37.48589727438616
+    ]
+   },
+   "properties": {
+    "pid": "20467483",
+    "name": "개미집",
+    "phone": "",
+    "source": "신사동 - 신사역 - 개미집",
+    "address": "서울 관악구 신림로67길 3-8",
+    "website": "http://place.map.daum.net/20467483",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92352122355857,
+     37.49211067034542
+    ]
+   },
+   "properties": {
+    "pid": "8052345",
+    "name": "장뚜가리",
+    "phone": "",
+    "source": "신사동 - 신사역 - 장뚜가리",
+    "address": "서울 동작구 보라매로5길 35",
+    "website": "http://place.map.daum.net/8052345",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.020071354272,
+     37.5176748956786
+    ]
+   },
+   "properties": {
+    "pid": "27287774",
+    "name": "도가",
+    "phone": "070-8242-0012",
+    "source": "신사동 - 신사역 - 도가",
+    "address": "서울 강남구 도산대로1길 16",
+    "website": "http://place.map.daum.net/27287774",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.020392714359,
+     37.5180784901448
+    ]
+   },
+   "properties": {
+    "pid": "7847225",
+    "name": "옛향기가득한 동인동 신사본점",
+    "phone": "02-516-5765",
+    "source": "신사동 - 신사역 - 동인동",
+    "address": "서울 강남구 강남대로156길 14",
+    "website": "http://place.map.daum.net/7847225",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.018469195137,
+     37.515920002166
+    ]
+   },
+   "properties": {
+    "pid": "8111276",
+    "name": "마산콧털네",
+    "phone": "02-548-9139",
+    "source": "잠원동 - 신사역 - 마산콧털네",
+    "address": "서울 서초구 나루터로 79",
+    "website": "http://place.map.daum.net/8111276",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.037074554733,
+     37.5259311755642
+    ]
+   },
+   "properties": {
+    "pid": "1151874015",
+    "name": "백곰막걸리앤양조장",
+    "phone": "02-540-7644",
+    "source": "신사동 - 압구정로데오역 - 백곰막걸리양조장",
+    "address": "서울 강남구 압구정로48길 39",
+    "website": "http://place.map.daum.net/1151874015",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035377696934,
+     37.5260866684021
+    ]
+   },
+   "properties": {
+    "pid": "14532428",
+    "name": "묵전",
+    "phone": "02-548-1461",
+    "source": "신사동 - 압구정로데오역 - 묵전",
+    "address": "서울 강남구 언주로168길 22",
+    "website": "http://place.map.daum.net/14532428",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.035893616828,
+     37.5261946329834
+    ]
+   },
+   "properties": {
+    "pid": "17361286",
+    "name": "달빛술담",
+    "phone": "02-541-8118",
+    "source": "신사동 - 압구정로데오역 - 달빛술담",
+    "address": "서울 강남구 압구정로46길 38",
+    "website": "http://place.map.daum.net/17361286",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.064555178033,
+     37.5147180842607
+    ]
+   },
+   "properties": {
+    "pid": "17317783",
+    "name": "봉화전 삼성점",
+    "phone": "02-568-0919",
+    "source": "삼성동 - 봉은사역 - 봉화전",
+    "address": "서울 강남구 봉은사로 632",
+    "website": "http://place.map.daum.net/17317783",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02383281095,
+     37.5080730965073
+    ]
+   },
+   "properties": {
+    "pid": "11518880",
+    "name": "품앗이",
+    "phone": "02-516-8146",
+    "source": "논현동 - 논현역 - 품앗이",
+    "address": "서울 강남구 학동로2길 55",
+    "website": "http://place.map.daum.net/11518880",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.019566916163,
+     37.5092415823753
+    ]
+   },
+   "properties": {
+    "pid": "27543636",
+    "name": "김숙수가게",
+    "phone": "02-540-0611",
+    "source": "반포동 - 논현역 - 김숙수가게",
+    "address": "서울 서초구 주흥길 72-9",
+    "website": "http://place.map.daum.net/27543636",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.033818628087,
+     37.5207387742577
+    ]
+   },
+   "properties": {
+    "pid": "8140834",
+    "name": "한성칼국수",
+    "phone": "02-544-0540",
+    "source": "논현동 - 학동역 - 한성칼국수",
+    "address": "서울 강남구 언주로 735",
+    "website": "http://place.map.daum.net/8140834",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.042785808681,
+     37.5109834029247
+    ]
+   },
+   "properties": {
+    "pid": "21026535",
+    "name": "달빛보쌈 논현점",
+    "phone": "02-540-7890",
+    "source": "청담동 - 강남구청역 - 달빛보쌈",
+    "address": "서울 강남구 선릉로111길 8",
+    "website": "http://place.map.daum.net/21026535",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.03926439050731,
+     37.47863699230777
+    ]
+   },
+   "properties": {
+    "pid": "14540595",
+    "name": "한우물",
+    "phone": "02-575-5298",
+    "source": "대치동 - 매봉역 - 한우물",
+    "address": "서울 서초구 강남대로 156-4",
+    "website": "http://place.map.daum.net/14540595",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05169339389,
+     37.5034690634905
+    ]
+   },
+   "properties": {
+    "pid": "21414108",
+    "name": "싸리골",
+    "phone": "02-501-9243",
+    "source": "대치동 - 선릉역 - 싸리골 빈대떡 파전",
+    "address": "서울 강남구 선릉로86길 24",
+    "website": "http://place.map.daum.net/21414108",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.084895390925,
+     37.5091225951711
+    ]
+   },
+   "properties": {
+    "pid": "16066245",
+    "name": "전전술술",
+    "phone": "02-2203-2279",
+    "source": "잠실동 - 신천역 - 전전술술",
+    "address": "서울 송파구 백제고분로15길 42",
+    "website": "http://place.map.daum.net/16066245",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.084859397798,
+     37.5092992179081
+    ]
+   },
+   "properties": {
+    "pid": "12751018",
+    "name": "멸치집",
+    "phone": "02-594-0000",
+    "source": "잠실동 - 신천역 - 멸치집",
+    "address": "서울 송파구 백제고분로15길 44",
+    "website": "http://place.map.daum.net/12751018",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.084141875804,
+     37.5109179349676
+    ]
+   },
+   "properties": {
+    "pid": "13723073",
+    "name": "동래파전",
+    "phone": "02-425-1437",
+    "source": "잠실동 - 신천역 - 동래파전",
+    "address": "서울 송파구 백제고분로7길 49",
+    "website": "http://place.map.daum.net/13723073",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.122099667814,
+     37.5299896536973
+    ]
+   },
+   "properties": {
+    "pid": "10035983",
+    "name": "평양만두집",
+    "phone": "02-488-2149",
+    "source": "성내동 - 강동구청역 - 평양만두집",
+    "address": "서울 강동구 성내로 14",
+    "website": "http://place.map.daum.net/10035983",
+    "category": "막걸리"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.144585186497,
+     37.5340800363008
+    ]
+   },
+   "properties": {
+    "pid": "27218737",
+    "name": "탁이주막",
+    "phone": "02-6368-7734",
+    "source": "둔촌동 - 둔촌동역 - 탁이주막",
+    "address": "서울 강동구 명일로 171",
+    "website": "http://place.map.daum.net/27218737",
+    "category": "막걸리"
+   }
+  }
+ ]
+}

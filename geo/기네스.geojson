@@ -1,0 +1,480 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.97429141004983,
+     37.57038641162775
+    ]
+   },
+   "properties": {
+    "pid": "1410998985",
+    "name": "하이로비어",
+    "phone": "02-752-4324",
+    "source": "신문로1가 - 광화문역 - 하이로비어",
+    "address": "서울 종로구 새문안로 87",
+    "website": "http://place.map.daum.net/1410998985",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.999769041736,
+     37.5828548278319
+    ]
+   },
+   "properties": {
+    "pid": "19575585",
+    "name": "샘쿡 별관",
+    "phone": "02-742-9202",
+    "source": "명륜4가 - 혜화역 - 샘쿡",
+    "address": "서울 종로구 대명1길 16-18",
+    "website": "http://place.map.daum.net/19575585",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02309020577,
+     37.6379354465744
+    ]
+   },
+   "properties": {
+    "pid": "8115536",
+    "name": "페넬로페",
+    "phone": "02-908-0298",
+    "source": "수유동 - 수유역 - 페넬로페",
+    "address": "서울 강북구 노해로8길 1",
+    "website": "http://place.map.daum.net/8115536",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.99276228962052,
+     37.53487290550655
+    ]
+   },
+   "properties": {
+    "pid": "11624883",
+    "name": "베이비기네스",
+    "phone": "02-792-2777",
+    "source": "이태원동 - 이태원역 - 베이비 기네스",
+    "address": "서울 용산구 이태원로27가길 45",
+    "website": "http://place.map.daum.net/11624883",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.993496655647,
+     37.5340350174352
+    ]
+   },
+   "properties": {
+    "pid": "10698167",
+    "name": "더울프하운드",
+    "phone": "02-749-7971",
+    "source": "이태원동 - 이태원역 - 더 울프 하운드",
+    "address": "서울 용산구 보광로59길 10",
+    "website": "http://place.map.daum.net/10698167",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924950352321,
+     37.5214513860644
+    ]
+   },
+   "properties": {
+    "pid": "17245905",
+    "name": "와바 여의도종합상가점",
+    "phone": "02-780-5050",
+    "source": "여의도동 - 여의도역 - 와바",
+    "address": "서울 영등포구 여의나루로 42",
+    "website": "http://place.map.daum.net/17245905",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.936195737435,
+     37.5573862703793
+    ]
+   },
+   "properties": {
+    "pid": "14750906",
+    "name": "코지",
+    "phone": "02-3141-4264",
+    "source": "도화동 - 공덕역 - COZY",
+    "address": "서울 서대문구 연세로5가길 8-3",
+    "website": "http://place.map.daum.net/14750906",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922110655547,
+     37.5500581135204
+    ]
+   },
+   "properties": {
+    "pid": "14600736",
+    "name": "샴락앤롤",
+    "phone": "02-335-7772",
+    "source": "상수동 - 상수역 - 샴락앤롤",
+    "address": "서울 마포구 와우산로17길 15",
+    "website": "http://place.map.daum.net/14600736",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.92629666614677,
+     37.55577312688557
+    ]
+   },
+   "properties": {
+    "pid": "1550010815",
+    "name": "슬로피키친온탭",
+    "phone": "02-322-2333",
+    "source": "서교동 - 홍대입구역 - 슬로피키친",
+    "address": "서울 마포구 와우산로29바길 11-3",
+    "website": "http://place.map.daum.net/1550010815",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.919806224104,
+     37.5504205742129
+    ]
+   },
+   "properties": {
+    "pid": "26794320",
+    "name": "더캐스크",
+    "phone": "1644-7574",
+    "source": "서교동 - 합정역 - 더캐스크",
+    "address": "서울 마포구 잔다리로3안길 27",
+    "website": "http://place.map.daum.net/26794320",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.919815288938,
+     37.5504097683908
+    ]
+   },
+   "properties": {
+    "pid": "20812065",
+    "name": "미담진족",
+    "phone": "02-334-7574",
+    "source": "서교동 - 합정역 - 미담진족",
+    "address": "서울 마포구 잔다리로3안길 27",
+    "website": "http://place.map.daum.net/20812065",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02792310259,
+     37.5216413180488
+    ]
+   },
+   "properties": {
+    "pid": "22047595",
+    "name": "게스후",
+    "phone": "02-547-9063",
+    "source": "신사동 - 압구정역 - 게스후",
+    "address": "서울 강남구 논현로 819",
+    "website": "http://place.map.daum.net/22047595",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.021402893627,
+     37.5221976972661
+    ]
+   },
+   "properties": {
+    "pid": "21214588",
+    "name": "레드클라우드",
+    "phone": "02-516-3385",
+    "source": "신사동 - 신사역 - 레드클라우드",
+    "address": "서울 강남구 압구정로10길 30-11",
+    "website": "http://place.map.daum.net/21214588",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.02176392763329,
+     37.518892752406735
+    ]
+   },
+   "properties": {
+    "pid": "24009564",
+    "name": "아이리쉬 레드",
+    "phone": "070-8118-2771",
+    "source": "신사동 - 신사역 - 아이리쉬 레드",
+    "address": "서울 강남구 강남대로156길 33",
+    "website": "http://place.map.daum.net/24009564",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.054788540644,
+     37.5108523048537
+    ]
+   },
+   "properties": {
+    "pid": "19037032",
+    "name": "저스트기네스",
+    "phone": "070-8161-2220",
+    "source": "삼성동 - 삼성중앙역 - 저스트기네스",
+    "address": "서울 강남구 삼성로 550",
+    "website": "http://place.map.daum.net/19037032",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.01317080649,
+     37.4893374391238
+    ]
+   },
+   "properties": {
+    "pid": "19584067",
+    "name": "저스트블랙",
+    "phone": "070-8118-1195",
+    "source": "서초동 - 교대역 - 저스트 블랙",
+    "address": "서울 서초구 서초대로50길 84-11",
+    "website": "http://place.map.daum.net/19584067",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.027854878835,
+     37.4963483295867
+    ]
+   },
+   "properties": {
+    "pid": "8187818",
+    "name": "겔라포트",
+    "phone": "02-525-0081",
+    "source": "서초동 - 강남역 - 겔라포트",
+    "address": "서울 서초구 강남대로 375",
+    "website": "http://place.map.daum.net/8187818",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.029163801709,
+     37.50064401187
+    ]
+   },
+   "properties": {
+    "pid": "14500678",
+    "name": "더블린테라스",
+    "phone": "02-555-2553",
+    "source": "역삼동 - 강남역 - 더블린 테라스",
+    "address": "서울 강남구 강남대로94길 27-15",
+    "website": "http://place.map.daum.net/14500678",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.026463687098,
+     37.5020285926583
+    ]
+   },
+   "properties": {
+    "pid": "7835959",
+    "name": "더블린",
+    "phone": "02-561-3281",
+    "source": "역삼동 - 강남역 - 더블린",
+    "address": "서울 강남구 강남대로 442",
+    "website": "http://place.map.daum.net/7835959",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.05156196102,
+     37.503115926766
+    ]
+   },
+   "properties": {
+    "pid": "23182882",
+    "name": "오징어풍경",
+    "phone": "02-501-0392",
+    "source": "대치동 - 선릉역 - 오징어풍경",
+    "address": "서울 강남구 테헤란로64길 26",
+    "website": "http://place.map.daum.net/23182882",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.032205901568,
+     37.4847566626489
+    ]
+   },
+   "properties": {
+    "pid": "16676604",
+    "name": "아이리쉬펍뷰",
+    "phone": "02-522-0445",
+    "source": "서초동 - 양재역 - 아이리쉬펍뷰",
+    "address": "서울 서초구 강남대로37길 23",
+    "website": "http://place.map.daum.net/16676604",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.95550460176,
+     37.4795160104816
+    ]
+   },
+   "properties": {
+    "pid": "24944419",
+    "name": "링고 2호점",
+    "phone": "070-8108-5318",
+    "source": "봉천동 - 서울대입구역 - 링고",
+    "address": "서울 관악구 봉천로 518-4",
+    "website": "http://place.map.daum.net/24944419",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93996686602907,
+     37.47035578751732
+    ]
+   },
+   "properties": {
+    "pid": "16992973",
+    "name": "링고",
+    "phone": "02-889-8792",
+    "source": "신림동 - 봉천역 - 링고",
+    "address": "서울 관악구 신림로 85",
+    "website": "http://place.map.daum.net/16992973",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.12485355768,
+     37.509735841554
+    ]
+   },
+   "properties": {
+    "pid": "15270329",
+    "name": "레드제플린",
+    "phone": "02-558-3031",
+    "source": "방이동 - 방이역 - 레드제플린",
+    "address": "서울 송파구 위례성대로18길 30",
+    "website": "http://place.map.daum.net/15270329",
+    "category": "기네스"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.119666952201,
+     37.4801918045867
+    ]
+   },
+   "properties": {
+    "pid": "26606026",
+    "name": "베이비기네스",
+    "phone": "02-443-2888",
+    "source": "문정동 - 문정역 - 베이비기네스",
+    "address": "서울 송파구 충민로 5",
+    "website": "http://place.map.daum.net/26606026",
+    "category": "기네스"
+   }
+  }
+ ]
+}

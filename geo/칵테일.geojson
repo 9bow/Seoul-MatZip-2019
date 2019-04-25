@@ -1,0 +1,328 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.931273151374,
+     37.5197685572383
+    ]
+   },
+   "properties": {
+    "pid": "10262097",
+    "name": "다희",
+    "phone": "02-783-9919",
+    "source": "여의도동 - 샛강역 - 다희",
+    "address": "서울 영등포구 여의대방로69길 7",
+    "website": "http://place.map.daum.net/10262097",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.023421510983,
+     37.6394454319398
+    ]
+   },
+   "properties": {
+    "pid": "27345341",
+    "name": "낫심플",
+    "phone": "02-999-7727",
+    "source": "수유동 - 수유역 - 낫심플",
+    "address": "서울 강북구 노해로8가길 31",
+    "website": "http://place.map.daum.net/27345341",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.810105297098,
+     37.572870451813
+    ]
+   },
+   "properties": {
+    "pid": "23970598",
+    "name": "더웨스트햄릿",
+    "phone": "",
+    "source": "방화동 - 개화산역 - 더웨스트 햄릿",
+    "address": "서울 강서구 양천로14길 6",
+    "website": "http://place.map.daum.net/23970598",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.922647790671,
+     37.5515397075626
+    ]
+   },
+   "properties": {
+    "pid": "1462881884",
+    "name": "소셜팩토리플러스",
+    "phone": "02-323-9580",
+    "source": "서교동 - 홍대입구역 - 팩토리",
+    "address": "서울 마포구 와우산로21길 19-19",
+    "website": "http://place.map.daum.net/1462881884",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.926394419078,
+     37.5622459496478
+    ]
+   },
+   "properties": {
+    "pid": "27462176",
+    "name": "올드패션드",
+    "phone": "",
+    "source": "연남동 - 홍대입구역 - 올드패션드",
+    "address": "서울 마포구 동교로46길 29",
+    "website": "http://place.map.daum.net/27462176",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.00170263033942,
+     37.53339486489302
+    ]
+   },
+   "properties": {
+    "pid": "18832131",
+    "name": "볼트82",
+    "phone": "",
+    "source": "한남동 - 이태원역 - 볼트 82",
+    "address": "서울 용산구 대사관로12길 3",
+    "website": "http://place.map.daum.net/18832131",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.0099212590119,
+     37.53520736521879
+    ]
+   },
+   "properties": {
+    "pid": "27338759",
+    "name": "더부즈",
+    "phone": "02-797-8002",
+    "source": "한남동 - 한남역 - 더 부즈",
+    "address": "서울 용산구 한남대로20길 47-10",
+    "website": "http://place.map.daum.net/27338759",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04134486057579,
+     37.50487600418555
+    ]
+   },
+   "properties": {
+    "pid": "20945342",
+    "name": "커피바K",
+    "phone": "",
+    "source": "한남동 - 한남역 - 커피바K",
+    "address": "서울 강남구 언주로 517",
+    "website": "http://place.map.daum.net/20945342",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.070589517646,
+     37.5421447248376
+    ]
+   },
+   "properties": {
+    "pid": "8433219",
+    "name": "스틸B",
+    "phone": "",
+    "source": "청담동 - 압구정로데오역 - 스틸",
+    "address": "서울 광진구 아차산로33길 41",
+    "website": "http://place.map.daum.net/8433219",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.04094793659283,
+     37.52405758494858
+    ]
+   },
+   "properties": {
+    "pid": "27519035",
+    "name": "키퍼스",
+    "phone": "02-549-9992",
+    "source": "청담동 - 압구정로데오역 - 키퍼스",
+    "address": "서울 강남구 선릉로152길 18",
+    "website": "http://place.map.daum.net/27519035",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040953023206,
+     37.5266903401031
+    ]
+   },
+   "properties": {
+    "pid": "26857068",
+    "name": "앨리스",
+    "phone": "02-511-8420",
+    "source": "청담동 - 압구정로데오역 - 앨리스",
+    "address": "서울 강남구 도산대로55길 47",
+    "website": "http://place.map.daum.net/26857068",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.044974910882,
+     37.5250058050897
+    ]
+   },
+   "properties": {
+    "pid": "25415531",
+    "name": "볼트82",
+    "phone": "02-544-9234",
+    "source": "청담동 - 압구정 로데오역 - 볼트 82",
+    "address": "서울 강남구 압구정로72길 22",
+    "website": "http://place.map.daum.net/25415531",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041129268365,
+     37.5262577978897
+    ]
+   },
+   "properties": {
+    "pid": "25689487",
+    "name": "르챔버",
+    "phone": "02-6337-2014",
+    "source": "청담동 - 압구정 로데오역 - 르챔버",
+    "address": "서울 강남구 도산대로55길 42",
+    "website": "http://place.map.daum.net/25689487",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040776369938,
+     37.5263768525273
+    ]
+   },
+   "properties": {
+    "pid": "22282883",
+    "name": "루팡",
+    "phone": "02-511-8418",
+    "source": "청담동 - 압구정 로데오역 - 루팡",
+    "address": "서울 강남구 선릉로160길 5",
+    "website": "http://place.map.daum.net/22282883",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.048174508348,
+     37.5255595606748
+    ]
+   },
+   "properties": {
+    "pid": "24924397",
+    "name": "셜록",
+    "phone": "070-8885-0221",
+    "source": "청담동 - 압구정 로데오역 - 셜록",
+    "address": "서울 강남구 도산대로83길 17",
+    "website": "http://place.map.daum.net/24924397",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040753040227,
+     37.5250830215187
+    ]
+   },
+   "properties": {
+    "pid": "19156631",
+    "name": "B28",
+    "phone": "",
+    "source": "청담동 - 압구정 로데오역 - B28",
+    "address": "서울 강남구 도산대로55길 24",
+    "website": "http://place.map.daum.net/19156631",
+    "category": "칵테일"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.041253663082,
+     37.5220626874682
+    ]
+   },
+   "properties": {
+    "pid": "27455200",
+    "name": "믹솔로지",
+    "phone": "02-511-8214",
+    "source": "청담동 - 강남구청역 - 믹솔로지",
+    "address": "서울 강남구 도산대로58길 18",
+    "website": "http://place.map.daum.net/27455200",
+    "category": "칵테일"
+   }
+  }
+ ]
+}

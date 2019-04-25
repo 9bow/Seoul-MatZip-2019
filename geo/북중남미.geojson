@@ -1,0 +1,385 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.997366219717,
+     37.5299950776171
+    ]
+   },
+   "properties": {
+    "pid": "1300717009",
+    "name": "베쓰푸틴",
+    "phone": "02-6015-0098",
+    "source": "이태원동 - 이태원역 - 베쓰푸틴 - 캐나다",
+    "address": "서울 용산구 보광로 72",
+    "website": "http://place.map.daum.net/1300717009",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.917539937054,
+     37.5490098519832
+    ]
+   },
+   "properties": {
+    "pid": "19264519",
+    "name": "자이온보트",
+    "phone": "070-8953-6473",
+    "source": "서교동 - 홍대입구역 - 자이온 보트 - 자메이카",
+    "address": "서울 마포구 양화로6길 57-7",
+    "website": "http://place.map.daum.net/19264519",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.989238145198,
+     37.5332238052644
+    ]
+   },
+   "properties": {
+    "pid": "24879049",
+    "name": "더버뮤다",
+    "phone": "",
+    "source": "이태원동 - 이태원역 - 버뮤다 - 쿠바",
+    "address": "서울 용산구 녹사평대로 168-6",
+    "website": "http://place.map.daum.net/24879049",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.924959609572,
+     37.5618882518359
+    ]
+   },
+   "properties": {
+    "pid": "27258202",
+    "name": "탬파 연남점",
+    "phone": "070-8156-0930",
+    "source": "연남동 - 홍대입구역 - 템파 - 쿠바",
+    "address": "서울 마포구 동교로38길 12",
+    "website": "http://place.map.daum.net/27258202",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.991718077239,
+     37.5340529261169
+    ]
+   },
+   "properties": {
+    "pid": "840026014",
+    "name": "씨릴로",
+    "phone": "02-793-3358",
+    "source": "동빙고동 - 녹사평역 - 씨릴로 (반포 파미에스테이션에도 있음) - 멕시코",
+    "address": "서울 용산구 이태원로20길 2-8",
+    "website": "http://place.map.daum.net/840026014",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.990174761387,
+     37.5346042203356
+    ]
+   },
+   "properties": {
+    "pid": "21535686",
+    "name": "바토스 이태원점",
+    "phone": "02-797-8226",
+    "source": "이태원동 - 녹사평역 - 바토스 (잠실, 가로수길, 압구정에도 있음) - 멕시코",
+    "address": "서울 용산구 이태원로15길 1",
+    "website": "http://place.map.daum.net/21535686",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.988242327975,
+     37.5344166355757
+    ]
+   },
+   "properties": {
+    "pid": "1796473441",
+    "name": "코레아노스",
+    "phone": "02-795-4427",
+    "source": "이태원동 - 녹사평역 - 코레아노스 키친 (신사역에도 있음) - 멕시코",
+    "address": "서울 용산구 녹사평대로40길 46",
+    "website": "http://place.map.daum.net/1796473441",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.993994502029,
+     37.5337106834615
+    ]
+   },
+   "properties": {
+    "pid": "8111953",
+    "name": "타코아미고",
+    "phone": "02-749-5253",
+    "source": "이태원동 - 이태원역 - 타코 아미고 - 멕시코",
+    "address": "서울 용산구 보광로 123",
+    "website": "http://place.map.daum.net/8111953",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.993505708489,
+     37.5340169979149
+    ]
+   },
+   "properties": {
+    "pid": "18454137",
+    "name": "하시엔다",
+    "phone": "070-4405-6322",
+    "source": "이태원동 - 이태원역 - 하시엔다 - 멕시코",
+    "address": "서울 용산구 보광로59길 10",
+    "website": "http://place.map.daum.net/18454137",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.921179309838,
+     37.5489799014894
+    ]
+   },
+   "properties": {
+    "pid": "100457434",
+    "name": "캑터스",
+    "phone": "02-6402-5315",
+    "source": "상수동 - 상수역 - 캑터스 - 멕시코",
+    "address": "서울 마포구 와우산로15길 40",
+    "website": "http://place.map.daum.net/100457434",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.9228006657,
+     37.5481520540427
+    ]
+   },
+   "properties": {
+    "pid": "20885402",
+    "name": "구스토타코",
+    "phone": "02-338-8226",
+    "source": "상수동 - 상수역 - 구스토타코 - 멕시코",
+    "address": "서울 마포구 와우산로 41",
+    "website": "http://place.map.daum.net/20885402",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.027128815426,
+     37.5024248843174
+    ]
+   },
+   "properties": {
+    "pid": "26557274",
+    "name": "무차초 서울",
+    "phone": "02-538-8854",
+    "source": "역삼동 - 강남역 - 무차초 - 멕시코",
+    "address": "서울 강남구 봉은사로4길 37",
+    "website": "http://place.map.daum.net/26557274",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040127042699,
+     37.4799536632207
+    ]
+   },
+   "properties": {
+    "pid": "19305786",
+    "name": "치코",
+    "phone": "070-8924-1726",
+    "source": "양재동 - 양재역 - 치코 - 멕시코",
+    "address": "서울 서초구 남부순환로356길 121",
+    "website": "http://place.map.daum.net/19305786",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.917086540493,
+     37.5496798772463
+    ]
+   },
+   "properties": {
+    "pid": "27333047",
+    "name": "비바멕시카나",
+    "phone": "02-6011-1888",
+    "source": "서교동 - 홍대입구역 - 비바멕시카나 - 멕시코",
+    "address": "서울 마포구 독막로3길 29",
+    "website": "http://place.map.daum.net/27333047",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.934836879001,
+     37.5582396735253
+    ]
+   },
+   "properties": {
+    "pid": "26524405",
+    "name": "타코로코",
+    "phone": "02-333-6469",
+    "source": "창천동 - 신촌역 - 타코로코 - 멕시코",
+    "address": "서울 서대문구 연세로7안길 34-1",
+    "website": "http://place.map.daum.net/26524405",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.040805907473,
+     37.5058303561479
+    ]
+   },
+   "properties": {
+    "pid": "27600234",
+    "name": "바네스까르네 역삼점",
+    "phone": "02-539-9599",
+    "source": "반포동 - 고속터미널역 - 바네스까르네 (왕십리역, 역삼역 근처에도 있음) - 멕시코",
+    "address": "서울 강남구 언주로 535",
+    "website": "http://place.map.daum.net/27600234",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.006193108447,
+     37.5038838621865
+    ]
+   },
+   "properties": {
+    "pid": "26930532",
+    "name": "텍사스데브라질 센트럴시티점",
+    "phone": "02-6282-5000",
+    "source": "반포동 - 고속터미널역 - 텍사스 데 브라질 - 브라질",
+    "address": "서울 서초구 사평대로 205",
+    "website": "http://place.map.daum.net/26930532",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.93735959025,
+     37.556907563045
+    ]
+   },
+   "properties": {
+    "pid": "27560694",
+    "name": "이빠네마그릴",
+    "phone": "02-365-6118",
+    "source": "창천동 - 신촌역 - 이빠네마그릴 - 브라질",
+    "address": "서울 서대문구 연세로4길 6",
+    "website": "http://place.map.daum.net/27560694",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.017655241403,
+     37.5178915223583
+    ]
+   },
+   "properties": {
+    "pid": "7908378",
+    "name": "부에노스아이레스 잠원점",
+    "phone": "02-3444-6634",
+    "source": "신사동 - 신사역 - 부에노스 아이레스 - 아르헨티나",
+    "address": "서울 서초구 강남대로107길 21",
+    "website": "http://place.map.daum.net/7908378",
+    "category": "북중남미"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     127.005829081815,
+     37.5347774773519
+    ]
+   },
+   "properties": {
+    "pid": "27256380",
+    "name": "티그레세비체리아",
+    "phone": "02-790-4511",
+    "source": "한남동 - 한남역 - 티그레 - 페루",
+    "address": "서울 용산구 대사관로31길 31",
+    "website": "http://place.map.daum.net/27256380",
+    "category": "북중남미"
+   }
+  }
+ ]
+}
