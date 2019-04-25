@@ -64,8 +64,10 @@ var main = function () {
     category: 'category',
   }
   var INITIAL_MAP_OPTION = {
-    center: [37.5662952, 126.9429262], // 서울 시청
-    zoom: 14
+    center: [37.5654808, 126.9778923], // 서울 시청
+    zoomDelta: 0.5,
+    zoomSnap: 0.5,
+    zoom: 15
   }
   var MY_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
   var MAX_POI = 230
