@@ -67,7 +67,7 @@ var main = function () {
     center: [37.5654808, 126.9778923], // 서울 시청
     zoomDelta: 0.5,
     zoomSnap: 0.5,
-    zoom: 16
+    zoom: 16.5
   }
   var MY_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
   var MAX_POI = 250
@@ -139,7 +139,7 @@ var main = function () {
 
     currentLayer = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
-        layer.bindPopup(makeMarkerPopup(feature))
+        layer.bindPopup(makeMarkerPopup(feature), { maxWidth: 200 })
       }
     }).addTo(map)
 
@@ -165,13 +165,13 @@ var main = function () {
       <b>전화</b>: <a href="tel:${item.properties.phone}">${item.properties.phone}</a> <br /> <br />
       <div>
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
-          상세정보
+          더보기
         </a>
         <a href="daummaps://route?sp=${MY_POS['lat']},${MY_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
-          Kakao 길찾기
+          길찾기
         </a>
         <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
-          Tmap 길찾기
+          길찾기
         </a>
       </div>
     </div>

@@ -96,3 +96,7 @@ body {
 .item-popup a.btn {
   color: #fff;
 }
+
+.leaflet-popup .item-popup h3 {
+  font-size: 1.1rem;
+}
