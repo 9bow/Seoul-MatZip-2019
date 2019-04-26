@@ -67,10 +67,10 @@ var main = function () {
     center: [37.5654808, 126.9778923], // 서울 시청
     zoomDelta: 0.5,
     zoomSnap: 0.5,
-    zoom: 15
+    zoom: 16
   }
   var MY_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
-  var MAX_POI = 230
+  var MAX_POI = 250
   var currentLayer
   var map = L.map('map', INITIAL_MAP_OPTION)
 
@@ -85,7 +85,7 @@ var main = function () {
   map.on('locationfound', onLocationFound)
   map.on('locationerror', onLocationError)
 
-  map.locate({ setView: true, maxZoom: 16 })
+  map.locate({ setView: true, maxZoom: 16.5 })
 
   /**
    * 메소드 목록
