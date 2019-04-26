@@ -217,7 +217,7 @@ var main = function () {
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
       if (data.features.length > MAX_POI) {
-        alert("주변에 맛집이 너무 많습니다.\n범위를 좁히거나 카테고리를 선택해주세요.")
+        alert("주변에 맛집이 너무 많습니다. 부럽네요.\n조금 지도를 확대해주세요")
         return
       }
       drawMarkers(LAYER_TYPES.init, '내 주변', data)
