@@ -67,10 +67,9 @@ var main = function () {
     center: [37.5654808, 126.9778923], // 서울 시청
     zoomDelta: 0.5,
     zoomSnap: 0.5,
-    zoom: 16.5
   }
   var MY_POS = { lat: INITIAL_MAP_OPTION['center'][0], lng: INITIAL_MAP_OPTION['center'][1] }
-  var MAX_POI = 250
+  var MAX_POI = 500
   var currentLayer
   var map = L.map('map', INITIAL_MAP_OPTION)
 
@@ -85,7 +84,7 @@ var main = function () {
   map.on('locationfound', onLocationFound)
   map.on('locationerror', onLocationError)
 
-  map.locate({ setView: true, maxZoom: 16.5 })
+  map.locate({ setView: true })
 
   /**
    * 메소드 목록
@@ -217,7 +216,7 @@ var main = function () {
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
       if (data.features.length > MAX_POI) {
-        alert("주변에 맛집이 너무 많습니다. 부럽네요.\n조금 지도를 확대해주세요")
+        alert("주변에 맛집이 너무 많습니다.\n조금 지도를 확대해주세요")
         return
       }
       drawMarkers(LAYER_TYPES.init, '내 주변', data)
@@ -238,6 +237,7 @@ var main = function () {
     }).addTo(map)
       .bindPopup("상단의 " + DEFAULT_SELECT_OPTION + "를 눌러주세요!").openPopup()
     L.circle(e.latlng, radius).addTo(map)
+    map.setZoom(15.75)
   }
 
   function onLocationError(e) {
