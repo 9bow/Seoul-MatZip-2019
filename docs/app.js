@@ -134,14 +134,24 @@ var main = function () {
   function drawMarkers(type, selected, data) {
     if (currentLayer) {
       map.removeLayer(currentLayer)
+      // map.removeLayer(currentLayer)
     }
 
-    currentLayer = L.geoJson(data, {
+    currentLayer = L.markerClusterGroup()
+
+    markers = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         layer.bindPopup(makeMarkerPopup(feature), { maxWidth: 200 })
+        // var lat = feature.geometry.coordinates[0]
+        // var lng = feature.geometry.coordinates[1]
+        // L.marker([feature.geometry.coordinates]).addTo(map);
+        // console.log('feature =>', feature.geometry.coordinates)
       }
-    }).addTo(map)
+    })
+    currentLayer.addLayer(markers)
+    map.addLayer(currentLayer)
 
+    // .addTo(map)
     $("#opener").text(`${selected} 목록 보기 (${data.features.length}곳)`)
     $('#listing').html(data.features.map(makeListElement))
 
@@ -215,10 +225,6 @@ var main = function () {
 
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
-      if (data.features.length > MAX_POI) {
-        alert("주변에 맛집이 너무 많습니다.\n조금 지도를 확대해주세요")
-        return
-      }
       drawMarkers(LAYER_TYPES.init, '내 주변', data)
     })
   }
