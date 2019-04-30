@@ -216,7 +216,16 @@ var main = function () {
     var nearDataUrl = `https://moim.at/places/within?l=${map.getBounds()._southWest.lat}&b=${map.getBounds()._southWest.lng}&r=${map.getBounds()._northEast.lat}&t=${map.getBounds()._northEast.lng}`
     $.getJSON(nearDataUrl, function (data) {
       if (data.features.length > MAX_POI) {
-        alert("주변에 맛집이 너무 많습니다.\n조금 지도를 확대해주세요")
+        $.toast({
+          heading: '',
+          text: "주변에 맛집이 너무 많습니다.<br />지도를 확대해주세요.",
+          showHideTransition: 'plain',
+          icon: 'error',
+          position: 'bottom-center',
+          hideAfter: 3000,
+          stack: false
+        })
+        map.removeLayer(currentLayer)
         return
       }
       drawMarkers(LAYER_TYPES.init, '내 주변', data)
@@ -241,7 +250,15 @@ var main = function () {
   }
 
   function onLocationError(e) {
-    alert(e.message)
+    $.toast({
+      heading: '',
+      text: e.message,
+      showHideTransition: 'plain',
+      icon: 'error',
+      position: 'bottom-center',
+      hideAfter: 3000,
+      stack: true
+    })
   }
 }
 
