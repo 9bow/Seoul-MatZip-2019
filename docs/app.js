@@ -134,7 +134,6 @@ var main = function () {
   function drawMarkers(type, selected, data) {
     if (currentLayer) {
       map.removeLayer(currentLayer)
-      // map.removeLayer(currentLayer)
     }
 
     currentLayer = L.markerClusterGroup()
@@ -142,16 +141,11 @@ var main = function () {
     markers = L.geoJson(data, {
       onEachFeature: function (feature, layer) {
         layer.bindPopup(makeMarkerPopup(feature), { maxWidth: 200 })
-        // var lat = feature.geometry.coordinates[0]
-        // var lng = feature.geometry.coordinates[1]
-        // L.marker([feature.geometry.coordinates]).addTo(map);
-        // console.log('feature =>', feature.geometry.coordinates)
       }
     })
     currentLayer.addLayer(markers)
     map.addLayer(currentLayer)
 
-    // .addTo(map)
     $("#opener").text(`${selected} 목록 보기 (${data.features.length}곳)`)
     $('#listing').html(data.features.map(makeListElement))
 
