@@ -253,7 +253,15 @@ var main = function () {
   }
 
   function onLocationError(e) {
-    alert(e.message)
+    $.toast({
+      heading: '',
+      text: e.message,
+      showHideTransition: 'plain',
+      icon: 'error',
+      position: 'bottom-center',
+      hideAfter: 3000,
+      stack: true
+    })
   }
 }
 
