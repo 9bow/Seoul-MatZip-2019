@@ -172,6 +172,16 @@ var main = function () {
    * @return {string} 팝업 element
    */
   function makeMarkerPopup(item) {
+    var isMobile = detectMobileDevice()
+    var kakaoMapURL = `daummaps://route?sp=${MY_POS['lat']},${MY_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR`
+    var TMapURL = `https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}`
+
+    if (!isMobile) {
+      // 서울 성북구 정도까지만 주소를 자릅니다
+      var cityAddress = item.properties.address.split(' ').slice(0, 2).join(' ')
+      kakaoMapURL = `https://map.kakao.com/?map_type=TYPE_MAP&q=${item.properties.name} ${cityAddress}&urlLevel=3`
+    }
+
     return `
     <div class="item-popup">
       <h3>${item.properties.name}</h3>
@@ -182,12 +192,16 @@ var main = function () {
         <a href="${item.properties.website}" target="_blank" class="btn btn-info btn-sm">
           더보기
         </a>
-        <a href="daummaps://route?sp=${MY_POS['lat']},${MY_POS['lng']}&ep=${item.geometry.coordinates[1]},${item.geometry.coordinates[0]}&by=CAR" target="_blank" class="btn btn-warning btn-sm">
-          길찾기
+        <a href="${kakaoMapURL}" target="_blank" class="btn btn-warning btn-sm">
+          카카오맵
         </a>
-        <a href="https://api2.sktelecom.com/tmap/app/routes?appKey=6293a693-53aa-4500-a330-7cc66a2e163c&name=${item.properties.name}&lon=${item.geometry.coordinates[0]}&lat=${item.geometry.coordinates[1]}" target="_blank" class="btn btn-danger btn-sm">
-          길찾기
-        </a>
+        ${
+          isMobile ?
+          `<a href="${TMapURL}" target="_blank" class="btn btn-danger btn-sm">
+            티맵
+          </a>` :
+          ''
+        }
       </div>
     </div>
     `
