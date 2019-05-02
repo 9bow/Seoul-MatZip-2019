@@ -1,3 +1,15 @@
+var detectMobileDevice = function () {
+  if (navigator.userAgent.match(/Android/i)
+    || navigator.userAgent.match(/iPhone/i)
+    || navigator.userAgent.match(/iPad/i)
+  ) {
+    return true;
+  }
+  else {
+    return false;
+  }
+}
+
 var main = function () {
   var data_url = "https://raw.githubusercontent.com/9bow/Seoul-MatZip-2019/master/geo/"
   var data = [
