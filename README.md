@@ -1,6 +1,6 @@
 # 시사플러스 2019 서울맛집 지도화
 
-### 현재 위치에서 가까운 맛집을 [mz.moim.at](https://mz.moim.at)에서 확인하실 수 있습니다. (위치 권한 필요)
+### 현재 위치에서 가까운 맛집을 [9bow.github.io/Seoul-MatZip-2019/](https://9bow.github.io/Seoul-MatZip-2019/)에서 확인하실 수 있습니다. (위치 권한 필요)
 
 ## 개요
 
@@ -95,4 +95,4 @@
 
 ## 결과 (지도 형태)
 
-* 현재 위치에서 가까운 맛집을 [mz.moim.at](https://mz.moim.at)에서 확인하실 수 있습니다. (위치 권한 필요)
+* 현재 위치에서 가까운 맛집을 [9bow.github.io/Seoul-MatZip-2019/](https://9bow.github.io/Seoul-MatZip-2019/)에서 확인하실 수 있습니다. (위치 권한 필요)
