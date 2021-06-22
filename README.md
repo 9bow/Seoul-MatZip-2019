@@ -1,6 +1,6 @@
 # 시사플러스 2019 서울맛집 지도화
 
-### 현재 위치에서 가까운 맛집을 [9bow.github.io/Seoul-MatZip-2019/](https://9bow.github.io/Seoul-MatZip-2019/)에서 확인하실 수 있습니다. (위치 권한 필요)
+### 현재 위치에서 가까운 맛집을 [mz.qasw.net](https://mz.qasw.net)에서 확인하실 수 있습니다. (위치 권한 필요)
 
 ## 개요
 
@@ -31,7 +31,7 @@
 
 * 데이터 검색을 위한 전체 코드는 [Seoul-MatZip-2019.ipynb](https://nbviewer.jupyter.org/github/9bow/Seoul-MatZip-2019/blob/master/Seoul-MatZip-2019.ipynb)에서 보실 수 있습니다.
   * Python 코드이며, 실행을 하기 위해서는 Jupyter Notebook과 Kakao API Key가 필요합니다.
-* [mz.moim.at](https://mz.moim.at)의 소스코드는 [docs/](https://github.com/9bow/Seoul-MatZip-2019/tree/master/docs)에서 보실 수 있습니다.
+* [mz.qasw.net](https://mz.qasw.net)의 소스코드는 [docs/](https://github.com/9bow/Seoul-MatZip-2019/tree/master/docs)에서 보실 수 있습니다.
 
 ## 결과 (GeoJSON 형태)
 
