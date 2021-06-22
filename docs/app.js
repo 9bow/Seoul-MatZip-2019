@@ -106,14 +106,15 @@ var main = function () {
    * 타일 레이어 추가
    */
   function initializeTileLayer() {
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
       maxZoom: 18,
       attribution: `
         Map data &copy <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors,
         <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>,
         Imagery © <a href="https://www.mapbox.com/">Mapbox</a>
       `,
-      id: 'mapbox.streets'
+      id: 'mapbox/streets-v11',
+      accessToken: 'pk.eyJ1IjoiOWJvdyIsImEiOiJja3E3encwdjQwYjViMm5vd3ExbTZidm11In0.YJzA1g7FTy8bXUbboqDtGw',
     }).addTo(map)
   }
 
